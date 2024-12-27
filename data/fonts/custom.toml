@@ -1,5 +1,5 @@
 # Font style metadata
-name = "Classic"
+name = "classic"
 
 # Optional Google font URL
 google_fonts = "family=Libre+Franklin:wght@300;600&family=DM+Sans:wght@300;400;600&family=Noto+Sans+Mono:wght@300"
