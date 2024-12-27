@@ -15,5 +15,10 @@ main:
     url: teaching/
     weight: 40    
   - name: Data
+    identifier: data
     url: data/
     weight: 50  
+  - name: Italy
+    parent: data
+    url: italy/
+    weight: 10
