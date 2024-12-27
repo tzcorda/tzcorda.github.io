@@ -20,6 +20,7 @@ role: Research Fellow
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Milan
+  via Conservatorio 7
     url: https://www.unimi.it
 
 # Short bio (displayed in user profile at end of posts)
@@ -48,6 +49,4 @@ highlight_name: true
 website: "tzcorda.github.io"
 ---
 
-Tiziana is a research fellow at the University of Milan. Her research interests include
-political regimes, foreign pressure, regime trajectories
-with a regional focus on Africa.
+>>
