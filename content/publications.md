@@ -1,41 +1,44 @@
 ---
-title: Publications
+title: ''
 date: 2024-12-27
 hide_date: true
 reading_time: false
 ---
 
-## Research
+## Current research projects
 
-Current research projects
-Authoritarianism and external actors in Africa
+### Authoritarianism and external actors in Africa
 ​As part of my post-doc project on the external dimension of authoritarian resilience in Africa, I examine how extra-regional actors/factors influence the domestic politics and policies of autocratic regimes in Africa. This consists in comparing how various forms of engagement between external actors and African regimes affect specific components of African regimes’ authoritarian resilience and/or resurgence, focusing not only on the duration of local leaderships but also on the status of a set of political rights and civil liberties and the likelihood of autocratization attempts (coups and term limits violations). 
-Sanctions, primarily in Africa and by its regional organizations
+
+### Sanctions, primarily in Africa and by its regional organizations
 In my PhD research I examined international sanctions and the domestic institutional constraints shaping sanctions effectiveness. Focusing on the African continent, I am now developing a new dataset (and related research) on sanctions in Africa, which includes measures imposed both by regional and extra-regional actors. Under this project, I am also going back to the original black-knights sanctions literature to reassess the effects of third parties' sanction-busting activities in Africa.
-The external dimension of regime support and legitimation
+
+### The external dimension of regime support and legitimation
 Any kind of political regime, whether democratic or autocratic, needs to legitimate its rule. This project focuses on external legitimation processes. It does so also by collecting original data on states' diplomatic outreach – of which high-level diplomatic visits (involving HoSGs and MFAs) are the most visible and relevant part.
-Previous projects
-VERSUS ERC project on elite behaviour, leader survival, and conflicts in Africa
+
+## Previous projects
+
+### VERSUS ERC project on elite behaviour, leader survival, and conflicts in Africa
 VERSUS was a research project of the University of Sussex (Principal Investigator: Prof. Clionadh Raleigh) supported by the European Research Council (September 2017-August 2022). VERSUS represents a new direction in political, geographic and empirical subnational studies of conflict and governance. It determines how violence erupts from political processes in varied environments and how common internal and external shocks create new trajectories of governance, violence, and potential for political resilience. My contribution mostly focused on the analysis of Ethiopia's political competition and crises after the rise of Abiy Ahmed.
 
-Political regimes in Sub-Saharan Africa
+### Political regimes in Sub-Saharan Africa
 Research funded by the Department of Social and Political Science of the University of Milan (February-September 2020) on the evolution of political regimes in Sub-Saharan Africa (book project) and on relations between EU and Africa (policy paper), ahead of the sixth summit between the European Union and the African Union.
 
-Atlante Geopolitico Treccani
+### Atlante Geopolitico Treccani
 Country profiles and analyses for the 2017, 2018, 2019 editions of the Atlante Geopolitico Treccani.
 
 ## Publications
 ### Journal articles
 
-Corda, T., and Casiraghi, M. (2024). The party politics of diplomatic engagements: Evidence from Italy. ![Italian Political Science Review / Rivista Italiana di Scienza Politica], forthcoming. 
+Corda, T., and Casiraghi, M. (2024). The party politics of diplomatic engagements: Evidence from Italy. *Italian Political Science Review / Rivista Italiana di Scienza Politica*, forthcoming. 
 
-Corda, T. (2024). In-Group We Trust, No More? How Senders’ Legitimacy Shapes the Success of Sanctions-Based Democracy Promotion, Cooperation and Conflict, online first. DOI: 10.1177/00108367241298929 
+Corda, T. (2024). In-Group We Trust, No More? How Senders’ Legitimacy Shapes the Success of Sanctions-Based Democracy Promotion, *Cooperation and Conflict*, online first. DOI: 10.1177/00108367241298929 
 ​
-Corda, T. (2023). For things to remain the same, how many things have to change? Elite continuity and change after leadership changes, Democratization, ​40(8), 1435-1454. DOI: 10.1080/13510347.2023.2189699
+Corda, T. (2023). For things to remain the same, how many things have to change? Elite continuity and change after leadership changes, *Democratization, ​40*(8), 1435-1454. DOI: 10.1080/13510347.2023.2189699
 
-Corda, T. (2022). Constraining compliance? Reconsidering the effect of domestic veto players on sanctions success, Defence and Peace Economics, 34(7): 880-892. DOI: 10.1080/10242694.2022.2158288
+Corda, T. (2022). Constraining compliance? Reconsidering the effect of domestic veto players on sanctions success, *Defence and Peace Economics, 34*(7): 880-892. DOI: 10.1080/10242694.2022.2158288
  
-Corda, T. (2016). Recovering Regional Power: The Islamic Republic under Rouhani’s Presidency, Il Politico: Rivista Italiana di Scienze Politiche, Ed.Rubbettino, LXXXI, 3:44-69. DOI: 10.1400/256134
+Corda, T. (2016). Recovering Regional Power: The Islamic Republic under Rouhani’s Presidency, *Il Politico: Rivista Italiana di Scienze Politiche, Ed.Rubbettino, LXXXI*, 3:44-69. DOI: 10.1400/256134
 
 ### Book chapters
 

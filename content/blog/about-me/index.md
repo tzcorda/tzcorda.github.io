@@ -4,7 +4,7 @@ summary: Bio
 date: 2024-12-27
 ---
 ## About me
-<p>I am a <span>Research Fellow</span>.</p>
+<p style="color:red">Make this text red.</p>
 
 I am a Research Fellow at the Department of Social and Political Sciences of the University of Milan, Italy, and Adjunct Professor at Sciences Po, France. ​Currently, I am also co-chair of the Standing Group on Political Regimes at SISP (Italian Political Science Association) and an Associate Research Fellow at ISPI. My main areas of research are authoritarianism, the analysis of political regimes' trajectories of democratization / autocratization, and the role sanctions and other forms of foreign pressure by regional organizations and extra-regional powers have on these trajectories, with a regional focus on Africa.
 
