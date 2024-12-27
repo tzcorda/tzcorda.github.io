@@ -9,9 +9,10 @@ reading_time: false
 The Diplomatic Outreach datasets track the bilateral diplomatic visits between countries, providing information on the direction of such visits, the level or seniority of the participants, and their identity. 
 
 ### Italy 
-This dataset includes information for the visits involving Italian Presidents, Prime Ministers, and Ministers of Foreign Affairs in 2000-2023.
+This dataset includes information for the visits involving Italian Presidents, Prime Ministers, and Ministers of Foreign Affairs in 2000-2023.  
 ***Cite as***: Corda, T., and Casiraghi, M. (2024). The party politics of diplomatic engagements: Evidence from Italy. Italian Political Science Review / Rivista Italiana di Scienza Politica, forthcoming. 
-This dataset is also available on Harvard Dataverse at: **doi.org/10.7910/DVN/CY7Y8Z**.
+This dataset is also available on Harvard Dataverse at: **doi.org/10.7910/DVN/CY7Y8Z** (doi.org/10.7910/DVN/CY7Y8Z).  
+*[See the data] (/italy)*
 
 Other Italy-focused datasets track more in detail:
 
