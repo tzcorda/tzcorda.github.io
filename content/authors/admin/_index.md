@@ -20,7 +20,6 @@ role: Research Fellow
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Milan
-  – name: via Conservatorio 7
     url: https://www.unimi.it
 
 # Short bio (displayed in user profile at end of posts)
