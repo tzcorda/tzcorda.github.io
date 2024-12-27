@@ -13,5 +13,5 @@ Previously, I collaborated on a research project of the University of Sussex and
 
 Now based in Italy. Long ago, also in Brussels, Tehran, and Cape Town.
 
-<div class="flourish-embed flourish-photo-slider" data-src="visualisation/20878951"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/20878951/thumbnail" width="20%" alt="" /></noscript></div>
+<div class="flourish-embed flourish-photo-slider" data-src="visualisation/20878951"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/20878951/thumbnail" style="height:50px; width:50px;" alt="" /></noscript></div>
 
