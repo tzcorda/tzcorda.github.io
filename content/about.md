@@ -1,7 +1,7 @@
 ---
 title: ''
 date: ''
-hide_date: true
+hidedate: true
 reading_time: false
 ---
 
