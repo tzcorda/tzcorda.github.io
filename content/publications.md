@@ -1,6 +1,6 @@
 ---
 title: ''
-date: 2024-12-27
+date: ''
 hide_date: true
 reading_time: false
 ---
