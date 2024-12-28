@@ -9,8 +9,8 @@ main:
   - name: About
     url: about/
     weight: 20
-  - name: Research and Publications
-    url: publications/
+  - name: Research
+    url: research/
     weight: 30
   - name: Teaching and Conferences
     url: teaching/
@@ -18,10 +18,6 @@ main:
   - name: Data
     url: data/
     weight: 50  
-  - name: Research
-    url: research
-    weight: 60  
-  - name: Research2
-    url: research2/
-    weight: 70  
+
+
 
