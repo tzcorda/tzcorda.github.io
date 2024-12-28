@@ -1,5 +1,5 @@
 ---
-title: Updates
+title: ''
 summary: Work in progress
 date: 2024-12-27
 ---
