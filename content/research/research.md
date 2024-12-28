@@ -1,11 +1,10 @@
 ---
-title: ''
+title: Research
 date: ''
 hide_date: true
 reading_time: false
 ---
 
-## 
 ### Current research projects
 
 #### Authoritarianism and external actors in Africa
@@ -27,4 +26,6 @@ Research funded by the Department of Social and Political Science of the Univers
 
 #### Atlante Geopolitico Treccani
 Country profiles and analyses for the 2017, 2018, 2019 editions of the Atlante Geopolitico Treccani.
+
+
 

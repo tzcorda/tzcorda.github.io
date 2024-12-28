@@ -19,6 +19,6 @@ main:
     url: data/
     weight: 50  
   - name: Research
-    url: research/
+    url: research
     weight: 60  
 
