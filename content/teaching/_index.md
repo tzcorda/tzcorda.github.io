@@ -94,3 +94,4 @@ July 2020. Lecturer, The African Agenda of Gulf Powers: Saudi Arabia and the UAE
 
 June 2020. International Relations Research Colloquia, University of Groningen. Paper presented: “Constraining Compliance. Explaining Sanctions Effectiveness through the Lens of Veto Players”
 
+
