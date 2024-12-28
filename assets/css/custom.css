@@ -11,6 +11,11 @@ p {
     font-weight: normal;
   }
 
+  .navbar-brand {
+    font-size: 13px;
+    font-weight: 400;
+  }
+
 .fas,
 .fab,
 .ai {
