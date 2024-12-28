@@ -21,4 +21,7 @@ main:
   - name: Research
     url: research
     weight: 60  
+  - name: Research2
+    url: research2/
+    weight: 70  
 
