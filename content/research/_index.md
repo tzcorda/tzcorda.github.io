@@ -3,7 +3,15 @@ title: ''
 date: ''
 hide_date: true
 reading_time: false
-
+kind: page
+pager: false
+editable: false
+hide_date: true
+show_date_updated: false
+reading_time: false
+commentable: false
+show_related: false
+share: false
 ---
 
 ## Current research projects
