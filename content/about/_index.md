@@ -4,6 +4,7 @@ date: ''
 hide_date: true
 reading_time: false
 ---
+{{ .TableOfContents }}
 
 ## About me
 ### Bio
