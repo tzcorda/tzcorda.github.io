@@ -5,15 +5,10 @@ p {
     font-size: 13px; 
   }
 
-  .dropdown-menu,
-  nav#navbar-main li.nav-item {
+
+  #fh5co-header #navbar .navbar-main {
     font-size: 13px;
     font-weight: normal;
-  }
-
-  #fh5co-header .navbar {
-    font-size: 13px;
-    font-weight: 400;
   }
 
 .fas,
