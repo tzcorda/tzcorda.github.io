@@ -15,12 +15,12 @@ cascade:
   - _target:
       path: /blog/**
       kind: page
-    pager: true
-    editable: true
+    pager: false
+    editable: false
     hide_date: false
     show_date_updated: false
     reading_time: false
-    commentable: true
+    commentable: false
     show_related: false
     share: false
     # Just use Breadcrumb for navigation on blog post pages?
