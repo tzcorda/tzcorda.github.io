@@ -5,6 +5,10 @@ p {
     font-size: 13px; 
   }
 
+.footnotes {
+    font-size: 0.75em;
+}
+
 
 .fas,
 .fab,

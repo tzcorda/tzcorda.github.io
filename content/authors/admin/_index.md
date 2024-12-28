@@ -34,6 +34,9 @@ profiles:
   - icon: brands/x
     url: https://twitter.com/tizianacorda
     label: Follow me on X
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: ''
   - icon: rss
     url: ./post/index.xml
     label: Subscribe to my blog via RSS feed
@@ -46,4 +49,4 @@ website: "tzcorda.github.io"
 ---
 
 Welcome
-{style="color: red"}
+
