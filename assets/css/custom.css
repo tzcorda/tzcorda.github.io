@@ -5,6 +5,11 @@ p {
     font-size: 13px; 
   }
 
+  .dropdown-menu,
+  nav#navbar-main li.nav-item {
+    font-size: 13px;
+    font-weight: normal;
+  }
 
 .fas,
 .fab,
