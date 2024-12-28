@@ -12,7 +12,7 @@ The Diplomatic Outreach datasets track the bilateral diplomatic visits between c
 This dataset includes information for the visits involving Italian Presidents, Prime Ministers, and Ministers of Foreign Affairs in 2000-2023.  
 ***Cite as***: Corda, T., and Casiraghi, M. (2024). The party politics of diplomatic engagements: Evidence from Italy. Italian Political Science Review / Rivista Italiana di Scienza Politica, forthcoming. 
 This dataset is also available on Harvard Dataverse at: **doi.org/10.7910/DVN/CY7Y8Z**.  
-*[See the data](/italy)*
+***[See the data](/data/italy)***
 
 Other Italy-focused datasets track more in detail:
 
@@ -33,7 +33,6 @@ This dataset tracks the visits involving HoSG, Ministers, Deputies, Military Rep
 The visits of the Foreign Ministers of Russia and Ukraine in 2021-2024 (late May). This dataset was developed in collaboration with Paolo Bassanelli, Pietro Borro, Charles Vallerie Dimitui, Luca Dosso, Fredi Drugman, Kamilla Kizbayeva, Tanan Bayanbat.
 ***Cite as***: Corda, T.; Bassanelli, P.; Borro, P.; Dimitui, C.V.; Dosso, L.; Drugman, F.; Kizbayeva, K.; Bayanbat, T. (2024), "Diplomatic Visits of the Ministers of Foreign Affairs of Russia and Ukraine (2021-2024)", **doi.org/10.7910/DVN/0HQS45**, Harvard Dataverse.
 
-A look at the data         
 
 ______
 
