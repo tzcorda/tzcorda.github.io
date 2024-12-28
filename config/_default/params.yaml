@@ -41,6 +41,7 @@ header:
 
 # Site footer
 footer:
+  block: minimal
   copyright:
     notice: '© 2024-{year} T Corda. This work is licensed under {license}'
     license:
