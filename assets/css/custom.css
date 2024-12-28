@@ -35,3 +35,17 @@ h4 {
     margin-bottom: 0.5rem;
 }
 
+#TableOfContents li a,
+.toc-top li a {
+    color: #9d9f9a;
+    display: block;
+    padding: 0 1.5rem;
+    line-height: 1.75;
+    font-size: 0.75em;
+}
+
+#TableOfContents li a.active {
+    font-weight: normal;
+    color: #f8c0b0;;
+}
+
