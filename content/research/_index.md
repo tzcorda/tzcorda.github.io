@@ -13,8 +13,8 @@ commentable: false
 show_related: false
 share: false
 ---
-#### Current research projects
-##### Authoritarianism and external actors in Africa
+### Current research projects
+#### Authoritarianism and external actors in Africa
 ​As part of my post-doc project on the external dimension of authoritarian resilience in Africa, I examine how extra-regional actors/factors influence the domestic politics and policies of autocratic regimes in Africa. This consists in comparing how various forms of engagement between external actors and African regimes affect specific components of African regimes’ authoritarian resilience and/or resurgence, focusing not only on the duration of local leaderships but also on the status of a set of political rights and civil liberties and the likelihood of autocratization attempts (coups and term limits violations). 
 
 #### Sanctions, primarily in Africa and by its regional organizations
@@ -23,7 +23,7 @@ In my PhD research I examined international sanctions and the domestic instituti
 #### The external dimension of regime support and legitimation
 Any kind of political regime, whether democratic or autocratic, needs to legitimate its rule. This project focuses on external legitimation processes. It does so also by collecting original data on states' diplomatic outreach – of which high-level diplomatic visits (involving HoSGs and MFAs) are the most visible and relevant part.
 
-## Previous projects
+### Previous projects
 
 #### VERSUS ERC project on elite behaviour, leader survival, and conflicts in Africa
 VERSUS was a research project of the University of Sussex (Principal Investigator: Prof. Clionadh Raleigh) supported by the European Research Council (September 2017-August 2022). VERSUS represents a new direction in political, geographic and empirical subnational studies of conflict and governance. It determines how violence erupts from political processes in varied environments and how common internal and external shocks create new trajectories of governance, violence, and potential for political resilience. My contribution mostly focused on the analysis of Ethiopia's political competition and crises after the rise of Abiy Ahmed.
@@ -34,7 +34,7 @@ Research funded by the Department of Social and Political Science of the Univers
 #### Atlante Geopolitico Treccani
 Country profiles and analyses for the 2017, 2018, 2019 editions of the Atlante Geopolitico Treccani.
 
-## Publications
+### Publications
 #### Journal articles
 
 Corda, T., and Casiraghi, M. (2024). The party politics of diplomatic engagements: Evidence from Italy. *Italian Political Science Review / Rivista Italiana di Scienza Politica*, forthcoming. 
@@ -75,7 +75,7 @@ Corda, T. (2018). Global Players in Africa. A Focus on Country-Continent Confere
  
 Corda, T., et al. (2018). Cooperazione e competizione degli attori internazionali nel Corno d’Africa, Italian Parliament, Osservatorio di Politica Internazionale del Parlamento Italiano, No. 141: 1-42.
 
-## Public engagement
+### Public engagement
 
 Regarding my non-scientific writings, 30+ policy analyses can be found online, mostly on the websites of ISPI, Treccani, and the Italian Parliament and Ministry of Foreign Affairs.
 
