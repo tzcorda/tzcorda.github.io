@@ -5,7 +5,8 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: About me
+    font-size: 5px
+  - name: About
     url: about/
     weight: 20
   - name: Research and Publications
@@ -15,7 +16,6 @@ main:
     url: teaching/
     weight: 40    
   - name: Data
-    identifier: data
     url: data/
     weight: 50  
 
