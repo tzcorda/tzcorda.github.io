@@ -13,9 +13,7 @@ commentable: false
 show_related: false
 share: false
 ---
-
 ## Current research projects
-
 #### Authoritarianism and external actors in Africa
 ​As part of my post-doc project on the external dimension of authoritarian resilience in Africa, I examine how extra-regional actors/factors influence the domestic politics and policies of autocratic regimes in Africa. This consists in comparing how various forms of engagement between external actors and African regimes affect specific components of African regimes’ authoritarian resilience and/or resurgence, focusing not only on the duration of local leaderships but also on the status of a set of political rights and civil liberties and the likelihood of autocratization attempts (coups and term limits violations). 
 
