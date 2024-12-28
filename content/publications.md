@@ -3,6 +3,9 @@ title: ''
 date: ''
 hide_date: true
 reading_time: false
+
+type: landing
+
 ---
 
 ## 
