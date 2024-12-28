@@ -29,17 +29,14 @@ bio: Work in progress
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:tz.corda@gmail.com'
-    label: E-mail Me
+    url: 'mailto:tiziana.corda@unimi.it'
+    label: E-mail me
   - icon: brands/x
     url: https://twitter.com/tizianacorda
     label: Follow me on X
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: ''
   - icon: rss
     url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
+    label: Subscribe via RSS feed
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
