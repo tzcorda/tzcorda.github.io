@@ -1,5 +1,9 @@
 
-
+#fh5co-header .navbar-brand {
+    font-size: 20px;
+    font-weight: 400;
+  }
+  
 p {
     font-family: verdana;
     font-size: 13px; 
