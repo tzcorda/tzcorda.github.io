@@ -5,9 +5,8 @@
 
 # Appearance
 appearance:
-  mode: classic
+  mode: system
   color: red
-  font-size: 0.8em
   
 
 # SEO
