@@ -27,7 +27,7 @@ cascade:
     show_breadcrumb: false
     header:
       navbar:
-        enable: true
+        enable: false
 
 ############################
 ## LANGUAGE
