@@ -9,7 +9,7 @@ last_name: Corda
 
 # Status emoji
 status:
-  icon: ⛔️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,7 +23,7 @@ organizations:
     url: https://www.unimi.it
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include autocracy and democracy, regime trajectories, foreign pressure.
+bio: Work in progress
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -33,10 +33,7 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/tizianacorda
-  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
+    label: Follow me on X
   - icon: rss
     url: ./post/index.xml
     label: Subscribe to my blog via RSS feed
