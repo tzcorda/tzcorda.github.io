@@ -4,6 +4,14 @@ date: 2024-12-27
 hide_date: true
 reading_time: false
 kind: page
+pager: false
+editable: false
+hide_date: false
+show_date_updated: false
+reading_time: false
+commentable: false
+show_related: false
+share: false
 ---
 
 ## Diplomatic Outreach datasets
