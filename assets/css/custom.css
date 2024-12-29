@@ -7,7 +7,7 @@
 
 /* Ensure the site title (brand) is also styled correctly */
 .navbar .navbar-brand {
-    font-weight: normal; /* Remove bold font */
+    font-weight: 100; /* Remove bold font */
     font-size: 18px; /* Set desired font size for the site title */
     order: -10; /* Move the site title before the menu items */
 }
@@ -19,10 +19,15 @@ body {
 }
 
 /* Ensure headings and other elements also use the new font */
-h1, h2, h3, h4, h5, h6, p, a, li, nav {
+h1, h2, h3, h4,{
     font-family: 'Libre Franklin', sans-serif;
+    font-size: 16px;
 }
 
+h5, h6, p, a, li, nav {
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 14px;
+}
 
 
 .footnotes {
