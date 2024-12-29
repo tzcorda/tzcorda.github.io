@@ -1,7 +1,7 @@
 
 /* Update the font weight for the entire navigation bar */
 .navbar {
-    font-weight: 100; /* Remove bold font */
+    font-weight: 100 !important; /* Remove bold font */
     font-size: 13px; /* Set desired font size */
 }
 

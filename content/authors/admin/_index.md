@@ -35,7 +35,7 @@ profiles:
     url: https://twitter.com/tizianacorda
     label: Follow me on X
   - icon: rss
-    url: ./post/index.xml
+    url: /index.xml
     label: Subscribe via RSS feed
 
 # Highlight the author in author lists? (true/false)
@@ -45,7 +45,6 @@ highlight_name: true
 website: "tzcorda.github.io"
 ---
 
-Discover more ⟫⟫  
-I am a Research Fellow at the University of Milan and Adjunct Professor at Sciences Po, working on authoritarian politics, democratization / autocratization, foreign pressure, with a regional focus on Africa.
+Discover more [⟫⟫](/about)  
 
 
