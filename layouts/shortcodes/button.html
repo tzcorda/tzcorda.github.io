@@ -1,21 +1,21 @@
 <a href="{{ .Get "link" }}" class="custom-button">
-  <button style="background: transparent; border: 2px solid red; border-radius: 5px;">
+  <button style="background: transparent; border: 2px solid red; border-radius: 5px; border: 1px solid red; font-family: inherit;">
     {{ .Inner }}
   </button>
 </a>
 
-# more complex:
-# <a href="{{ .Get "link" }}" class="custom-button">
-  <button style="background: transparent; border: 1px solid red; color: rgb(140, 134, 134); border-radius: 2px; text-align: center; padding: 0.1em;">
+<!-- 
+<a href="{{ .Get "link" }}" class="custom-button">
+  <button style="background: transparent; border: 1px solid red; color: rgb(140, 134, 134); border-radius: 2px; text-align: center; padding: 0.1em; font-family: inherit; ">
     {{ .Inner }}
   </button>
 </a>
 
-# <style>
+<style>
 .custom-button button:hover {
   background: rgba(255, 0, 0, 0.652);
   color: primary;
 }
 </style>
 
-
+-->
