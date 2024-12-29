@@ -19,12 +19,7 @@ role: Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: >
-      University of Milan 
-      Dept of Social and Political Sciences 
-      via Conservatorio 7 
-      21022 Milan 
-      Italy  
+  - name: University of Milan 
     url: https://www.unimi.it
 
 # Short bio (displayed in user profile at end of posts)
