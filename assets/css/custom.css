@@ -21,7 +21,6 @@ body {
 /* Ensure headings and other elements also use the new font */
 h1, h2, h3, h4, h5, h6, p, a, li, nav {
     font-family: 'Libre Franklin', sans-serif;
-    font-size: 14px;
 }
 
 
