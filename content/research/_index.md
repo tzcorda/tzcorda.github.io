@@ -81,8 +81,8 @@ Corda, T., et al. (2018). Cooperazione e competizione degli attori internazional
 
 Regarding my non-scientific writings, 30+ policy analyses can be found online, mostly on the websites of ISPI, Treccani, and the Italian Parliament and Ministry of Foreign Affairs.  
 
-Dissemination of my work also includes interviews and written contributions to national and international media such as Africa Rivista, Formiche, Huffington Post, Radio24, RaiNews/TGR, al-Monitor, Atlantic Council, O’Globo, PressTV, RT Russia Today, This Week in Africa, Yomiuri Shimbun.   
-​
+Dissemination of my work also includes interviews and written contributions to national and international media such as Africa Rivista, Formiche, Huffington Post, Radio24, RaiNews/TGR, al-Monitor, Atlantic Council, O’Globo, PressTV, RT Russia Today, This Week in Africa, Yomiuri Shimbun.  
+
 Once upon a time, I was [Outbound Tamrida](http://tizianacorda.medium.com/)
 
 

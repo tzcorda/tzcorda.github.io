@@ -39,7 +39,7 @@ Guest lecturer for the course Politics of Conflict (6 ECTS, BA/MA, Bocconi Unive
 
 ​Teaching Assistant for the course Political Science (9 ECTS, BA, University of Milan, instructor: A. Cassani)
 
-##### Other academic positions:
+##### Other academic positions
 2023-ong. Co-chair Standing Group on Political Regimes at SISP (Italian Political Science Association) 
 
 2023-ong. Representative of postdoc researchers at the Department of Social and Political Sciences, University of Milan  
