@@ -98,7 +98,7 @@ features:
 # Markdown TOC
 markup:
   tableOfContents:
-    endLevel: 4
+    endLevel: 3
     ordered: false
     startLevel: 2
 

@@ -23,5 +23,5 @@ Now based in Italy. Long ago, also in Brussels, Tehran, and Cape Town.
 
 ##### CV
 {{< details summary="Download CV" open=false altSummary="Click the arrow for full page" >}}
-<embed src="https://drive.google.com/file/d/12A9y-K0LUMwUeiWPq9IQqFa4ugQzwt_x/preview" width="600" height="480" type="application/pdf">
+<embed src="https://drive.google.com/file/d/12A9y-K0LUMwUeiWPq9IQqFa4ugQzwt_x/preview" width="700" height="400" type="application/pdf">
 {{< /details >}}
