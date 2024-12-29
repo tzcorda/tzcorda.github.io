@@ -5,7 +5,7 @@ main:
   - name: Home
     url: /
     weight: 10
-    font-size: 5px
+    font-weight: normal
   - name: About
     url: about/
     weight: 20
