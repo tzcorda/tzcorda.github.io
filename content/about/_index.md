@@ -24,5 +24,7 @@ Now based in Italy. Long ago, also in Brussels, Tehran, and Cape Town.
 ==work in progress==
 
 {{< details summary="Super Secret Text" open=false altSummary="click to close before anyone sees!" >}}
-Here you can find my CV
+Here you can find my CV:
+https://drive.google.com/file/d/12A9y-K0LUMwUeiWPq9IQqFa4ugQzwt_x/view?usp=sharing
+
 {{< /details >}}
