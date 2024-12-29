@@ -24,20 +24,11 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 20px;
 }
 
-a {
+p, a, li, nav {
     font-family: 'Libre Franklin', sans-serif;
-    font-size: 18px;
-}
-p, li, nav {
-    font-family: 'Libre Franklin', sans-serif;
-    font-size: 14px;
+    font-size: 16px;
 }
 
-nav {
-    font-family: 'Libre Franklin', sans-serif;
-    font-size: 14px;
-    font-weight: 100;
-}
 
 
 .footnotes {
