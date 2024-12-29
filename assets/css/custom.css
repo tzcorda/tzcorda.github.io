@@ -205,3 +205,13 @@ body.dark,
         display: none !important;
     }
 }
+
+#footer p a,#footer p a:visited {
+    color: #fff;
+    }
+
+details.my-custom-class > summary > * {
+    display: inline;
+    color: #a3a1a1;
+    font-weight: normal;
+}

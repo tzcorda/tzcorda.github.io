@@ -23,6 +23,6 @@ Now based in Italy. Long ago, also in Brussels, Tehran, and Cape Town.
 
 ### CV
 
-{{< details summary="Here you can find my CV" open=false altSummary="Click the arrow to open in a new page" >}}{style="color: black"}
+{{< details summary="Here you can find my CV" open=false altSummary="Click the arrow to open in a new page" >}}
 <embed src="https://drive.google.com/file/d/12A9y-K0LUMwUeiWPq9IQqFa4ugQzwt_x/preview" width="700" height="480" type="application/pdf">
 {{< /details >}}
