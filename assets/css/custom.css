@@ -12,6 +12,20 @@
     order: -10; /* Move the site title before the menu items */
 }
 
+/* Decrease the size of the footer */
+#footer {
+    padding: 10px; /* Adjust padding as needed */
+    font-size: 10px; /* Adjust font size as needed */
+}
+/* Recolor footer links to black */
+#footer a {
+    color: black;
+}
+/* Ensure visited footer links are also black */
+#footer a:visited {
+    color: black;
+}
+
 p {
     font-family: verdana;
     font-size: 14px;
