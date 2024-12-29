@@ -45,5 +45,7 @@ highlight_name: true
 website: "tzcorda.github.io"
 ---
 
-Welcome
+Discover more ⟫⟫  
+I am a Research Fellow at the University of Milan and Adjunct Professor at Sciences Po, working on authoritarian politics, democratization / autocratization, foreign pressure, with a regional focus on Africa.
+
 
