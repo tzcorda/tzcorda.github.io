@@ -42,7 +42,7 @@ Country profiles and analyses for the 2017, 2018, 2019 editions of the Atlante G
 Corda, T., and Casiraghi, M. (2024). The party politics of diplomatic engagements: Evidence from Italy. *Italian Political Science Review / Rivista Italiana di Scienza Politica*, forthcoming.  
 
 Corda, T. (2024). In-Group We Trust, No More? How Senders’ Legitimacy Shapes the Success of Sanctions-Based Democracy Promotion, *Cooperation and Conflict*, online first. DOI: 10.1177/00108367241298929  
-​
+
 Corda, T. (2023). For things to remain the same, how many things have to change? Elite continuity and change after leadership changes, *Democratization, ​40*(8), 1435-1454. DOI: 10.1080/13510347.2023.2189699  
 
 Corda, T. (2022). Constraining compliance? Reconsidering the effect of domestic veto players on sanctions success, *Defence and Peace Economics, 34*(7): 880-892. DOI: 10.1080/10242694.2022.2158288  
@@ -58,7 +58,7 @@ Corda, T. (2025). “Not one and the same. A comparison of China’s, Europe’s
 Corda, T. (2024). “Democratic Sanctions in Africa. A Reassessment of their Selective and Inconsistent Use across Multiple Senders”, in A. Bultrini, F. Giumelli, C. Portela, and M. Sossai (eds), International Sanctions in Practice: An Interdisciplinary Perspective, Routledge, pp. 161-177. ISBN: 9781032481302.  
 
 Cassani, A., Carbone, G., and Corda, T. (2024). “Sub-Saharan Africa”, in A. Croissant and L. Tomini (eds), Routledge Handbook of Autocratization, Routledge, pp. 548-563. DOI: 10.4324/9781003306900-43.  
-​
+
 Corda, T. (2021). “Not All Plain Sailing: The Highs and Lows of Iran’s Scramble for the Horn of Africa” (pp. 485-529), in F. Leandro, C. Branco, F. Caba-Maria (eds), The Geopolitics of Iran. Singapore: Palgrave Macmillan. DOI: 10.1007/978-981-16-3564-9_19  
 
 #### Book reviews and peer-reviewed policy reports [upon invitation]
