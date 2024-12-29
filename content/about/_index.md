@@ -22,3 +22,7 @@ Now based in Italy. Long ago, also in Brussels, Tehran, and Cape Town.
 
 ### CV
 ==work in progress==
+
+{{< details summary="Super Secret Text" open=false altSummary="click to close before anyone sees!" >}}
+Here you can find my CV
+{{< /details >}}
