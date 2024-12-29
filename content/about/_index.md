@@ -20,15 +20,16 @@ Previously, I collaborated on a research project of the University of Sussex and
 
 Now based in Italy. Long ago, also in Brussels, Tehran, and Cape Town.
 
-<embed src="https://drive.google.com/file/d/12A9y-K0LUMwUeiWPq9IQqFa4ugQzwt_x/preview" width="700" height="480" type="application/pdf">
 
 ### CV
-{{< spoiler text="Click to view the spoiler" >}}
-You found me!
-{{< /spoiler >}}
+
+Here 
+
 
 {{< details summary="Super Secret Text" open=false altSummary="click to close before anyone sees!" >}}
-Here you can find my CV:
-https://drive.google.com/file/d/12A9y-K0LUMwUeiWPq9IQqFa4ugQzwt_x/view?usp=sharing
+Here you can find my CV:  
+
+<embed src="https://drive.google.com/file/d/12A9y-K0LUMwUeiWPq9IQqFa4ugQzwt_x/preview" width="700" height="480" type="application/pdf">
+
 
 {{< /details >}}

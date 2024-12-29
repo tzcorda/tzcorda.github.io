@@ -15,7 +15,7 @@ sections:
         style: 'text-align: justify; font-size: 0.8em;'
       background:
         image:
-          filename: background.jpg
+          filename: ''
   - block: collection
     content:
       filters:
