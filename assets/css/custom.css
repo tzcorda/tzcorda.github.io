@@ -210,7 +210,22 @@ body.dark,
     color: #fff;
     }
 
+
+
+/* Target details element */
 details.my-custom-class {
-    color: #a3a1a1;
-    font-weight: normal;
+    color: #a3a1a1; /* Default color */
+    font-size: 16px; /* Default font size */
+}
+
+/* Target summary element */
+details.my-custom-class > summary {
+    color: #9dff47; /* Customize summary font color */
+    font-size: 18px; /* Customize summary font size */
+}
+
+/* Target inner content */
+details.my-custom-class > :not(summary) {
+    color: #b446a4; /* Customize inner content font color */
+    font-size: 14px; /* Customize inner content font size */
 }
