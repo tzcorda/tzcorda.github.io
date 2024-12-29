@@ -211,7 +211,6 @@ body.dark,
     }
 
 
-
 /* Target details element */
 details.my-custom-class {
     color: #a3a1a1; /* Default color */
@@ -220,12 +219,19 @@ details.my-custom-class {
 
 /* Target summary element */
 details.my-custom-class > summary {
-    color: #9dff47; /* Customize summary font color */
-    font-size: 18px; /* Customize summary font size */
+    color: #eb921eb2; /* Customize summary font color */
+    font-size: 16px; /* Customize summary font size */
 }
 
 /* Target inner content */
 details.my-custom-class > :not(summary) {
-    color: #b446a4; /* Customize inner content font color */
+    color: #222324; /* Customize inner content font color */
     font-size: 14px; /* Customize inner content font size */
+    background-color: #828080e3; /* Light background color for dark theme */
+}
+
+/* Dark theme adjustments for inner content */
+body.dark details.my-custom-class > :not(summary) {
+    color: #d9dde0; /* Customize inner content font color */
+    background-color: #d4d3d3b8; /* Dark background color for light theme */
 }
