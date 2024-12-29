@@ -22,19 +22,28 @@ Teaching Assistant for the course Political Science (9 ECTS, BA, University of M
 
 ##### A.Y. 2023/24
 Instructor for the course Concepts and Methods in IR (3 ECTS, MA, University of Milan)  
+
 Teaching Assistant for the course Political Science (9 ECTS, BA, University of Milan, instructor: A. Cassani)
+
 ##### A.Y. 2022/23
 Instructor for the course Research Methods in IR (3 ECTS, MA, University of Milan)  
+
 Teaching Assistant for the course Political Science (9 ECTS, BA, University of Milan, instructor: A. Cassani)
+
 ##### A.Y. 2021/22
 Instructor for the course Authoritarian Regimes Today (3 ECTS, BA/MA, University of Milan)  
+
 Instructor for the course Research Methods in International Relations (3 ECTS, MA, University of Milan)  
+
 Guest lecturer for the course Politics of Conflict (6 ECTS, BA/MA, Bocconi University, instructor: M. Casiraghi)  
+
 ​Teaching Assistant for the course Political Science (9 ECTS, BA, University of Milan, instructor: A. Cassani)
 
 ##### Other academic positions:
 2023-ong. Co-chair Standing Group on Political Regimes at SISP (Italian Political Science Association) 
+
 2023-ong. Representative of postdoc researchers at the Department of Social and Political Sciences, University of Milan  
+
 2022-ong. ​Tutor for the Degree in International Politics, Law, Economics (IPLE), University of Milan
 
 ### Conferences and lectures
