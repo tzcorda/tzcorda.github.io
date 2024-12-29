@@ -16,8 +16,8 @@ share: false
 
 ### Academic teaching
 ##### A.Y. 2024/25
-Adjunct Professor in Sanctions and the Politics of Autocratic Survival (4 ECTS, BA, Sciences Po)  
-Teaching Assistant for the course Political Science (9 ECTS, BA, University of Milan, instructor: A. Cassani)
+[x] Adjunct Professor in Sanctions and the Politics of Autocratic Survival (4 ECTS, BA, Sciences Po)  
+[x] Teaching Assistant for the course Political Science (9 ECTS, BA, University of Milan, instructor: A. Cassani)
 ##### A.Y. 2023/24
 Instructor for the course Concepts and Methods in IR (3 ECTS, MA, University of Milan)  
 Teaching Assistant for the course Political Science (9 ECTS, BA, University of Milan, instructor: A. Cassani)
