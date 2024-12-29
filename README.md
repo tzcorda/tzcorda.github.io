@@ -1,7 +1,5 @@
 # [Creator's Blog: Hugo Theme](https://github.com/HugoBlox/theme-blog)
 
-[![Screenshot](./.github/preview.png)](https://hugoblox.com/templates/)
-
 The **Creator's Blog** Hugo Theme empowers you to easily create your own _personal blog_ or _build a business around your content_.
 
 ️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, block-based website builder**, making every site truly personalized ⭐⭐⭐⭐⭐
