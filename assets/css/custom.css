@@ -1,8 +1,11 @@
 
-fh5co-header .navbar-brand {
+/* Update the font weight and position of the site title */
+.navbar-brand {
+    font-weight: normal; /* Remove bold font */
     font-size: 12px;
-    font-weight: 100;
-  }
+    order: -1; /* Move the site title before the menu items */
+}
+
 
 p {
     font-family: verdana;
