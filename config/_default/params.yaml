@@ -42,7 +42,8 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© 2024-{year} T Corda. This work is licensed under CC BY NC ND 4.0.' <br> 'For a better viewing experience, here as well as elsewhere in life, small screens and mobile devices are not recommended.' 
+    notice: '© 2024-{year} T Corda. This work is licensed under CC BY NC ND 4.0.'
+    font-size: 10px
     license:
       enable: false
       allow_derivatives: false
