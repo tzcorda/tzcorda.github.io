@@ -20,6 +20,8 @@ Previously, I collaborated on a research project of the University of Sussex and
 
 Now based in Italy. Long ago, also in Brussels, Tehran, and Cape Town.
 
+{{< button href="https://gohugo.io/" >}}Hugo{{< /button >}}
+
 
 ##### CV
 {{< details summary="Download CV" open=false altSummary="Click the arrow for full page" >}}
