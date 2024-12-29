@@ -1,5 +1,12 @@
 <a href="{{ .Get "link" }}" class="custom-button">
-  <button style="background: transparent; border: 2px solid red;">
+  <button style="background: transparent; border: 1px solid red; color: red; border-radius: 5px; text-align: center; padding: 5px 1em 5px 1em;">
     {{ .Inner }}
   </button>
 </a>
+
+<style>
+.custom-button button:hover {
+  background: transparent;
+  color: rgba(255, 0, 0, 0.652);
+}
+</style>
