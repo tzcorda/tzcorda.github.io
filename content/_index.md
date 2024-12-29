@@ -13,6 +13,9 @@ sections:
         padding: [0, 0, 0, 0]
       biography:
         style: 'text-align: justify; font-size: 0.8em;'
+        background:
+          image:
+            filename: background.jpg
   - block: collection
     content:
       filters:
