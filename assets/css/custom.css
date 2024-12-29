@@ -12,10 +12,17 @@
     order: -10; /* Move the site title before the menu items */
 }
 
-p {
-    font-family: 'Segoe UI';
-    font-size: 14px; 
-  }
+/* Apply Libre Franklin font to the entire site */
+body {
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+/* Ensure headings and other elements also use the new font */
+h1, h2, h3, h4, h5, h6, p, a, li, nav {
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+
 
 .footnotes {
     font-size: 0.75em;
