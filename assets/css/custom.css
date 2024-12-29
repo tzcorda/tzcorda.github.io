@@ -231,7 +231,7 @@ details.my-custom-class > :not(summary) {
 }
 
 /* Dark theme adjustments for inner content */
-body.dark details.my-custom-class > :not(summary) {
+.dark details.my-custom-class > :not(summary) {
     color: #ffffff; /* Customize inner content font color */
-    background-color: #7e7d7db8; /* Dark background color for light theme */
+    background-color: #242323b8; /* Dark background color for light theme */
 }

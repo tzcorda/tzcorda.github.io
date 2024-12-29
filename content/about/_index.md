@@ -23,7 +23,7 @@ Now based in Italy. Long ago, also in Brussels, Tehran, and Cape Town.
 {{< button link="https://tzcorda.github.io" >}}PDF{{< /button >}}  
 {{< line_break >}}
 
-##### CV
+### CV
 {{< details summary="Download CV" open=false altSummary="Click the arrow for full page" >}}
 
 <iframe src="https://drive.google.com/file/d/12A9y-K0LUMwUeiWPq9IQqFa4ugQzwt_x/preview" width="700" height="400" allow="autoplay"> </iframe>
