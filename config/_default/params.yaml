@@ -37,13 +37,15 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
+    show_title: true
 
 # Site footer
 footer:
   copyright:
-    notice: '© 2024-{year} T Corda. This work is licensed under {license}' 
+    notice: 'For a better viewing experience, here as well as elsewhere in life, small screens and mobile devices are not recommended.'
+    notice: '© 2024-{year} T Corda. This work is licensed under CC BY NC ND 4.0 {license}' 
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
