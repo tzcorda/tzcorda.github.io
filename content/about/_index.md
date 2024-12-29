@@ -32,6 +32,6 @@ Now based in Italy. Long ago, also in Brussels, Tehran, and Cape Town.
 
 {{< line_break >}}
 
-{{< spoiler >}}
-Hidden content!
+{{< spoiler text="Click to view the spoiler" ; font-size="10px"; >}}
+You found me!
 {{< /spoiler >}}
