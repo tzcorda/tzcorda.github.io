@@ -24,17 +24,12 @@ Now based in Italy. Long ago, also in Brussels, Tehran, and Cape Town.
 {{< line_break >}}
 
 ### CV
-{{< details summary="Download CV" open=false altSummary="Click the arrow for full page" >}}
+
+{{< details class="my-custom-class" summary="Download CV" open=false altSummary="Click the arrow for full page" >}}
+If your browser does not load the frame, click [here](https://drive.google.com/file/d/12A9y-K0LUMwUeiWPq9IQqFa4ugQzwt_x/preview)  
 
 <iframe src="https://drive.google.com/file/d/12A9y-K0LUMwUeiWPq9IQqFa4ugQzwt_x/preview" width="700" height="400" allow="autoplay"> </iframe>
 
-{{< /details >}}
-
-{{< line_break >}}
-
-
-{{< details class="my-custom-class" summary="Click to view the details" >}}
-You found me!
 {{< /details >}}
 
 {{< line_break >}}
