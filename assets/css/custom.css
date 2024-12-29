@@ -206,12 +206,11 @@ body.dark,
     }
 }
 
-#footer p a,#footer p a:visited {
+#footer p a:visited {
     color: #fff;
     }
 
-details.my-custom-class > summary > * {
-    display: inline;
+details.my-custom-class {
     color: #a3a1a1;
     font-weight: normal;
 }
