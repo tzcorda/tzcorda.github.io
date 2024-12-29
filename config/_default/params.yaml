@@ -31,9 +31,8 @@ marketing:
 header:
   navbar:
     enable: true
-    align: r
+    align: l
     font-weight: normal
-    navigation-title: true 
     show_logo: true
     show_language: false
     show_day_night: true
@@ -43,7 +42,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© 2024-{year} T Corda. This work is licensed under CC BY NC ND 4.0. For a better viewing experience, here as well as elsewhere in life, small screens and mobile devices are not recommended.' 
+    notice: '© 2024-{year} T Corda. This work is licensed under CC BY NC ND 4.0.' <br> 'For a better viewing experience, here as well as elsewhere in life, small screens and mobile devices are not recommended.' 
     license:
       enable: false
       allow_derivatives: false
