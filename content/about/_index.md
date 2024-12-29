@@ -33,7 +33,6 @@ Now based in Italy. Long ago, also in Brussels, Tehran, and Cape Town.
 {{< line_break >}}
 
 
-<details class="my-custom-class">
-<summary>Click to view the details</summary>
+{{< details class="my-custom-class" summary="Click to view the details" >}}
 You found me!
-</details>
+{{< /details >}}
