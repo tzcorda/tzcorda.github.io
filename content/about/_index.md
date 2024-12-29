@@ -29,3 +29,9 @@ Now based in Italy. Long ago, also in Brussels, Tehran, and Cape Town.
 <iframe src="https://drive.google.com/file/d/12A9y-K0LUMwUeiWPq9IQqFa4ugQzwt_x/preview" width="700" height="400" allow="autoplay"> </iframe>
 
 {{< /details >}}
+
+{{< line_break >}}
+
+{{< spoiler >}}
+Hidden content!
+{{< /spoiler >}}
