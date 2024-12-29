@@ -219,19 +219,19 @@ details.my-custom-class {
 
 /* Target summary element */
 details.my-custom-class > summary {
-    color: #eb921eb2; /* Customize summary font color */
+    color: #e96405b2; /* Customize summary font color */
     font-size: 16px; /* Customize summary font size */
 }
 
 /* Target inner content */
 details.my-custom-class > :not(summary) {
-    color: #222324; /* Customize inner content font color */
+    color: #646667; /* Customize inner content font color */
     font-size: 14px; /* Customize inner content font size */
-    background-color: #828080e3; /* Light background color for dark theme */
+    background-color: #e3e0e093; /* Light background color for dark theme */
 }
 
 /* Dark theme adjustments for inner content */
 body.dark details.my-custom-class > :not(summary) {
-    color: #d9dde0; /* Customize inner content font color */
-    background-color: #d4d3d3b8; /* Dark background color for light theme */
+    color: #ffffff; /* Customize inner content font color */
+    background-color: #7e7d7db8; /* Dark background color for light theme */
 }
