@@ -15,6 +15,7 @@
 /* Apply Libre Franklin font to the entire site */
 body {
     font-family: 'Libre Franklin', sans-serif;
+    font-size: 13px;
 }
 
 /* Ensure headings and other elements also use the new font */
