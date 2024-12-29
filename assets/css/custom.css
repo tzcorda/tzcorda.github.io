@@ -1,11 +1,16 @@
 
-/* Update the font weight and position of the site title */
-.navbar-brand {
-    font-weight: normal; /* Remove bold font */
-    font-size: 12px;
-    order: -1; /* Move the site title before the menu items */
+/* Update the font weight for the entire navigation bar */
+.navbar {
+    font-weight: lighter; /* Remove bold font */
+    font-size: 12px; /* Set desired font size */
 }
 
+/* Ensure the site title (brand) is also styled correctly */
+.navbar .navbar-brand {
+    font-weight: normal; /* Remove bold font */
+    font-size: 18px; /* Set desired font size for the site title */
+    order: -1; /* Move the site title before the menu items */
+}
 
 p {
     font-family: verdana;
