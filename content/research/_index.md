@@ -66,7 +66,7 @@ Corda, T. (2021). “Not All Plain Sailing: The Highs and Lows of Iran’s Scram
     Upon invitation 
   < /div >
 < /div >
-
+{{< line_break >}}
 Corda, T. (2024). Le sanzioni in Africa [Sanctions in Africa], Senato della Repubblica, Osservatorio di Politica Internazionale, Serie Mediterraneo Allargato, vol. 6, pp. 109-119.  
 
 Corda, T. (2023). Conflitti consensuali. I partiti italiani e gli interventi militari [Review of the book by Valerio Vignoli, Bologna: Il Mulino, 2022. 232p. €23 paperback, €15.99 e-book]. Italian Political Science Review/Rivista Italiana di Scienza Politica, ahead of print. DOI: 10.1017/ipo.2023.23  
