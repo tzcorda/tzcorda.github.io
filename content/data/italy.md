@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Italy's Diplomatic Visits
 date: 2024-12-27
 hide_date: true
 reading_time: false
