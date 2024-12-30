@@ -39,7 +39,7 @@ Other datasets track more in detail:
 {{< line_break >}}
 
 ##### Africa
-Work in progress, with research assistants from Bocconi University, University of Warwick, University of Groningen.
+==Work in progress==, with research assistants from Bocconi University, University of Warwick, University of Groningen.
 
 ##### Horn of Africa
 This dataset tracks the visits involving HoSG, Ministers, Deputies, Military Representatives of Eritrea, Ethiopia, and Sudan, respectively for the following timeframes: [DD.MM.YYYY] 01.04.2018–31.12.2020, 01.04.2018–31.12.2020, 01.04.2019–31.12.2020.  
