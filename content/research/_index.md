@@ -63,7 +63,7 @@ Corda, T. (2021). “Not All Plain Sailing: The Highs and Lows of Iran’s Scram
 
 #### Book reviews and peer-reviewed policy reports 
 {{< div class="tooltip-wrap" >}} ![info](/images/info.png) {{< div class="tooltip-content" >}}
-    Here is some content for the tooltip 
+    Upon invitation 
   {{< /div >}} 
 {{< /div >}}
 
