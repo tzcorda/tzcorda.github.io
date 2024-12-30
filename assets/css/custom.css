@@ -252,13 +252,7 @@ details.my-custom-class > :not(summary) {
 
 /* Tooltip hover */
 
-.tooltip-wrap {
-    position: relative;
-    display: inline-block;
-}
-
-.tooltip-content {
-    visibility: hidden;
+span.tooltip {
     position: absolute;
     width: 100px;
     height: 20px;
@@ -272,25 +266,5 @@ details.my-custom-class > :not(summary) {
     border-radius: 5px;
     text-shadow: rgba(0, 0, 0, 0.1) 1px 1px 1px;
     box-shadow: rgba(0, 0, 0, 0.1) 1px 1px 2px 0px;
-    z-index: 1;
 }
 
-.tooltip-content:after {
-    content: "";
-    position: absolute;
-    width: 0;
-    height: 0;
-    border-width: 5px;
-    border-style: solid;
-    border-color: rgb(255, 255, 255) transparent transparent transparent;
-    bottom: -10px;
-    left: 50%;
-    transform: translateX(-50%);
-}
-
-.tooltip-wrap:hover .tooltip-content {
-    visibility: visible;
-    opacity: 1;
-    transition: opacity 0.3s;
-}
-  
