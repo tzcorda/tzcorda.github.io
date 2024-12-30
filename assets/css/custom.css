@@ -321,8 +321,7 @@ span.tooltip:after {
     border-radius: .25rem
 }
 
-/* change links*/
-
+/* change links (it will also change name and icons of "authors" section at the bottom of each page)
 
 .prose :where(a):not(:where([class~=not-prose],[class~=not-prose] *)) {
     color: rgb(var(--color-primary-400));
@@ -337,3 +336,5 @@ span.tooltip:after {
     text-decoration-color: rgb(var(--color-primary-600)/1);
     border-radius: .09rem;
 }
+
+*/
