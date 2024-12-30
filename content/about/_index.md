@@ -20,8 +20,12 @@ Previously, I collaborated on a research project of the University of Sussex and
 
 Now based in Italy. Long ago, also in Brussels, Tehran, and Cape Town.
 
-<div class="tooltip-container">
-    <img src="assets/media/info.png" alt="Image" class="tooltip" data-tooltip="Tooltip here">
+
+<div class="tooltip-wrap">
+  <img src="/assets/media/info.png" alt="info" />
+  <div class="tooltip-content">
+    Here is some content for the tooltip
+  </div> 
 </div>
 
 
