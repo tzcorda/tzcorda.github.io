@@ -251,7 +251,6 @@ details.my-custom-class > :not(summary) {
 }
 
 /* Tooltip hover */
-
 span.tooltip {
     position: absolute;
     width: 100px;
@@ -268,3 +267,14 @@ span.tooltip {
     box-shadow: rgba(0, 0, 0, 0.1) 1px 1px 2px 0px;
 }
 
+span.tooltip:after {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-width: 10px;
+    border-style: solid;
+    border-color: #FFFFFF transparent transparent transparent;
+    top: 44px;
+    left: 50px;
+}

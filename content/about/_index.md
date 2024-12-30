@@ -20,7 +20,7 @@ Previously, I collaborated on a research project of the University of Sussex and
 
 Now based in Italy. Long ago, also in Brussels, Tehran, and Cape Town.
 
-![info](/assets/media/info.png)
+![info](https://github.com/tzcorda/tzcorda.github.io/blob/c3091a0cd726ab0c534d63e5a5a089ccc8b9651a/assets/media/info.png)
 
 <div class="tooltip-wrap">
   Hover
