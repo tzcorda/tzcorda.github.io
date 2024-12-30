@@ -4,19 +4,6 @@
   </button>
 </a>
 
-<style>
-  .custom-button button:hover {
-    background: #5a464c;
-    color: white;
-  }
-  
-  @media (prefers-color-scheme: dark) {
-    .custom-button button:hover {
-      background: #5a464c;
-      color: white;
-    }
-  }
-</style>
 
 <!-- 
 <a href="{{ .Get "link" }}" class="custom-button">
@@ -30,6 +17,21 @@
   background: rgba(255, 0, 0, 0.652);
   color: primary;
 }
+</style>
+
+...oppure
+<style>
+  .custom-button button:hover {
+    background: #5a464c;
+    color: white;
+  }
+  
+  @media (prefers-color-scheme: dark) {
+    .custom-button button:hover {
+      background: #5a464c;
+      color: white;
+    }
+  }
 </style>
 
 -->
