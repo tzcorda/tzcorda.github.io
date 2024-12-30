@@ -27,9 +27,10 @@ marketing:
     google: ''
     baidu: ''
 
-# Site header
+# Site header (add block my-navbar to customize)
 header:
   navbar:
+    block: my-navbar
     enable: true
     align: l
     show_logo: true

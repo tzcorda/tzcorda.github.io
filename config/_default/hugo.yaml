@@ -23,7 +23,7 @@ cascade:
     commentable: false
     show_related: false
     share: false
-    # Just use Breadcrumb for navigation on blog post pages?
+    # Just use Breadcrumb for navigation on blog post pages? 
     show_breadcrumb: false
     header:
       navbar:
