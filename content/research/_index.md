@@ -61,7 +61,7 @@ Cassani, A., Carbone, G., and Corda, T. (2024). “Sub-Saharan Africa”, in A. 
 
 Corda, T. (2021). “Not All Plain Sailing: The Highs and Lows of Iran’s Scramble for the Horn of Africa” (pp. 485-529), in F. Leandro, C. Branco, F. Caba-Maria (eds), The Geopolitics of Iran. Singapore: Palgrave Macmillan. DOI: 10.1007/978-981-16-3564-9_19  
 
-#### Book reviews and peer-reviewed policy reports ![info](/static/uploads/images/info.png "Upon invitation")
+#### Book reviews and peer-reviewed policy reports
 
 Corda, T. (2024). Le sanzioni in Africa [Sanctions in Africa], Senato della Repubblica, Osservatorio di Politica Internazionale, Serie Mediterraneo Allargato, vol. 6, pp. 109-119.  
 
