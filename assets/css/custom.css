@@ -225,12 +225,14 @@ body.dark,
 details.my-custom-class {
     color: #a3a1a1; /* Default color */
     font-size: 16px; /* Default font size */
+    font-family: verdana;
 }
 
 /* Target summary element */
 details.my-custom-class > summary {
     color: #4c4b4b; /* Customize summary font color */
     font-size: 16px; /* Customize summary font size */
+    font-family: verdana;
 }
 
 /* Target inner content */
@@ -238,17 +240,20 @@ details.my-custom-class > :not(summary) {
     color: #4c4b4b; /* Customize inner content font color */
     font-size: 14px; /* Customize inner content font size */
     background-color: #e3e0e032; /* Light background color for dark theme */
+    font-family: verdana;
 }
 
 /* Dark theme adjustments for summary element */
 .dark details.my-custom-class > summary {
     color: #ffffff; /* Customize summary font color */
     font-size: 16px; /* Customize summary font size */
+    font-family: verdana;
 }
 /* Dark theme adjustments for inner content */
 .dark details.my-custom-class > :not(summary) {
-    color: #f8f8f2; /* Customize inner content font color */
-    background-color: #636262; /* Dark background color for light theme */
+    color: #c5c5c3; /* Customize inner content font color */
+    background-color: #252525; /* Dark background color for light theme */
+    font-family: verdana;
 }
 
 /* Tooltip hover */
