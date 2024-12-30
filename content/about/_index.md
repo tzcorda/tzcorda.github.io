@@ -22,7 +22,7 @@ Now based in Italy. Long ago, also in Brussels, Tehran, and Cape Town.
 
 
 <div class="tooltip-wrap">
-  <img src="/assets/media/info.png" alt="info" />
+  Hover
   <div class="tooltip-content">
     Here is some content for the tooltip
   </div> 
