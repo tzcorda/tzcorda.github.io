@@ -249,3 +249,22 @@ details.my-custom-class > :not(summary) {
     color: #f8f8f2; /* Customize inner content font color */
     background-color: #636262; /* Dark background color for light theme */
 }
+
+/* Tooltip hover */
+
+.tooltip-wrap {
+    position: relative;
+  }
+  .tooltip-wrap .tooltip-content {
+    display: none;
+    position: absolute;
+    bottom: 5%;
+    left: 5%;
+    right: 5%;
+    background-color: #fff;
+    padding: .5em;
+    min-width: 10rem;
+  }
+  .tooltip-wrap:hover .tooltip-content {
+    display: block;
+  }

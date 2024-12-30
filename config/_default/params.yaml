@@ -41,7 +41,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© 2024-{year} T Corda. This work is licensed under CC BY NC ND 4.0.'
+    notice: '© 2024-{year} T Corda. Licenced under CC BY NC ND 4.0.'
     license:
       enable: false
       allow_derivatives: false

@@ -17,6 +17,16 @@
     </div>
   </nav>
 
+<!-- Highlight current page -->
+
+  {{ $currentPage := . }}
+  {{ range .Site.Menus.main }}
+      <a 
+        class="{{ if eq $currentPage.RelPermalink .URL }}active{{ end }}" 
+        href="{{ .URL }}">{{ .Name }}
+      </a>
+  {{ end }}
+
 
   <!DOCTYPE html>
 <html lang="en">
