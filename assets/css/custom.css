@@ -320,3 +320,20 @@ span.tooltip:after {
     padding: .1rem .2rem;
     border-radius: .25rem
 }
+
+/* change links*/
+
+
+.prose :where(a):not(:where([class~=not-prose],[class~=not-prose] *)) {
+    color: rgb(var(--color-primary-400));
+    text-decoration: none;
+    font-weight: 500;
+    text-decoration-color: rgb(var(--color-primary-400)/1)
+}
+
+.prose :where(a):not(:where([class~=not-prose],[class~=not-prose] *)):hover {
+    color: rgb(var(--color-primary-600)/1);
+    text-decoration: underline overline;
+    text-decoration-color: rgb(var(--color-primary-600)/1);
+    border-radius: .09rem;
+}
