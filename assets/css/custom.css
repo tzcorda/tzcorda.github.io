@@ -295,7 +295,8 @@ span.tooltip:after {
 }
 
 /*smaller font scrollbar*/
-
-.text-sm {
-    font-size: .75rem;
+/* Target specific scrollbar elements */
+.scrollbar-element {
+    font-size: 0.75rem; /* Set the desired font size */
 }
+
