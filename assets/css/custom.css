@@ -258,6 +258,7 @@ details.my-custom-class > :not(summary) {
   .tooltip-wrap .tooltip-content {
     display: none;
     position: absolute;
+    font-size: 12px;
     bottom: 5%;
     left: 5%;
     right: 5%;
