@@ -16,22 +16,22 @@ share: false
 
 ### Academic teaching
 ##### A.Y. 2024/25
-◦ Adjunct Professor in Sanctions and the Politics of Autocratic Survival (4 ECTS, BA, Sciences Po)  
-◦ Teaching Assistant for the course Political Science (9 ECTS, BA, University of Milan, instructor: A. Cassani)
+◦ Adjunct Professor 'Sanctions and the Politics of Autocratic Survival' (4 ECTS, BA, Sciences Po)  
+◦ Teaching Assistant 'Political Science' (9 ECTS, BA, University of Milan)
 
 ##### A.Y. 2023/24
-◦ Instructor for the course Concepts and Methods in IR (3 ECTS, MA, University of Milan)  
-◦ Teaching Assistant for the course Political Science (9 ECTS, BA, University of Milan, instructor: A. Cassani)
+◦ Instructor 'Concepts and Methods in IR' (3 ECTS, MA, University of Milan)  
+◦ Teaching Assistant 'Political Science' (9 ECTS, BA, University of Milan)
 
 ##### A.Y. 2022/23
-◦ Instructor for the course Research Methods in IR (3 ECTS, MA, University of Milan)  
-◦ Teaching Assistant for the course Political Science (9 ECTS, BA, University of Milan, instructor: A. Cassani)
+◦ Instructor 'Research Methods in IR' (3 ECTS, MA, University of Milan)  
+◦ Teaching Assistant 'Political Science' (9 ECTS, BA, University of Milan)
 
 ##### A.Y. 2021/22
-◦ Instructor for the course Authoritarian Regimes Today (3 ECTS, BA/MA, University of Milan)  
-◦ Instructor for the course Research Methods in International Relations (3 ECTS, MA, University of Milan)  
-◦ Guest lecturer for the course Politics of Conflict (6 ECTS, BA/MA, Bocconi University, instructor: M. Casiraghi)  
-◦ ​Teaching Assistant for the course Political Science (9 ECTS, BA, University of Milan, instructor: A. Cassani)
+◦ Instructor 'Authoritarian Regimes Today' (3 ECTS, BA/MA, University of Milan)  
+◦ Instructor 'Research Methods in International Relations' (3 ECTS, MA, University of Milan)  
+◦ Guest lecturer for the course Politics of Conflict (2 classes, 6 ECTS, BA/MA, Bocconi University, instructor: M. Casiraghi)  
+◦ ​Teaching Assistant 'Political Science' (9 ECTS, BA, University of Milan)
 
 ##### Other academic positions
 ◦ 2023-ong. Co-chair Standing Group on Political Regimes at SISP (Italian Political Science Association) 

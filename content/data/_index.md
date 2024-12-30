@@ -39,7 +39,7 @@ Other datasets track more in detail:
 {{< line_break >}}
 
 ##### Africa
-==Work in progress==, with research assistants from Bocconi University, University of Warwick, University of Groningen.
+Work in progress, with research assistants from Bocconi University, University of Warwick, University of Groningen.
 
 ##### Horn of Africa
 This dataset tracks the visits involving HoSG, Ministers, Deputies, Military Representatives of Eritrea, Ethiopia, and Sudan, respectively for the following timeframes: [DD.MM.YYYY] 01.04.2018–31.12.2020, 01.04.2018–31.12.2020, 01.04.2019–31.12.2020.  
@@ -58,9 +58,9 @@ Work in progress
 ______
 
 ### Other data used in publications
-**Africa's trade by extra-regional partner and sector** 
+==PUBLICATION== **Africa's trade by extra-regional partner and sector** 
 
-**​Cite as**: Corda, T. (2025). “Not one and the same. A comparison of China’s, Europe’s, and other extra-regional powers’ economic relations with Africa”, in Y. Li, ​F. Leandro, J.T. da Silva, C. Rodrigues (eds), Palgrave Handbook on China-Europe-Africa Rela@ons: Legacies and the New International Order, Palgrave Macmillan, Chapter 43, ISBN: 978-981-97-5639-1
+**​Cite as**: Corda, T. (2025). “Not one and the same. A comparison of China’s, Europe’s, and other extra-regional powers’ economic relations with Africa”, in Y. Li, ​F. Leandro, J.T. da Silva, C. Rodrigues (eds), Palgrave Handbook on China-Europe-Africa Relations: Legacies and the New International Order, Palgrave Macmillan, Chapter 43, ISBN: 978-981-97-5639-1
 
 {{< details class="my-custom-class" summary="A look at the data" open=false altSummary="Click again to close" >}}  
 
