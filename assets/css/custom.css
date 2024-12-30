@@ -283,7 +283,7 @@ span.tooltip:after {
 .nav-link {
     display: block;
     padding: .75rem;
-    font-weight: 200;
+    font-weight: 300;
     -webkit-transition-property: color,background-color,border-color,text-decoration-color,fill,stroke,opacity,-webkit-box-shadow,-webkit-transform,-webkit-filter,-webkit-backdrop-filter;
     transition-property: color,background-color,border-color,text-decoration-color,fill,stroke,opacity,-webkit-box-shadow,-webkit-transform,-webkit-filter,-webkit-backdrop-filter;
     transition-property: color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter;
@@ -296,7 +296,7 @@ span.tooltip:after {
 
 /*smaller font scrollbar*/
 /* Target specific scrollbar elements */
-.scrollbar-element {
-    font-size: 0.75rem; /* Set the desired font size */
+.hb-scrollbar {
+    font-size: 0.8rem;
+    font-weight: 300;
 }
-

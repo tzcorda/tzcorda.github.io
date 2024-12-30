@@ -12,7 +12,6 @@ reading_time: false
 commentable: false
 show_related: false
 share: false
-show_breadcrumb: true
 
 ---
 ### Bio
