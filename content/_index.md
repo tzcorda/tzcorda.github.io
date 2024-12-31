@@ -15,7 +15,7 @@ sections:
         style: 'text-align: centre; font-size: 0.8em;'
       background:
         image:
-          filename: wavey.svg
+          filename: wave.svg
 
 
 
