@@ -16,6 +16,8 @@ sections:
       background:
         image:
           filename: backgroundlight.webp
+        image_dark:
+          filename: background.webp
 
 
 
