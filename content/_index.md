@@ -15,7 +15,7 @@ sections:
         style: 'text-align: centre; font-size: 0.8em;'
       background:
         image:
-          filename: "/assets/media/backgroundlight.webp"
+          filename: backgroundlight.webp
 
 
 
