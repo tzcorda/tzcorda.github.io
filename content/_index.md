@@ -15,9 +15,8 @@ sections:
         style: 'text-align: centre; font-size: 0.8em;'
       background:
         image:
-          filename: backgroundlight.webp
-        image_dark:
-          filename: background.webp
+          filename: wavey.svg
+
 
 
 
