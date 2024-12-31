@@ -45,13 +45,14 @@ highlight_name: true
 website: "tzcorda.github.io"
 ---
 
+{{< center >}} 
 Dept of Social and Political Sciences  
 via Conservatorio 7  
 21022 Milan  
 ​Italy  
 
 [⟫⟫](/about)  
-
+{{< /center >}} 
 
 {{< line_break >}}
 {{< line_break >}}
