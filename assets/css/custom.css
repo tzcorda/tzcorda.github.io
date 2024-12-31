@@ -17,14 +17,15 @@
     padding: 10px; /* Adjust padding as needed */
     font-size: 10px; /* Adjust font size as needed */
 }
-/* Recolor footer links to black */
-#footer a {
-    color: black;
-}
-/* Ensure visited footer links are also black */
-#footer a:visited {
-    color: black;
-}
+
+site_footer .powered-by {
+    font-size: 0.75rem; /* Reduce font size */
+  }
+  
+site_footer .powered-by a {
+    color: #000000; /* Change link color to blue */
+  }
+
 
 p {
     font-family: verdana;
