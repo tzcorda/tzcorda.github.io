@@ -31,6 +31,15 @@ footer .powered-by a:hover {
     color: #937474; /* Change link color to red on hover */
   }
 
+  @media (prefers-color-scheme: dark) {
+    footer .powered-by a {
+      color: #ffffff; /* Change link color to white in dark theme */
+    }
+  
+    footer .powered-by a:hover {
+      color: #8e8f8e; /* Change link color to green on hover in dark theme */
+    }
+  }
   /*font of the whole website*/
 
 p {
