@@ -16,6 +16,10 @@ sections:
       background:
         image:
           filename: ''
+        image_dark:
+          filename: 'assets/media/backgroundlight.webp'
+        image_light:
+          filename: 'assets/media/background.webp'
 
 
 # if you want to reintroduce the blog section:
