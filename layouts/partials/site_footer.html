@@ -20,8 +20,8 @@
           {{ warnf "Please attribute Hugo Blox using `{hugoblox}` in the `published_with` text." }}
           {{ $i18n_published_with = $default }}
         {{ end }}
-        {{ $i18n_published_with = replace $i18n_published_with "{hugoblox}" "<a href=\"https://hugoblox.com/?utm_campaign=poweredby\" target=\"_blank\" rel=\"noopener\" class=\"text-black-500\">Hugo Blox Builder</a>" | safeHTML }}
-        {{ $i18n_published_with = replace $i18n_published_with "{repo_link}" "<a href=\"https://github.com/HugoBlox/hugo-blox-builder\" target=\"_blank\" rel=\"noopener\" class=\"text-black-500\">" | safeHTML }}
+        {{ $i18n_published_with = replace $i18n_published_with "{hugoblox}" "<a href=\"https://hugoblox.com/?utm_campaign=poweredby\" target=\"_blank\" rel=\"noopener\" class=\"text-black-500\" style="color:rgb(114, 103, 103)" >Hugo Blox Builder</a>" | safeHTML }}
+        {{ $i18n_published_with = replace $i18n_published_with "{repo_link}" "<a href=\"https://github.com/HugoBlox/hugo-blox-builder\" target=\"_blank\" rel=\"noopener\" class=\"text-black-500\" style="color:rgb(114, 103, 103)" >" | safeHTML }}
         {{ $i18n_published_with = replace $i18n_published_with "{/repo_link}" "</a>" | safeHTML }}
         {{ $i18n_published_with | replaceRE "{year}" now.Year | markdownify | emojify | safeHTML }}
       {{ end }}
