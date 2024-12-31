@@ -15,9 +15,9 @@ sections:
         style: 'text-align: centre; font-size: 0.8em;'
       background:
         image:
-          filename: 'assets/media/backgroundlight.webp'
+          filename: '/assets/media/backgroundlight.webp'
         image_light:
-          filename: 'assets/media/background.webp'
+          filename: '/assets/media/background.webp'
 
 
 # if you want to reintroduce the blog section:
