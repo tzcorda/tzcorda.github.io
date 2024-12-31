@@ -50,7 +50,9 @@ via Conservatorio 7
 21022 Milan  
 ​Italy  
 
-# [⟫⟫](/about)  
+[⟫⟫](/about)  
+
+
 {{< line_break >}}
 {{< line_break >}}
 {{< line_break >}}
