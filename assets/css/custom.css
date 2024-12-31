@@ -19,7 +19,8 @@
 }
 
 footer .powered-by {
-    font-size: 0.75rem; /* Reduce font size */
+    font-size: 0.65rem; /* Reduce font size */
+    font-weight: 300;
   }
   
 footer .powered-by a {
