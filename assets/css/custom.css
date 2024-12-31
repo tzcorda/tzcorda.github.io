@@ -27,6 +27,11 @@ footer .powered-by a {
     color: #000000; /* Change link color to black */
   }
 
+footer .powered-by a:hover {
+    color: #937474; /* Change link color to red on hover */
+  }
+
+  /*font of the whole website*/
 
 p {
     font-family: verdana;
