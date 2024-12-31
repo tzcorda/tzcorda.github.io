@@ -12,7 +12,7 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
       biography:
-        style: 'text-align: centre; font-size: 0.8em;'
+        style: 'text-align: centre; font-size: 0.7em; font-weight: 300; ' !important
       background:
         image:
           filename: wave@2x.png
