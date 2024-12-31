@@ -16,12 +16,29 @@ sections:
       background:
         image:
           filename: ''
-  - block: collection
-    content:
-      filters:
-        folders:
-          - blog
-    design:
-      spacing:
-        padding: ['3rem', 0, '6rem', 0]
+
+
+# if you want to reintroduce the blog section:
+
+#sections:
+#  - block: resume-biography
+#    content:
+#      # The user's folder name in content/authors/
+#      username: admin
+#    design:
+#      spacing:
+#        padding: [0, 0, 0, 0]
+#      biography:
+#        style: 'text-align: centre; font-size: 0.8em;'
+#      background:
+#        image:
+#          filename: ''
+#  - block: collection
+#    content:
+#      filters:
+#        folders:
+#          - blog
+#    design:
+#      spacing:
+#        padding: ['3rem', 0, '6rem', 0]
 ---
