@@ -14,7 +14,7 @@ sections:
       biography:
         style: 'text-align: centre; font-size: 0.8em;'
       background:
-        image:
+        image_light:
           filename: backgroundlight.webp
         image_dark:
           filename: background.webp
