@@ -338,3 +338,12 @@ span.tooltip:after {
 }
 
 */
+
+element.style {
+    background-image: url('/assets/media/wave@2x.png');
+}
+@media (prefers-color-scheme: dark) {
+    element {
+        background-image: url('/assets/media/background.jpg');
+    }
+}
