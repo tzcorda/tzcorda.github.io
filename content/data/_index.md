@@ -12,8 +12,7 @@ reading_time: false
 commentable: false
 show_related: false
 share: false
-component:
-  - image: media/info.png
+
 ---
 
 ### Diplomatic Outreach datasets
@@ -50,12 +49,6 @@ This dataset tracks the visits involving HoSG, Ministers, Deputies, Military Rep
 ##### Russia/Ukraine
 The visits of the Foreign Ministers of Russia and Ukraine in 2021-2024 (late May). This dataset was developed in collaboration with Paolo Bassanelli, Pietro Borro, Charles Vallerie Dimitui, Luca Dosso, Fredi Drugman, Kamilla Kizbayeva, Tanan Bayanbat.  
 **Cite as**: Corda, T.; Bassanelli, P.; Borro, P.; Dimitui, C.V.; Dosso, L.; Drugman, F.; Kizbayeva, K.; Bayanbat, T. (2024), "Diplomatic Visits of the Ministers of Foreign Affairs of Russia and Ukraine (2021-2024)", **[doi.org/10.7910/DVN/0HQS45](http://doi.org/10.7910/DVN/0HQS45)**, Harvard Dataverse.
-
-![info](/assets/media/info.png)
-
-{% raw %}
-An {{%/* tooltip */%}}info{{%/* definition */%}}this is a tooltip{{%/* /definition */%}}{{%/* /tooltip */%}} tooltip
-{% endraw %}
 
 ______
 
