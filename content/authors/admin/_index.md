@@ -52,7 +52,7 @@ via Conservatorio 7
 21022 Milan  
 ​Italy  
 
-[⟫⟫⟫](/about)  
+[⟫](/about)  
 {{< /text-center >}}
 
 

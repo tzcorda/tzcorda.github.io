@@ -18,11 +18,11 @@
     font-size: 10px; /* Adjust font size as needed */
 }
 
-site_footer .powered-by {
+footer .powered-by {
     font-size: 0.75rem; /* Reduce font size */
   }
   
-site_footer .powered-by a {
+footer .powered-by a {
     color: #000000; /* Change link color to blue */
   }
 
