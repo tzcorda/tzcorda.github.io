@@ -51,13 +51,6 @@ The visits of the Foreign Ministers of Russia and Ukraine in 2021-2024 (late May
 
 ![info](/assets/media/info.png)
 
-{{< div class="tooltip-wrap" >}}
-  {{< img src="/assets/media/info.png" alt="Some Image" />}}
-  {{< div class="tooltip-content" >}}
-    Information tooltip
-  {{< /div >}} 
-{{< /div >}}
-{{< line_break >}}
 
 ______
 
