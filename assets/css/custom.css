@@ -354,7 +354,7 @@ span.tooltip:after {
 
 */
 
-/* changing background does not work*/
+/* changing background does not work
 element.style {
     background-image: url('/assets/media/wave@2x.png');
 }
@@ -362,7 +362,6 @@ element.style {
 .dark element.style {
         background-image: url('/assets/media/background.jpg');
     }
-    
-
+*/
 
     
