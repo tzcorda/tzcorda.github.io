@@ -55,7 +55,6 @@ via Conservatorio 7
 [⟫⟫](/about)  
 {{< /text-center >}}
 
-{{ partial "consent.html" . }}
 
 
 {{< line_break >}}
