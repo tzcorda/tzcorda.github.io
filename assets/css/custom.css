@@ -341,11 +341,11 @@ span.tooltip:after {
 
 /* Dynamic homepage background image */
 body {
-    background-image: url('/assets/media/backgroundlight.webp');
+    background-image: url('/assets/media/wavey.svg');
   }
   
   @media (prefers-color-scheme: dark) {
     body {
-      background-image: url('/assets/media/background.webp');
+      background-image: url('/assets/media/wavey.svg');
     }
   }
