@@ -12,6 +12,8 @@ reading_time: false
 commentable: false
 show_related: false
 share: false
+component:
+  - image: media/info.png
 ---
 
 ### Diplomatic Outreach datasets
@@ -51,6 +53,9 @@ The visits of the Foreign Ministers of Russia and Ukraine in 2021-2024 (late May
 
 ![info](/assets/media/info.png)
 
+{% raw %}
+An {{%/* tooltip */%}}info{{%/* definition */%}}this is a tooltip{{%/* /definition */%}}{{%/* /tooltip */%}} tooltip
+{% endraw %}
 
 ______
 
