@@ -70,10 +70,10 @@ taxonomies:
   category: categories
   author: authors
 markup:
-  _merge: deep
   goldmark:
-  parser:
-    wrapStandAloneImageWithinParagraph: false
+    parser:
+      wrapStandAloneImageWithinParagraph: false
+  _merge: deep
 related:
   threshold: 80
   includeNewer: true

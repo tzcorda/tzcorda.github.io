@@ -23,6 +23,11 @@ Now based in Italy. Long ago, also in Brussels, Tehran, and Cape Town.
 
 ![mmm](/assets/media/info.png)
 
+<figure>
+    <img src="/assets/media/info.png"
+         alt="Some description" width="100%"/> 
+</figure>
+
 {{< line_break >}}
 
 ### CV
