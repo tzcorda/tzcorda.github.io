@@ -20,6 +20,7 @@ I am a Research Fellow at the Department of Social and Political Sciences of the
 Previously, I collaborated on a research project of the University of Sussex and funded by the European Research Council (ERC) on Violence, Elites, and Resilience in States Under Stress (VERSUS), focusing mostly on Ethiopia’s political crises and conflicts (2020-2022). In 2022, I received a PhD in Political Studies, with a dissertation on the internal decision-making processes in countries targeted by international sanctions. Prior to my PhD, I worked three years on global policy issues for the Africa Programme of the Italian Institute for International Political Studies (ISPI), the EU’s European External Action Service (EEAS), and the Scalabrini Centre of Cape Town (SCCT).
 
 Now based in Italy. Long ago, also in Brussels, Tehran, and Cape Town.
+![alt text](/assets/media/info.png)
 
 
 ### CV
