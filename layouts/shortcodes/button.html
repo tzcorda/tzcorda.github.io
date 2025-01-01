@@ -1,5 +1,8 @@
+
+
 <a href="{{ .Get "link" }}" class="custom-button">
   <button style="background: transparent; border: 1px solid rgb(123, 119, 119); border-radius: 7px; font-size: 12px; font-family: inherit; padding: 3px 7px;">
+    <img src="{{ .Get "svgSrc" }}" alt="icon" style="width: 16px; height: 16px; vertical-align: middle; margin-right: 5px;">
     {{ .Inner }}
   </button>
 </a>
