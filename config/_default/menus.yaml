@@ -17,6 +17,8 @@ main:
   - name: Data
     url: data/
     weight: 50  
-
+  - name: Blog
+    url: blog/
+    weight: 60  
 
 

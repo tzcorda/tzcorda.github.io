@@ -34,9 +34,9 @@ profiles:
   - icon: brands/x
     url: https://twitter.com/tizianacorda
     label: Follow me on X
-  - icon: rss
-    url: /index.xml
-    label: Subscribe via RSS feed
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-6049-0748
+    label: My ORCID page
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
