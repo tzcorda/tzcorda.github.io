@@ -54,6 +54,7 @@ via Conservatorio 7
 
 [⟫⟫](/about)  
 {{< /text-center >}}
+icon: hero/chevron-double-right
 
 
 
