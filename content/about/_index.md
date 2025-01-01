@@ -21,7 +21,7 @@ Previously, I collaborated on a research project of the University of Sussex and
 
 Now based in Italy. Long ago, also in Brussels, Tehran, and Cape Town.
 
-![](/assets/media/info.png)
+![mmm](/assets/media/info.png)
 
 {{< line_break >}}
 
