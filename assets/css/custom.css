@@ -1,17 +1,17 @@
-/* Update the font weight for the entire navigation bar */
+/* Update the font weight for the entire navigation bar. Works only the size, not weight (see below)*/
 .navbar {
     font-weight: 100 !important; /* Remove bold font */
     font-size: 13px; /* Set desired font size */
 }
 
-/* Ensure the site title (brand) is also styled correctly */
+/* Ensure the site title (brand) is also styled correctly. Does not work... */
 .navbar .navbar-brand {
     font-weight: 100; /* Remove bold font */
     font-size: 18px; /* Set desired font size for the site title */
     order: -10; /* Move the site title before the menu items */
 }
 
-/* font-weight navbar*/ 
+/* font-weight navbar. Works. */ 
 .nav-link {
     display: block;
     padding: .75rem;
