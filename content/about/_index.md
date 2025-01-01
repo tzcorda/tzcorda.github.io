@@ -21,10 +21,10 @@ Previously, I collaborated on a research project of the University of Sussex and
 
 Now based in Italy. Long ago, also in Brussels, Tehran, and Cape Town.
 
-![mmm](/assets/media/info.png)
+![mmm](https://gratisography.com/wp-content/uploads/2024/10/gratisography-cool-cat-800x525.jpg)
 
 <figure>
-    <img src="/assets/media/info.png"
+    <img src="https://gratisography.com/wp-content/uploads/2024/10/gratisography-cool-cat-800x525.jpg"
          alt="Some description" width="100%"/> 
 </figure>
 
