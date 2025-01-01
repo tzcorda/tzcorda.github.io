@@ -21,10 +21,6 @@ Previously, I collaborated on a research project of the University of Sussex and
 
 Now based in Italy. Long ago, also in Brussels, Tehran, and Cape Town.
 
-{{< custom-button link="https://tzcorda.github.io" imgSrc="/assets/media/info.png" >}}
-  Button Text
-{{< /custom-button >}}
-
 {{< line_break >}}
 
 ### CV
