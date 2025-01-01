@@ -6,3 +6,5 @@ date: 2024-12-27
 
 Work in progress
 
+![mmm](/assets/media/info.png)
+
