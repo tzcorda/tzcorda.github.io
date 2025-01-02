@@ -100,7 +100,7 @@ Corda, T. (2016). Recovering Regional Power: The Islamic Republic under Rouhani�
 
 #### Book chapters
 
-Corda, T. (2025). “UN Sanctions in Mali”, in C. Portela, A. Charron, and M. Sossai (eds). Elgar Encyclopedia of International Sanctions, Edward Elgar Publishing (forthcoming)
+Corda, T. (2025). “UN Sanctions in Mali”, in C. Portela, A. Charron, and M. Sossai (eds). Elgar Encyclopedia of International Sanctions, Edward Elgar Publishing (forthcoming)  
 {{< button link=" " >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244" />
