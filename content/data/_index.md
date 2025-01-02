@@ -24,7 +24,7 @@ This dataset includes information for the visits involving Italian Presidents, P
 This dataset is also available on Harvard Dataverse at: **[doi.org/10.7910/DVN/CY7Y8Z](http://doi.org/10.7910/DVN/CY7Y8Z)**.  
 {{< button link="/data/italy" >}} SEE THE DATA {{< /button >}}  
 {{< details class="my-custom-class" summary="Other Italy-focused datasets" open=false altSummary="Click again to close" >}}  
-{{< line_break >}}
+  
 Other datasets track more in detail:  
   
 • the visits of the Italian  Ministers of Foreign Affairs 2000-2010. This dataset was developed with Sofia Barbieri, Robin Bezzina, Matteo Carosotti, Marco Cavallero, Eva Chaffer, Sofia Ciccarelli, Elena De Paoli, Mattia Donati, Matteo Pandiani, Giulia Robecchi, and Sofia Vicentini.{{< line_break >}}
