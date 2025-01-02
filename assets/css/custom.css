@@ -260,7 +260,8 @@ body.dark,
 /* Target details element */
 details.my-custom-class {
     color: #a3a1a1; /* Default color */
-    font-size: 16px; /* Default font size */
+    font-size: 14px; /* Default font size */
+    font-weight: 500; /* Change to desired weight */
     font-family: verdana;
 }
 
