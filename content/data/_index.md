@@ -30,9 +30,8 @@ Other datasets track more in detail:
 • the visits of the Italian Ministers of Defence 2011-2022. This dataset was developed in collaboration with Valeria Bellotti, Alberto Brusadelli, Yiwei Gao, Andrea Panza, and Andrea Zanoni.  {{< line_break >}}
 **Cite as**: ​Corda, T., Bellotti, V., Brusadelli, A., Gao, Y., Panza, A., and Zanoni, A. (2023). "Italy's Diplomatic Outreach (Ministers of Defence)", **[doi.org/10.7910/DVN/V562U3](http://doi.org/10.7910/DVN/V562U3)**, Harvard Dataverse.
 {{< line_break >}}
-{{< /details >}}
-{{< line_break >}}
-
+{{< /details >}}  
+  
 ##### Africa
 Work in progress, with research assistants from Bocconi University, University of Warwick, University of Groningen.
 
