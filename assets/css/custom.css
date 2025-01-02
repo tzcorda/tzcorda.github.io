@@ -284,7 +284,8 @@ details.my-custom-class > :not(summary) {
 /* Dark theme adjustments for summary element */
 .dark details.my-custom-class > summary {
     color: #ffffff; /* Customize summary font color */
-    font-size: 16px; /* Customize summary font size */
+    font-size: 14px; /* Customize summary font size */
+    font-weight: 500;
     font-family: verdana;
 }
 /* Dark theme adjustments for inner content */
