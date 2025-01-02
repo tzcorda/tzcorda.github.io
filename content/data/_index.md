@@ -26,15 +26,12 @@ This dataset is also available on Harvard Dataverse at: **[doi.org/10.7910/DVN/C
 {{< details class="my-custom-class" summary="Other Italy-focused datasets" open=false altSummary="Click again to close" >}}  
   
 Other datasets track more in detail:  
-
 • the visits of the Italian  Ministers of Foreign Affairs 2000-2010. This dataset was developed with Sofia Barbieri, Robin Bezzina, Matteo Carosotti, Marco Cavallero, Eva Chaffer, Sofia Ciccarelli, Elena De Paoli, Mattia Donati, Matteo Pandiani, Giulia Robecchi, and Sofia Vicentini.{{< line_break >}}
 **Cite as**: ​Corda, T., Barbieri, S., Bezzina, R., Carosotti, M., Cavallero, M., Chaffer, E., Ciccarelli, S., De Paoli, E., Donati, M., Pandiani, M., Robecchi, G., and Vicentini, S. (2023). "Italy's Diplomatic Outreach (Ministers of Foreign Affairs 2000-2010)", **[doi.org/10.7910/DVN/A6GFZT](http://doi.org/10.7910/DVN/A6GFZT)**, Harvard Dataverse.  
-{{< line_break >}}
 • the visits of the Italian Ministers of Defence 2011-2022. This dataset was developed in collaboration with Valeria Bellotti, Alberto Brusadelli, Yiwei Gao, Andrea Panza, and Andrea Zanoni.  {{< line_break >}}
 **Cite as**: ​Corda, T., Bellotti, V., Brusadelli, A., Gao, Y., Panza, A., and Zanoni, A. (2023). "Italy's Diplomatic Outreach (Ministers of Defence)", **[doi.org/10.7910/DVN/V562U3](http://doi.org/10.7910/DVN/V562U3)**, Harvard Dataverse.
 {{< line_break >}}
 {{< /details >}}
-
 {{< line_break >}}
 
 ##### Africa
