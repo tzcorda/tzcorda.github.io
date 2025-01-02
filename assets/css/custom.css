@@ -268,7 +268,8 @@ details.my-custom-class {
 /* Target summary element */
 details.my-custom-class > summary {
     color: #4c4b4b; /* Customize summary font color */
-    font-size: 16px; /* Customize summary font size */
+    font-size: 14px; /* Customize summary font size */
+    font-weight: 500; /* Change to desired weight */
     font-family: verdana;
 }
 
