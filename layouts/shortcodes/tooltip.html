@@ -1,7 +1,6 @@
 <style>
     .definition {
         visibility: hidden;
-        width: 12rem; /* 120px */
         background-color: #555; /* bg-gray-700 in Tailwind */
         color: #fff; /* text-white in Tailwind */
         text-align: center;
@@ -11,12 +10,13 @@
         z-index: 10;
         bottom: 125%;
         left: 50%;
-        margin-left: -6rem; /* -60px */
+        transform: translateX(-50%);
         opacity: 0;
         transition: opacity 0.3s;
         font-size: 12px; /* Customize font size */
         font-family: Verdana; /* Customize font family */
         font-weight: 300;
+        white-space: nowrap; /* Prevent text from wrapping */
     }
     
     .term {
