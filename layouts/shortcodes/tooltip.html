@@ -1,39 +1,6 @@
-<!-- 
-    Copyright © 2024 The Hinode Team / Mark Dumay. All rights reserved.
-    Use of this source code is governed by The MIT License (MIT) that can be found in the LICENSE file.
-    Visit gethinode.com/license for more details.
--->
-    
-{{ $error := false }}
-
-<!-- Validate arguments -->
-{{ if partial "utilities/IsInvalidArgs.html" (dict "structure" "tooltip" "args" .Params) }}
-    {{ errorf "Invalid arguments: %s" .Position -}}
-    {{ $error = true }}
-{{ end }}
-
-<!-- Initialize arguments -->
-{{ $title := trim .Inner " \r\n" | plainify -}}
-{{ if not $title -}}
-    {{ errorf "Missing inner element text: %s" .Position -}}
-    {{ $error = true }}
-{{ end -}}
-
-{{ $color := .Get "color" | default "primary" -}}
-{{ $tooltip := .Get "title" | default "" -}}
-{{ $href := .Get "href" | default "" -}}
-{{ $placement := .Get "placement" | default "top" -}}
-{{- $class := .Get "class" | default "" -}}
-{{- $spacing := .Get "spacing" | default true -}}
-
-<!-- Main code -->
-{{ if not $error }}
-    <div class="relative group">
-        <a href="{{ $href }}" class="text-{{ $color }} {{ $class }}">
-            {{ $title }}
-        </a>
-        <div class="absolute w-32 bg-gray-700 text-white text-sm rounded py-1 px-2 opacity-0 group-hover:opacity-100 transition-opacity duration-300 {{ if eq $placement "top" }}bottom-full{{ else if eq $placement "bottom" }}top-full{{ else if eq $placement "left" }}right-full{{ else if eq $placement "right" }}left-full{{ end }}">
-            {{ $tooltip }}
-        </div>
-    </div>
-{{ end }}
+<span class="relative group">
+    <span class="cursor-help text-blue-500 underline">{{ .Inner }}</span>
+    <span class="absolute hidden group-hover:block bg-gray-700 text-white text-sm rounded px-2 py-1 z-10">
+        {{ .Get "title" }}
+    </span>
+</span>
