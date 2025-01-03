@@ -1,17 +1,17 @@
 <style>
     .definition {
         visibility: hidden;
-        width: 120px;
-        background-color: #555;
-        color: #fff;
+        width: 12rem; /* 120px */
+        background-color: #555; /* bg-gray-700 in Tailwind */
+        color: #fff; /* text-white in Tailwind */
         text-align: center;
-        border-radius: 6px;
-        padding: 5px 0;
+        border-radius: 0.375rem; /* rounded in Tailwind */
+        padding: 0.5rem 0; /* py-2 in Tailwind */
         position: absolute;
-        z-index: 1;
+        z-index: 10;
         bottom: 125%;
         left: 50%;
-        margin-left: -60px;
+        margin-left: -6rem; /* -60px */
         opacity: 0;
         transition: opacity 0.3s;
     }
@@ -19,13 +19,17 @@
     .term {
         position: relative;
         display: inline-block;
-        border-bottom: 1px dotted black;}
+        border-bottom: 1px dotted black;
+    }
     
     .term:hover .definition {
         visibility: visible;
         opacity: 1;
     }
-    </style>
-    <span class="term">
-     {{ .Inner }} 
+</style>
+<span class="term">
+    {{ .Inner }}
+    <span class="definition">
+        {{ .Get "title" }}
     </span>
+</span>

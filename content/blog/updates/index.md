@@ -17,3 +17,4 @@ Work in progress
 
 {{< tooltip >}}Hey{{< definition >}}Tooltip{{< /definition >}}{{< /tooltip >}}
 
+{{< tooltip title="This is a tooltip" >}}Hover over me{{< /tooltip >}}
