@@ -15,6 +15,6 @@ Work in progress
 {{< line_break >}}
 {{< line_break >}}
 
-{{< tooltip color="info" title="Tooltip" href="#!" >}}
-    Tooltip demonstration
+{{< tooltip color="blue-500" title="This is a tooltip" href="#" placement="top" >}}
+    Hover over me
 {{< /tooltip >}}
