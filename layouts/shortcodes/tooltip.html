@@ -1,6 +1,31 @@
-<span class="relative group">
-    <span class="cursor-help text-blue-500 underline">{{ .Inner }}</span>
-    <span class="absolute hidden group-hover:block bg-gray-700 text-white text-sm rounded px-2 py-1 z-10">
-        {{ .Get "title" }}
+<style>
+    .definition {
+        visibility: hidden;
+        width: 120px;
+        background-color: #555;
+        color: #fff;
+        text-align: center;
+        border-radius: 6px;
+        padding: 5px 0;
+        position: absolute;
+        z-index: 1;
+        bottom: 125%;
+        left: 50%;
+        margin-left: -60px;
+        opacity: 0;
+        transition: opacity 0.3s;
+    }
+    
+    .term {
+        position: relative;
+        display: inline-block;
+        border-bottom: 1px dotted black;}
+    
+    .term:hover .definition {
+        visibility: visible;
+        opacity: 1;
+    }
+    </style>
+    <span class="term">
+     {{ .Inner }} 
     </span>
-</span>

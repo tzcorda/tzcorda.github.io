@@ -15,4 +15,5 @@ Work in progress
 {{< line_break >}}
 {{< line_break >}}
 
-{{< tooltip title="This is a tooltip" >}}Hover over me{{< /tooltip >}}
+{{< tooltip >}}Hey{{< definition >}}Tooltip{{< /definition >}}{{< /tooltip >}}
+
