@@ -1,35 +1,40 @@
-<style>
-    .definition {
-        visibility: hidden;
-        width: 120px;
-        background-color: #555;
-        color: #fff;
-        text-align: center;
-        border-radius: 6px;
-        padding: 5px 0;
-        position: absolute;
-        z-index: 1;
-        bottom: 125%;
-        left: 50%;
-        margin-left: -60px;
-        opacity: 0;
-        transition: opacity 0.3s;
-    }
 
-    .term {
-        position: relative;
-        display: inline-block;
-        border-bottom: 1px dotted black;
-    }
+{{ $error := false }}
 
-    .term:hover .definition {
-        visibility: visible;
-        opacity: 1;
-    }
-    </style>
-    <span class="term">
-    {% raw %}
-     {{ .Inner }} 
-     {% endraw %}
-    </span>
-    
+<!-- Validate arguments -->
+{{ if partial "utilities/IsInvalidArgs.html" (dict "structure" "tooltip" "args" .Params) }}
+    {{ errorf "Invalid arguments: %s" .Position -}}
+    {{ $error = true }}
+{{ end }}
+
+<!-- Initialize arguments -->
+{{ $type := "link" -}}
+
+{{ $title := trim .Inner " \r\n" | plainify -}}
+{{ if not $title -}}
+    {{ errorf "Missing inner element text: %s" .Position -}}
+    {{ $error = true }}
+{{ end -}}
+
+{{ $color := .Get "color" | default "primary" -}}
+{{ $tooltip := .Get "title" | default "" -}}
+{{ $href := .Get "href" | default "" -}}
+{{ $placement := .Get "placement" | default "top" -}}
+{{- $class := .Get "class" | default "" -}}
+{{- $spacing := .Get "spacing" | default true -}}
+
+<!-- Main code -->
+{{ if not $error }}
+    <div class="d-inline-flex">
+        {{- partial "assets/button.html" (dict 
+            "type" $type
+            "title" $title
+            "color" $color
+            "tooltip" $tooltip
+            "href" $href
+            "placement" $placement
+            "class" $class
+            "spacing" $spacing) 
+        -}}
+    </div>
+{{ end }}
