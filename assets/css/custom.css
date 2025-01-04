@@ -309,13 +309,16 @@ details.my-custom-class > :not(summary) {
     border-radius: .25rem
 }
 
+/* Define the spoiler color for light theme */
 .spoiler {
-    color: transparent;
-    background-color: black;
+    color: #4c4b4b; /* Change this to your desired color for light theme */
+    font-size: 14px;
 }
 
-.spoiler:hover {
-    color: white;
+/* Define the spoiler color for dark theme */
+.dark .spoiler {
+    color: #c5c5c3; /* Change this to your desired color for dark theme */
+    font-size: 14px;
 }
 
 /* change links (it will also change name and icons of "authors" section at the bottom of each page)
