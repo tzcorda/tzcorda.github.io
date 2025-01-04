@@ -116,12 +116,3 @@ security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
 
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: >
-      University of Milan 
-      Dept of Social and Political Sciences 
-      via Conservatorio 7 
-      21022 Milan 
-      Italy  
-    url: https://www.unimi.it

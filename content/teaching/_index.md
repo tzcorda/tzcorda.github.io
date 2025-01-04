@@ -17,6 +17,7 @@ share: false
 ### Academic teaching
 ##### A.Y. 2024/25
 ◦ Adjunct Professor 'Sanctions and the Politics of Autocratic Survival' (4 ECTS, BA, Sciences Po)  
+◦ Adjunct Professor 'Political Science' (3 ECTS, BA, University of Pau)  
 ◦ Teaching Assistant 'Political Science' (9 ECTS, BA, University of Milan)
 
 ##### A.Y. 2023/24
