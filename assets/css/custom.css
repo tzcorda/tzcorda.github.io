@@ -309,6 +309,15 @@ details.my-custom-class > :not(summary) {
     border-radius: .25rem
 }
 
+.spoiler {
+    color: transparent;
+    background-color: black;
+}
+
+.spoiler:hover {
+    color: white;
+}
+
 /* change links (it will also change name and icons of "authors" section at the bottom of each page)
 
 .prose :where(a):not(:where([class~=not-prose],[class~=not-prose] *)) {
