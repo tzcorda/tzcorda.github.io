@@ -24,9 +24,9 @@ In my PhD research I examined international sanctions and the domestic instituti
 Any kind of political regime, whether democratic or autocratic, needs to legitimate its rule. This project focuses on external legitimation processes. It does so also by collecting original data on states' diplomatic outreach – of which high-level diplomatic visits (involving HoSGs and MFAs) are the most visible and relevant part.
 
 ### Previous projects
-{{< spoiler text="<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 14px; height: 14px; vertical-align: baseline; display: inline;">
+{{< spoiler text=" A <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 14px; height: 14px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M15.042 21.672 13.684 16.6m0 0-2.51 2.225.569-9.47 5.227 7.917-3.286-.672Zm-7.518-.267A8.25 8.25 0 1 1 20.25 10.5M8.288 14.212A5.25 5.25 0 1 1 17.25 10.5" />
-</svg>" >}}
+</svg> A" >}}
 #### VERSUS ERC project on elite behaviour, leader survival, and conflicts in Africa
 VERSUS was a research project of the University of Sussex (Principal Investigator: Prof. Clionadh Raleigh) supported by the European Research Council (September 2017-August 2022). VERSUS represents a new direction in political, geographic and empirical subnational studies of conflict and governance. It determines how violence erupts from political processes in varied environments and how common internal and external shocks create new trajectories of governance, violence, and potential for political resilience. My contribution mostly focused on the analysis of Ethiopia's political competition and crises after the rise of Abiy Ahmed.
 
