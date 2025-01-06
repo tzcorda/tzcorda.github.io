@@ -1,0 +1,14 @@
+/* Hugo Blox color theme: ROSE GOLD */
+:root {
+    --color-primary-50: 251 236 235;
+    --color-primary-100: 246 208 204;
+    --color-primary-200: 237 204 196;
+    --color-primary-300: 234 195 186;
+    --color-primary-400: 222 161 147; 
+    --color-primary-500: 208 126 105;
+    --color-primary-600: 215 102 64;
+    --color-primary-700: 216 75 32;
+    --color-primary-800: 203 63 32;
+    --color-primary-900: 186 74 28;
+    --color-primary-950: 159 59 7;
+  }

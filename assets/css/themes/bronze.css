@@ -1,0 +1,14 @@
+/* Hugo Blox color theme: BRONZE */
+:root {
+    --color-primary-50: 239 235 233;
+    --color-primary-100: 215 204 200;
+    --color-primary-200: 188 168 164;
+    --color-primary-300: 161 136 127;
+    --color-primary-400: 141 110 99; 
+    --color-primary-500: 121 85 72;
+    --color-primary-600: 109 76 65;
+    --color-primary-700: 93 64 55;
+    --color-primary-800: 78 52 46;
+    --color-primary-900: 62 39 35;
+    --color-primary-950: 41 26 23;
+  }
