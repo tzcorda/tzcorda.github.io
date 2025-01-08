@@ -52,7 +52,7 @@ Country profiles and analyses for the 2017, 2018, 2019 editions of the Atlante G
   <path stroke-linecap="round" stroke-linejoin="round" d="M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125" />
 </svg> DATA {{< /button >}}
 
-Corda, T. (2024). In-Group We Trust, No More? How Senders’ Legitimacy Shapes the Success of Sanctions-Based Democracy Promotion, *Cooperation and Conflict*, online first. DOI: 10.1177/00108367241298929  
+**Corda, T.** (2024). In-Group We Trust, No More? How Senders’ Legitimacy Shapes the Success of Sanctions-Based Democracy Promotion, *Cooperation and Conflict*, online first. DOI: 10.1177/00108367241298929  
 {{< button link="https://doi.org/10.1177/00108367241298929" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244" />
@@ -65,7 +65,7 @@ Corda, T. (2024). In-Group We Trust, No More? How Senders’ Legitimacy Shapes t
   <path stroke-linecap="round" stroke-linejoin="round" d="M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125" />
 </svg> DATA {{< /button >}}
 
-Corda, T. (2023). For things to remain the same, how many things have to change? Elite continuity and change after leadership changes, *Democratization, ​40*(8), 1435-1454. DOI: 10.1080/13510347.2023.2189699  
+**Corda, T.** (2023). For things to remain the same, how many things have to change? Elite continuity and change after leadership changes, *Democratization, ​40*(8), 1435-1454. DOI: 10.1080/13510347.2023.2189699  
 {{< button link="https://doi.org/10.1080/13510347.2023.2189699" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244" />
@@ -76,7 +76,7 @@ Corda, T. (2023). For things to remain the same, how many things have to change?
 </svg> PDF 
 {{< /button >}}
 
-Corda, T. (2023). Constraining compliance? Reconsidering the effect of domestic veto players on sanctions success, *Defence and Peace Economics, 34*(7): 880-892. DOI: 10.1080/10242694.2022.2158288  
+**Corda, T.** (2023). Constraining compliance? Reconsidering the effect of domestic veto players on sanctions success, *Defence and Peace Economics, 34*(7): 880-892. DOI: 10.1080/10242694.2022.2158288  
 {{< button link="https://doi.org/10.1080/10242694.2022.2158288" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244" />
@@ -87,7 +87,7 @@ Corda, T. (2023). Constraining compliance? Reconsidering the effect of domestic 
 </svg> PDF 
 {{< /button >}}
 
-Corda, T. (2016). Recovering Regional Power: The Islamic Republic under Rouhani’s Presidency, *Il Politico: Rivista Italiana di Scienze Politiche, Ed.Rubbettino, LXXXI*, 3:44-69. DOI: 10.1400/256134  
+**Corda, T.** (2016). Recovering Regional Power: The Islamic Republic under Rouhani’s Presidency, *Il Politico: Rivista Italiana di Scienze Politiche, Ed.Rubbettino, LXXXI*, 3:44-69. DOI: 10.1400/256134  
 {{< button link="https://doi.org/10.1400/256134" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244" />
@@ -100,7 +100,7 @@ Corda, T. (2016). Recovering Regional Power: The Islamic Republic under Rouhani�
 
 #### Book chapters
 
-Corda, T. (2025). “UN Sanctions in Mali”, in C. Portela, A. Charron, and M. Sossai (eds). Elgar Encyclopedia of International Sanctions, Edward Elgar Publishing (forthcoming)  
+**Corda, T.** (2025). “UN Sanctions in Mali”, in C. Portela, A. Charron, and M. Sossai (eds). Elgar Encyclopedia of International Sanctions, Edward Elgar Publishing (forthcoming)  
 {{< button link=" " >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244" />
@@ -111,7 +111,7 @@ Corda, T. (2025). “UN Sanctions in Mali”, in C. Portela, A. Charron, and M. 
 </svg> PDF 
 {{< /button >}}
 
-Corda, T. (2025). “Not one and the same. A comparison of China’s, Europe’s, and other extra-regional powers’ economic relations with Africa”, in Y. Li, ​F. Leandro, J.T. da Silva, C. Rodrigues (eds), Palgrave Handbook on China-Europe-Africa Rela@ons: Legacies and the New International Order, Palgrave Macmillan, Chapter 43, ISBN: 978-981-97-5639-1.  
+**Corda, T.** (2025). “Not one and the same. A comparison of China’s, Europe’s, and other extra-regional powers’ economic relations with Africa”, in Y. Li, ​F. Leandro, J.T. da Silva, C. Rodrigues (eds), Palgrave Handbook on China-Europe-Africa Rela@ons: Legacies and the New International Order, Palgrave Macmillan, Chapter 43, ISBN: 978-981-97-5639-1.  
 {{< button link="https://link.springer.com/book/9789819756391" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244" />
@@ -122,7 +122,7 @@ Corda, T. (2025). “Not one and the same. A comparison of China’s, Europe’s
 </svg> PDF 
 {{< /button >}}
 
-Corda, T. (2024). “Democratic Sanctions in Africa. A Reassessment of their Selective and Inconsistent Use across Multiple Senders”, in A. Bultrini, F. Giumelli, C. Portela, and M. Sossai (eds), International Sanctions in Practice: An Interdisciplinary Perspective, Routledge, pp. 161-177. ISBN: 9781032481302.  
+**Corda, T.** (2024). “Democratic Sanctions in Africa. A Reassessment of their Selective and Inconsistent Use across Multiple Senders”, in A. Bultrini, F. Giumelli, C. Portela, and M. Sossai (eds), International Sanctions in Practice: An Interdisciplinary Perspective, Routledge, pp. 161-177. ISBN: 9781032481302.  
 {{< button link="https://www.routledge.com/International-Sanctions-in-Practice-An-Interdisciplinary-Perspective/Bultrini-Giumelli-Portela-Sossai/p/book/9781032481302?srsltid=AfmBOoqDjezE8aDkfyIJCPUDg7QejDyBhzVk7xgmA5N9r8uSnEInNzpZ" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244" />
@@ -133,7 +133,7 @@ Corda, T. (2024). “Democratic Sanctions in Africa. A Reassessment of their Sel
 </svg> PDF 
 {{< /button >}}
 
-Cassani, A., Carbone, G., and Corda, T. (2024). “Sub-Saharan Africa”, in A. Croissant and L. Tomini (eds), Routledge Handbook of Autocratization, Routledge, pp. 548-563. DOI: 10.4324/9781003306900-43.  
+Cassani, A., Carbone, G., and **Corda, T.** (2024). “Sub-Saharan Africa”, in A. Croissant and L. Tomini (eds), Routledge Handbook of Autocratization, Routledge, pp. 548-563. DOI: 10.4324/9781003306900-43.  
 {{< button link="https://www.routledge.com/The-Routledge-Handbook-of-Autocratization/Croissant-Tomini/p/book/9781032308333?srsltid=AfmBOopdt3_u7IFP7okb_0ppZ1B2cACV-4vVNGIM4FUfc-vZBNRykjqi" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244" />
@@ -144,7 +144,7 @@ Cassani, A., Carbone, G., and Corda, T. (2024). “Sub-Saharan Africa”, in A. 
 </svg> PDF 
 {{< /button >}}
 
-Corda, T. (2021). “Not All Plain Sailing: The Highs and Lows of Iran’s Scramble for the Horn of Africa” (pp. 485-529), in F. Leandro, C. Branco, F. Caba-Maria (eds), The Geopolitics of Iran. Singapore: Palgrave Macmillan. DOI: 10.1007/978-981-16-3564-9_19  
+**Corda, T.** (2021). “Not All Plain Sailing: The Highs and Lows of Iran’s Scramble for the Horn of Africa” (pp. 485-529), in F. Leandro, C. Branco, F. Caba-Maria (eds), The Geopolitics of Iran. Singapore: Palgrave Macmillan. DOI: 10.1007/978-981-16-3564-9_19  
 {{< button link="https://doi.org/10.1007/978-981-16-3564-9_19" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244" />
@@ -157,19 +157,19 @@ Corda, T. (2021). “Not All Plain Sailing: The Highs and Lows of Iran’s Scram
 
 #### Book reviews and peer-reviewed policy reports
 
-Corda, T. (2024). Le sanzioni in Africa [Sanctions in Africa], Senato della Repubblica, Osservatorio di Politica Internazionale, Serie Mediterraneo Allargato, vol. 6, pp. 109-119.  
+**Corda, T.** (2024). Le sanzioni in Africa [Sanctions in Africa], Senato della Repubblica, Osservatorio di Politica Internazionale, Serie Mediterraneo Allargato, vol. 6, pp. 109-119.  
 
-Corda, T. (2023). Conflitti consensuali. I partiti italiani e gli interventi militari [Review of the book by Valerio Vignoli, Bologna: Il Mulino, 2022. 232p. €23 paperback, €15.99 e-book]. Italian Political Science Review/Rivista Italiana di Scienza Politica, ahead of print. DOI: 10.1017/ipo.2023.23  
+**Corda, T.** (2023). Conflitti consensuali. I partiti italiani e gli interventi militari [Review of the book by Valerio Vignoli, Bologna: Il Mulino, 2022. 232p. €23 paperback, €15.99 e-book]. Italian Political Science Review/Rivista Italiana di Scienza Politica, ahead of print. DOI: 10.1017/ipo.2023.23  
 
-Corda, T. (2023). Sanctions, Multilateralism, and the Legacy of Margaret Doxey​ [Review of the book Multilateral Sanctions Revisited. Lessons Learned from Margaret Doxey, edited by Andrea Charron and Clara Portela]. International Spectator: Italian Journal of International Affairs, 58(4):169-171. DOI: 10.1080/03932729.2023.2225379  
+**Corda, T.** (2023). Sanctions, Multilateralism, and the Legacy of Margaret Doxey​ [Review of the book Multilateral Sanctions Revisited. Lessons Learned from Margaret Doxey, edited by Andrea Charron and Clara Portela]. International Spectator: Italian Journal of International Affairs, 58(4):169-171. DOI: 10.1080/03932729.2023.2225379  
 
-Corda, T. (2022). The Reconfiguration of Power Dynamics in the Wider Eastern Africa, Sharq Forum Research Centre, Analysis Paper: 1-25.  
+**Corda, T.** (2022). The Reconfiguration of Power Dynamics in the Wider Eastern Africa, Sharq Forum Research Centre, Analysis Paper: 1-25.  
  
-Corda, T. (2021). Ankara’s Africa Policy: An Overview [Review of the book Turkey in Africa, by F. Donelli]. International Spectator: Italian Journal of International Affairs. Available online https://www.theinternationalspectator.com/post/short-review-ankara-s-africa-policy-an-overview  
+**Corda, T.** (2021). Ankara’s Africa Policy: An Overview [Review of the book Turkey in Africa, by F. Donelli]. International Spectator: Italian Journal of International Affairs. Available online https://www.theinternationalspectator.com/post/short-review-ankara-s-africa-policy-an-overview  
 
-Corda, T. (2018). Global Players in Africa. A Focus on Country-Continent Conferences. Italian Ministry of Foreign Affairs and International Cooperation, Paper commissioned for the second Italy-Africa Ministerial Conference: 1-29. http://dx.doi.org/10.2139/ssrn.3944173  
+**Corda, T.** (2018). Global Players in Africa. A Focus on Country-Continent Conferences. Italian Ministry of Foreign Affairs and International Cooperation, Paper commissioned for the second Italy-Africa Ministerial Conference: 1-29. http://dx.doi.org/10.2139/ssrn.3944173  
  
-Corda, T., et al. (2018). Cooperazione e competizione degli attori internazionali nel Corno d’Africa, Italian Parliament, Osservatorio di Politica Internazionale del Parlamento Italiano, No. 141: 1-42.  
+**Corda, T.**, et al. (2018). Cooperazione e competizione degli attori internazionali nel Corno d’Africa, Italian Parliament, Osservatorio di Politica Internazionale del Parlamento Italiano, No. 141: 1-42.  
 
 ### Public engagement
 
