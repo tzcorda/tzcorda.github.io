@@ -1,14 +1,14 @@
 /* Hugo Blox color theme: GENTLE */
 :root {
-    --color-primary-50: rgb(249, 248, 248);
-    --color-primary-100: rgb(238, 233, 233);
-    --color-primary-200: rgb(227, 219, 219);
-    --color-primary-300: rgb(216, 205, 205);
-    --color-primary-400: rgb(205, 190, 190); 
-    --color-primary-500: rgb(194, 176, 176);
-    --color-primary-600: rgb(183, 162, 162);
-    --color-primary-700: rgb(171, 147, 147);
-    --color-primary-800: rgb(160, 133, 133);
-    --color-primary-900: rgb(149, 119, 119);
-    --color-primary-950: rgb(136, 106, 106);
+    --color-primary-50: 249 248 248;
+    --color-primary-100: 238 233 233;
+    --color-primary-200: 227 219 219;
+    --color-primary-300: 216 205 205;
+    --color-primary-400: 205 190 190; 
+    --color-primary-500: 194 176 176;
+    --color-primary-600: 183 162 162;
+    --color-primary-700: 171 147 147;
+    --color-primary-800: 160 133 133;
+    --color-primary-900: 149 119 119;
+    --color-primary-950: 136 106 106;
   }
