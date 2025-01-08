@@ -1,5 +1,5 @@
 ---
-title: Teaching with AI
+title: GenAI
 summary: Work in progress
 date: 2024-12-27
 reading_time: true
