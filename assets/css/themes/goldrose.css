@@ -1,0 +1,14 @@
+/* Hugo Blox color theme: ROSEGOLD 2 */
+:root {
+    --color-primary-50: 245, 242, 242;
+    --color-primary-100: 225, 216, 216;
+    --color-primary-200: 204, 190, 190;
+    --color-primary-300: 184, 164, 164;
+    --color-primary-400: 164, 138, 138; 
+    --color-primary-500: 144, 111, 111;
+    --color-primary-600: 117, 91, 91;
+    --color-primary-700: 91, 71, 71;
+    --color-primary-800: 71, 57, 45;
+    --color-primary-900: 43, 34, 27;
+    --color-primary-950: 14, 11, 9;
+  }
