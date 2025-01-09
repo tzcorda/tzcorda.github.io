@@ -111,7 +111,7 @@ Country profiles and analyses for the 2017, 2018, 2019 editions of the Atlante G
 </svg> PDF 
 {{< /button >}}
 
-**Corda, T.** (2025). “Not one and the same. A comparison of China’s, Europe’s, and other extra-regional powers’ economic relations with Africa”, in Y. Li, ​F. Leandro, J.T. da Silva, C. Rodrigues (eds), Palgrave Handbook on China-Europe-Africa Rela@ons: Legacies and the New International Order, Palgrave Macmillan, Chapter 43, ISBN: 978-981-97-5640-7_43.  
+**Corda, T.** (2025). “Not one and the same. A comparison of China’s, Europe’s, and other extra-regional powers’ economic relations with Africa”, in Y. Li, ​F. Leandro, J.T. da Silva, C. Rodrigues (eds), Palgrave Handbook on China-Europe-Africa Relations: Legacies and the New International Order, Palgrave Macmillan, Chapter 43, ISBN: 978-981-97-5640-7_43.  
 {{< button link="https://link.springer.com/chapter/10.1007/978-981-97-5640-7_43" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244" />
@@ -120,7 +120,9 @@ Country profiles and analyses for the 2017, 2018, 2019 editions of the Atlante G
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
 </svg> PDF 
-{{< /button >}}
+{{< /button >}}{{< button link="/data" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125" />
+</svg> DATA {{< /button >}}
 
 **Corda, T.** (2024). “Democratic Sanctions in Africa. A Reassessment of their Selective and Inconsistent Use across Multiple Senders”, in A. Bultrini, F. Giumelli, C. Portela, and M. Sossai (eds), International Sanctions in Practice: An Interdisciplinary Perspective, Routledge, pp. 161-177. ISBN: 9781032481302.  
 {{< button link="https://www.routledge.com/International-Sanctions-in-Practice-An-Interdisciplinary-Perspective/Bultrini-Giumelli-Portela-Sossai/p/book/9781032481302?srsltid=AfmBOoqDjezE8aDkfyIJCPUDg7QejDyBhzVk7xgmA5N9r8uSnEInNzpZ" >}} 

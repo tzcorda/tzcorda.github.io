@@ -53,7 +53,7 @@ ______
 ### Other data used in publications
 ==DATA== **Africa's trade by extra-regional partner and sector** 
 
-**​Cite as**: Corda, T. (2025). “Not one and the same. A comparison of China’s, Europe’s, and other extra-regional powers’ economic relations with Africa”, in Y. Li, ​F. Leandro, J.T. da Silva, C. Rodrigues (eds), Palgrave Handbook on China-Europe-Africa Relations: Legacies and the New International Order, Palgrave Macmillan, Chapter 43, ISBN: 978-981-97-5639-1
+**​Cite as**: Corda, T. (2025). “Not one and the same. A comparison of China’s, Europe’s, and other extra-regional powers’ economic relations with Africa”, in Y. Li, ​F. Leandro, J.T. da Silva, C. Rodrigues (eds), Palgrave Handbook on China-Europe-Africa Relations: Legacies and the New International Order, Palgrave Macmillan, Chapter 43, ISBN: 978-981-97-5640-7_43
 
 {{< details class="my-custom-class" summary="A look at the data" open=false altSummary="Click again to close" >}}  
 
