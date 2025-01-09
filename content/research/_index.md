@@ -111,12 +111,12 @@ Country profiles and analyses for the 2017, 2018, 2019 editions of the Atlante G
 </svg> PDF 
 {{< /button >}}
 
-**Corda, T.** (2025). “Not one and the same. A comparison of China’s, Europe’s, and other extra-regional powers’ economic relations with Africa”, in Y. Li, ​F. Leandro, J.T. da Silva, C. Rodrigues (eds), Palgrave Handbook on China-Europe-Africa Rela@ons: Legacies and the New International Order, Palgrave Macmillan, Chapter 43, ISBN: 978-981-97-5639-1.  
-{{< button link="https://link.springer.com/book/9789819756391" >}} 
+**Corda, T.** (2025). “Not one and the same. A comparison of China’s, Europe’s, and other extra-regional powers’ economic relations with Africa”, in Y. Li, ​F. Leandro, J.T. da Silva, C. Rodrigues (eds), Palgrave Handbook on China-Europe-Africa Rela@ons: Legacies and the New International Order, Palgrave Macmillan, Chapter 43, ISBN: 978-981-97-5640-7_43.  
+{{< button link="https://link.springer.com/chapter/10.1007/978-981-97-5640-7_43" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244" />
 </svg> DOI 
-{{< /button >}}{{< button link=" " >}} 
+{{< /button >}}{{< button link="https://www.researchgate.net/publication/387861060_Not_One_and_the_Same_A_Comparison_of_China's_Europe's_and_Other_Extra-Regional_Powers'_Economic_Relations_with_Africa" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
 </svg> PDF 
