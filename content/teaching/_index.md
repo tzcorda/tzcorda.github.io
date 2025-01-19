@@ -44,16 +44,16 @@ share: false
 
 ### Conferences and lectures
 
-SISP &nbsp; &nbsp; 2021 • 2022 • 2023 • 2024 • 2025 &nbsp; {{< tooltip title="Average (v. limited) budget for conferences: 1000-1500 euros/year" >}} 
+==SISP== &nbsp; &nbsp; 2021 • 2022 • 2023 • 2024 • 2025 &nbsp; {{< tooltip title="Average (v. limited) budget for conferences: 1000-1500 euros/year" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 12px; height: 12px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="m11.25 11.25.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9-3.75h.008v.008H12V8.25Z" />
 </svg>{{< /tooltip >}}  
-ECPR &nbsp; &nbsp; 2022 • 2025  
+==ECPR== &nbsp; &nbsp; 2022 • 2025  
 EPSA &nbsp; &nbsp; 2024 • 2025  
-Other &nbsp; Groningen 2020, 2022 • Florence 2022 • Berlin 2023 • Brussels 2023 • Parma 2024  
-Field &nbsp; &nbsp; &nbsp; Addis 2023 • Dakar 2024   
+Other &nbsp;&nbsp; Groningen 2020, 2022 • Florence 2022 • Berlin 2023 • Brussels 2023 • Parma 2024  
+Field &nbsp;&nbsp; &nbsp; Addis 2023 • Dakar 2024   
 
-{{< spoiler text="Full list 2020-2025, including occasional lectures" >}}
+{{< spoiler text="Full list, including occasional lectures" >}}
 
 ==February 2025==. **NASP** Seminar Series, **University of Milan**. Paper presented: “The external dimension of regime legitimation: how political leaders leverage international engagement to legitimize their rule
 
