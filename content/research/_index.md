@@ -50,8 +50,7 @@ Country profiles and analyses for the 2017, 2018, 2019 editions of the Atlante G
 </svg> PDF 
 {{< /button >}}{{< button link="https://dataverse.harvard.edu/dataverse/ipsr-risp/" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125" />
-</svg> DATA {{< /button >}} {{< spoiler text="Abs" >}} Bla bla bla
-{{< /spoiler >}}
+</svg> DATA {{< /button >}}
 
 
 **Corda, T.** (2024). In-Group We Trust, No More? How Senders’ Legitimacy Shapes the Success of Sanctions-Based Democracy Promotion, *Cooperation and Conflict*, online first. DOI: 10.1177/00108367241298929  
