@@ -44,7 +44,7 @@ share: false
 
 ### Conferences and lectures
 
-SISP &nbsp; 2020 • 2021 • 2022 • 2023 • 2024 • 2025
+SISP &nbsp; 2020 • 2021 • 2022 • 2023 • 2024 • 2025  
 ECPR &nbsp; 2022 • 2025  
 EPSA &nbsp; 2024 • 2025  
 Others &nbsp; Groningen 2020 • 2022 | Florence 2022 | Berlin 2023 | Bruxelles 2023 | Parma 2024  
