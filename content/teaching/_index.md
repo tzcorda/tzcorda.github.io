@@ -50,12 +50,8 @@ SISP &nbsp; &nbsp; 2021 • 2022 • 2023 • 2024 • 2025 &nbsp; {{< tooltip t
 </svg>{{< /tooltip >}}  
 ECPR &nbsp; &nbsp; 2022 • 2025  
 EPSA &nbsp; &nbsp; 2024 • 2025  
-Other &nbsp; &nbsp; Groningen 2020, 2022 | Florence 2022 | Berlin 2023 | Brussels 2023 | Parma 2024  
-Field &nbsp; &nbsp; Addis 2023 | Dakar 2024   
-
-<tag-name style="white-space:pre">EPSA &#9; 2022 • 2025</tag-name>  
-<tag-name style="white-space:pre">Field &#9; Addis 2023 | Dakar 2024</tag-name>
-
+Other &nbsp; Groningen 2020, 2022 • Florence 2022 • Berlin 2023 • Brussels 2023 • Parma 2024  
+Field &nbsp; &nbsp; &nbsp; Addis 2023 • Dakar 2024   
 
 {{< spoiler text="Full list 2020-2025, including occasional lectures" >}}
 
