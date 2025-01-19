@@ -51,7 +51,7 @@ share: false
 ==ECPR== &nbsp; &nbsp; 2022 • 2025  
 ==EPSA== &nbsp; &nbsp; 2024 • 2025  
 ==Other== &nbsp;&nbsp; Groningen 2020, 2022 • Florence 2022 • Berlin 2023 • Brussels 2023 • Parma 2024  
-==Field== &nbsp;&nbsp; &nbsp; Addis 2023 • Dakar 2024   
+==Field== &nbsp;&nbsp;&nbsp; Addis 2023 • Dakar 2024   
 
 {{< spoiler text="Full list, including occasional lectures" >}}
 
