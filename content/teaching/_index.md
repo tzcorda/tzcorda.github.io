@@ -37,11 +37,6 @@ share: false
 ◦ Guest lecturer for the course Politics of Conflict (2 classes, 6 ECTS, BA/MA, Bocconi University, instructor: M. Casiraghi)  
 ◦ ​Teaching Assistant 'Political Science' (9 ECTS, BA, University of Milan)
 
-##### Other academic positions
-◦ 2023-ong. Co-chair Standing Group on Political Regimes at SISP (Italian Political Science Association)  
-◦ 2023-ong. Representative of postdoc researchers at the Department of Social and Political Sciences, University of Milan  
-◦ 2022-ong. ​Tutor for the Degree in International Politics, Law, Economics (IPLE), University of Milan
-
 ### Conferences and lectures
 
 ==SISP== &nbsp;&nbsp; &nbsp; 2021 • 2022 • 2023 • 2024 • 2025 &nbsp; {{< tooltip title="Average budget/year: €1000-1500💔" >}} 
@@ -118,3 +113,10 @@ share: false
 ==June 2020== **International Relations Research Colloquia**, **University of Groningen**. Paper presented: “Constraining Compliance. Explaining Sanctions Effectiveness through the Lens of Veto Players”
 
 {{< /spoiler >}}
+
+
+### Other academic positions
+◦ 2023-ong. Co-chair Standing Group on Political Regimes at SISP (Italian Political Science Association)  
+◦ 2023-ong. Representative of postdoc researchers at the Department of Social and Political Sciences, University of Milan  
+◦ 2022-ong. ​Tutor for the Degree in International Politics, Law, Economics (IPLE), University of Milan
+
