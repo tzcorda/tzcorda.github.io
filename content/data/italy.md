@@ -22,3 +22,4 @@ design:
 
 
 **​Cite as**: Corda, T., and Casiraghi, M. (2025). The party politics of diplomatic engagements: Evidence from Italy. *Italian Political Science Review / Rivista Italiana di Scienza Politica*, 1-15, **[doi.org/10.1017/ipo.2024.30](http://doi.org/10.1017/ipo.2024.30)**. The full dataset is freely downloadable from Harvard Dataverse at: **[doi.org/10.7910/DVN/CY7Y8Z](http://doi.org/10.7910/DVN/CY7Y8Z)**. 
+
