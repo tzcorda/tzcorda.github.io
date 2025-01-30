@@ -3,7 +3,7 @@
 title: T Corda
 
 
-# Full name (for SEO)
+# Full name (for SEO) - "Tiziana Corda Github"
 first_name: Tiziana
 last_name: Corda
 

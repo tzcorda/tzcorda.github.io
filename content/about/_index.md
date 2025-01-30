@@ -13,6 +13,8 @@ commentable: false
 show_related: false
 share: false
 
+##Tiziana Corda Research Fellow Unimi University of Milan Github
+
 ---
 ### Bio
 I am a Research Fellow at the Department of Social and Political Sciences of the University of Milan and Adjunct Professor at Sciences Po and at the University of Pau. ​Currently, I am also co-chair of the Standing Group on Political Regimes at SISP (Italian Political Science Association) and an Associate Research Fellow at ISPI. My main areas of research are authoritarianism, political regimes' transformations and trajectories of democratization / autocratization, and the effects of sanctions and other forms of foreign pressure on these trajectories, with a regional focus on Africa.
