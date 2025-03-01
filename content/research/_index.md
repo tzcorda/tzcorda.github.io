@@ -113,6 +113,9 @@ What effect do domestic political and institutional constraints such as veto pla
   <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
 </svg> PDF 
 {{< /button >}}
+{{< spoiler text="Abs" >}}
+==economic sanctions== ==geopolitics== ==nuclear deal== ==negotiations== ==Iran==
+{{< /spoiler >}}
 
 #### Book chapters
 
@@ -126,6 +129,9 @@ What effect do domestic political and institutional constraints such as veto pla
   <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
 </svg> PDF 
 {{< /button >}}
+{{< spoiler text="Abs" >}}
+==Africa== ==Mali== ==sanctions== ==peace agreement== ==united nations==
+{{< /spoiler >}}
 
 **Corda, T.** (2025). “Not one and the same. A comparison of China’s, Europe’s, and other extra-regional powers’ economic relations with Africa”, in Y. Li, ​F. Leandro, J.T. da Silva, C. Rodrigues (eds), Palgrave Handbook on China-Europe-Africa Relations: Legacies and the New International Order, Palgrave Macmillan, Chapter 43, ISBN: 978-981-97-5640-7_43.  
 {{< button link="https://link.springer.com/chapter/10.1007/978-981-97-5640-7_43" >}} 
@@ -139,6 +145,10 @@ What effect do domestic political and institutional constraints such as veto pla
 {{< /button >}}{{< button link="/data/#other-data-used-in-publications" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125" />
 </svg> DATA {{< /button >}}
+{{< spoiler text="Abs" >}}
+This chapter offers a comparative analysis of the economic ties between Africa and extra-regional powers in the areas of trade, aid, and investment, with a view to best capture the past and current impact of each relationship, especially those with China and the European Union, as well as spaces for future trilateral cooperation. Since the early 2000s, an ever-growing number of countries in the world has slowly (re-)awakened to Africa's economic potential. New partnerships have emerged and so has competition. What triggered those partnerships? How did they differ from one another? How can they cooperate with one another? While extant research abounds with analyses of bilateral relations, it conspicuously lacks comparative perspectives as well as considerations on trilateral cooperation. A comparative re-examination of past economic trends, by partner and sector, remains crucial to capture the real extent of the international economic relations between African states and external powers and to anticipate future trajectories. Therefore, looking back at the past two decades with harmonized quantitative data and comparative insights, the chapter sheds light on the actual dimension of China’s economic presence in Africa, the strong and weak points of Africa’s major extra-regional economic partners, and space for future trilateral cooperation.
+==Africa== ==China== ==Europe== ==economic trade== ==aid==
+{{< /spoiler >}}
 
 **Corda, T.** (2024). “Democratic Sanctions in Africa. A Reassessment of their Selective and Inconsistent Use across Multiple Senders”, in A. Bultrini, F. Giumelli, C. Portela, and M. Sossai (eds), International Sanctions in Practice: An Interdisciplinary Perspective, Routledge, pp. 161-177. ISBN: 9781032481302.  
 {{< button link="https://www.routledge.com/International-Sanctions-in-Practice-An-Interdisciplinary-Perspective/Bultrini-Giumelli-Portela-Sossai/p/book/9781032481302?srsltid=AfmBOoqDjezE8aDkfyIJCPUDg7QejDyBhzVk7xgmA5N9r8uSnEInNzpZ" >}} 
@@ -150,6 +160,10 @@ What effect do domestic political and institutional constraints such as veto pla
   <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
 </svg> PDF 
 {{< /button >}}
+{{< spoiler text="Abs" >}}
+When it comes to sanctions, Africa plays a major, albeit often overlooked, role. Not only is it a primary target of these measures, but it is al- so a primary sender of them. African regimes have been frequently targeted by unilateral as well as multilateral sanctions even since before the latter became in higher demand after the end of the Cold War. Since the early 2000s, they have also become active senders in their own region, as several African region- al organizations began imposing democratic sanctions against local regimes. While such developments have been largely praised, the recently growing in- consistencies in their application at a time of a return of coups and close au- thoritarianism across the continent demand a reassessment of their use. Look- ing at all the democratic sanctions imposed in Africa by regional and extra- regional actors since the 1990s, this chapter aims to examine the factors that influence their imposition in the region, exposing variations in their selective use across senders, and reflecting on the causes of recent inconsistencies.
+==Africa== ==sanctions== ==coups== ==democracy== ==elections==
+{{< /spoiler >}}
 
 Cassani, A., Carbone, G., and **Corda, T.** (2024). “Sub-Saharan Africa”, in A. Croissant and L. Tomini (eds), Routledge Handbook of Autocratization, Routledge, pp. 548-563. DOI: 10.4324/9781003306900-43.  
 {{< button link="https://www.routledge.com/The-Routledge-Handbook-of-Autocratization/Croissant-Tomini/p/book/9781032308333?srsltid=AfmBOopdt3_u7IFP7okb_0ppZ1B2cACV-4vVNGIM4FUfc-vZBNRykjqi" >}} 
@@ -161,6 +175,10 @@ Cassani, A., Carbone, G., and **Corda, T.** (2024). “Sub-Saharan Africa”, in
   <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
 </svg> PDF 
 {{< /button >}}
+{{< spoiler text="Abs" >}}
+This chapter focuses on autocratization in sub-Saharan Africa ─ the region encompassing the non-Mediterranean states of the African continent─which we further differentiate in West, Central, Eastern, and Southern Africa. We identify term limit manipulation and military takeover as the two main contemporary patterns of autocratization that characterize the region. We examine these modes of autocratization in light of some of the continent's unresolved issues – e.g., state weakness, conflicts, the politicization of ethnic cleavages, and personal rule – and we highlight the role played by external actors as well as the connections between these processes of political change, development, and public opinion.
+==Africa== ==autocratization== ==coups== ==term limits== ==development==
+{{< /spoiler >}}
 
 **Corda, T.** (2021). “Not All Plain Sailing: The Highs and Lows of Iran’s Scramble for the Horn of Africa” (pp. 485-529), in F. Leandro, C. Branco, F. Caba-Maria (eds), The Geopolitics of Iran. Singapore: Palgrave Macmillan. DOI: 10.1007/978-981-16-3564-9_19  
 {{< button link="https://doi.org/10.1007/978-981-16-3564-9_19" >}} 
@@ -172,6 +190,10 @@ Cassani, A., Carbone, G., and **Corda, T.** (2024). “Sub-Saharan Africa”, in
   <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
 </svg> PDF 
 {{< /button >}}
+{{< spoiler text="Abs" >}}
+This chapter traces the evolution and significance of the presence of the Islamic Republic of Iran in the Horn of Africa. Compared to other areas of Iran’s neighbourhood, Tehran’s power projection in this African subregion has largely remained under-researched. Yet, lately, foreign powers’ renewed interest in the Horn following the latter’s growing geostrategic relevance has contributed to reviving the academic debate related to it. By adopting a complex realist theoretical framework, the aim of this chapter is to explore the reasons why the Horn of Africa is a very coveted spot for many foreign powers, including Iran; which objectives have driven Tehran’s policies in that area; and how its élites have tried to pursue them over the past decades. To do so, after a brief overview of the Horn’s inherent value, the chapter first presents the core dimensions of the strategy Iran has devised to meet its interests there. Then, it moves onto the empirical research proper, consisting in a chronological, in-depth analysis of Iran’s actions in the Horn region, across the four main dimensions which constitute its Horn strategy: political support, military interactions, economic relations, and, to a lesser degree than in other African regions, ideological and soft power penetration. The empirical analysis reveals the complex web of global, regional, and domestic factors behind Iran’s Horn policies and the impossibility to separate the dynamics of Iran’s reach towards the Horn from those of its regional and extra-regional competitors.
+==Africa== ==Horn== ==Iran== ==foreign relations== ==diplomacy==
+{{< /spoiler >}}
 
 #### Book reviews and peer-reviewed policy reports
 
