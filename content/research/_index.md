@@ -39,7 +39,7 @@ Country profiles and analyses for the 2017, 2018, 2019 editions of the Atlante G
 ### Publications
 #### Journal articles
 
-**Corda, T.**, and Casiraghi, M. (2025). The party politics of diplomatic engagements: Evidence from Italy. *Italian Political Science Review / Rivista Italiana di Scienza Politica* {{< tooltip title="Q2,&nbsp;5Y-IF 1.7" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 12px; height: 12px; vertical-align: baseline; display: inline;">
+**Corda, T.**, and Casiraghi, M. (2025). The party politics of diplomatic engagements: Evidence from Italy. *Italian Political Science Review / Rivista Italiana di Scienza Politica* {{< tooltip title="Q2, 5Y-IF 1.7" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 12px; height: 12px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="m11.25 11.25.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9-3.75h.008v.008H12V8.25Z" />
 </svg>{{< /tooltip >}}, online first. DOI: 10.1017/ipo.2024.30  
 {{< button link="https://doi.org/10.1017/ipo.2024.30" >}} 
