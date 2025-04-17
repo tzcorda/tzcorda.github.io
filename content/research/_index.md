@@ -39,7 +39,7 @@ Country profiles and analyses for the 2017, 2018, 2019 editions of the Atlante G
 ### Publications
 #### Journal articles
 
-**Corda, T.**, and Casiraghi, M. (2025). The party politics of diplomatic engagements: Evidence from Italy. *Italian Political Science Review / Rivista Italiana di Scienza Politica* {{< tooltip title="Q2,·5Y–IF·1.7" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 12px; height: 12px; vertical-align: baseline; display: inline;">
+**Corda, T.**, and Casiraghi, M. (2025). The party politics of diplomatic engagements: Evidence from Italy. *Italian Political Science Review / Rivista Italiana di Scienza Politica* {{< tooltip title="5YIF:1.7(Q2)" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 12px; height: 12px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="m11.25 11.25.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9-3.75h.008v.008H12V8.25Z" />
 </svg>{{< /tooltip >}}, online first. DOI: 10.1017/ipo.2024.30  
 {{< button link="https://doi.org/10.1017/ipo.2024.30" >}} 
@@ -58,7 +58,9 @@ Leaders decide to engage diplomatically with their foreign peers for various rea
 ==autocracy== ==democracy== ==diplomatic visits== ==Italy== ==political ideology==
 {{< /spoiler >}}
 
-**Corda, T.** (2024). In-Group We Trust, No More? How Senders’ Legitimacy Shapes the Success of Sanctions-Based Democracy Promotion, *Cooperation and Conflict*, online first. DOI: 10.1177/00108367241298929  
+**Corda, T.** (2024). In-Group We Trust, No More? How Senders’ Legitimacy Shapes the Success of Sanctions-Based Democracy Promotion, *Cooperation and Conflict* {{< tooltip title="5YIF:2.4(Q2)" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 12px; height: 12px; vertical-align: baseline; display: inline;">
+  <path stroke-linecap="round" stroke-linejoin="round" d="m11.25 11.25.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9-3.75h.008v.008H12V8.25Z" />
+</svg>{{< /tooltip >}}, online first. DOI: 10.1177/00108367241298929  
 {{< button link="https://doi.org/10.1177/00108367241298929" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244" />
@@ -75,7 +77,9 @@ For decades, pro-democracy states and organizations have been using coercive mea
 ==Africa== ==coups== ==democracy== ==regional organizations== ==sanctions==
 {{< /spoiler >}}
 
-**Corda, T.** (2023). For things to remain the same, how many things have to change? Elite continuity and change after leadership changes, *Democratization, ​40*(8), 1435-1454. DOI: 10.1080/13510347.2023.2189699  
+**Corda, T.** (2023). For things to remain the same, how many things have to change? Elite continuity and change after leadership changes, *Democratization*{{< tooltip title="5YIF:4.2(Q1)" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 12px; height: 12px; vertical-align: baseline; display: inline;">
+  <path stroke-linecap="round" stroke-linejoin="round" d="m11.25 11.25.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9-3.75h.008v.008H12V8.25Z" />
+</svg>{{< /tooltip >}}, *​40*(8), 1435-1454. DOI: 10.1080/13510347.2023.2189699  
 {{< button link="https://doi.org/10.1080/13510347.2023.2189699" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244" />
@@ -90,7 +94,9 @@ After leadership changes, how do new leaders recast the composition of their sur
 ==Africa== ==cabinets== ==elites== ==leadership change== ==reshuffles==
 {{< /spoiler >}}
 
-**Corda, T.** (2023). Constraining compliance? Reconsidering the effect of domestic veto players on sanctions success, *Defence and Peace Economics, 34*(7): 880-892. DOI: 10.1080/10242694.2022.2158288  
+**Corda, T.** (2023). Constraining compliance? Reconsidering the effect of domestic veto players on sanctions success, *Defence and Peace Economics*{{< tooltip title="5YIF:1.9(Q2)" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 12px; height: 12px; vertical-align: baseline; display: inline;">
+  <path stroke-linecap="round" stroke-linejoin="round" d="m11.25 11.25.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9-3.75h.008v.008H12V8.25Z" />
+</svg>{{< /tooltip >}}, *34*(7): 880-892. DOI: 10.1080/10242694.2022.2158288  
 {{< button link="https://doi.org/10.1080/10242694.2022.2158288" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244" />
