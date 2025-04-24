@@ -16,11 +16,11 @@ share: false
 
 ### Academic teaching
 ##### A.Y. 2024/25
-◦ Adj Professor 'Sanctions & the Politics of Autocratic Survival'(4 ECTS, BA, Sciences Po Paris{{< tooltip title="In wonderful Menton" >}} 
+◦ Adj Professor 'Sanctions & the Politics of Autocratic Survival'(4 ECTS, BA, Sciences Po Paris{{< tooltip title="Campus de Menton" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 12px; height: 12px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="m11.25 11.25.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9-3.75h.008v.008H12V8.25Z" />
 </svg>{{< /tooltip >}})  
-◦ Adj Professor 'Political Science' (3 ECTS, BA, University of Pau{{< tooltip title="In wonderful Bayonne" >}} 
+◦ Adj Professor 'Political Science' (3 ECTS, BA, University of Pau{{< tooltip title="Campus de Bayonne" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 12px; height: 12px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="m11.25 11.25.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9-3.75h.008v.008H12V8.25Z" />
 </svg>{{< /tooltip >}})  
