@@ -50,7 +50,7 @@ share: false
 
 {{< spoiler text="Full list, including occasional lectures" >}}
 
-==May 2025== **SSD** Società per lo Studio della Democrazia, **Palazzo Strozzi, Florence**. Presentation on: “Le trasformazioni del sistema internazionale e le sfide ai regimi politici: autocratizzazione, aiuti, Africa"
+==May 2025== **Speaker**, Società per lo Studio della Democrazia (SSD), **Palazzo Strozzi, Florence**. Debate on: “Le trasformazioni del sistema internazionale e le sfide ai regimi politici: autocratizzazione, aiuti, Africa"
 
 ==February 2025== **NASP** Seminar Series, **University of Milan**. Paper presented: “The external dimension of regime legitimation: how political leaders leverage international engagement to legitimize their rule"
 
