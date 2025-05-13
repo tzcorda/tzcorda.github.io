@@ -50,7 +50,9 @@ share: false
 
 {{< spoiler text="Full list, including occasional lectures" >}}
 
-==February 2025== **NASP** Seminar Series, **University of Milan**. Paper presented: “The external dimension of regime legitimation: how political leaders leverage international engagement to legitimize their rule
+==May 2025== **SSD** Società per lo Studio della Democrazia, **Palazzo Strozzi, Florence**. Presentation on: “Le trasformazioni del sistema internazionale e le sfide ai regimi politici: autocratizzazione, aiuti, Africa"
+
+==February 2025== **NASP** Seminar Series, **University of Milan**. Paper presented: “The external dimension of regime legitimation: how political leaders leverage international engagement to legitimize their rule"
 
 ==October 2024== **Lecturer**, States, politics, and conflicts in Africa (in Italian), BA course on Political Science, **University of Milan**
 
