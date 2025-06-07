@@ -50,7 +50,11 @@ share: false
 
 {{< spoiler text="Full list, including occasional lectures" >}}
 
-==May 2025== **Speaker**, Società per lo Studio della Democrazia (SSD), **Palazzo Strozzi, Florence**. Debate on: “Le trasformazioni del sistema internazionale e le sfide ai regimi politici: autocratizzazione, aiuti, Africa"
+==June 2025== **EPSA European Political Sciences Association**, Universidad Carlos III **Madrid, Spain**. Paper presented “Democratic rhetoric in autocratizing regimes” (with G. Pagano).
+
+==June 2025== **Workshop on Political Regimes and their Search for Legitimacy**, – co-organised in **Milan, Italy** by SISP and University of Milan. Convenor and chair.
+
+==May 2025== **Società per lo Studio della Democrazia (SSD)**, Palazzo Strozzi, Florence. Debate on: “Le trasformazioni del sistema internazionale e le sfide ai regimi politici: autocratizzazione, aiuti, Africa". Speaker.
 
 ==February 2025== **NASP** Seminar Series, **University of Milan**. Paper presented: “The external dimension of regime legitimation: how political leaders leverage international engagement to legitimize their rule"
 
