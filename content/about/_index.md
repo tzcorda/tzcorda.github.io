@@ -34,9 +34,9 @@ If your browser does not load the frame, click [here](https://drive.google.com/f
 
 {{< /details >}}
 
-Work address:
-Tiziana Corda
-Research Fellow and Adjunct Professor
-via Conservatorio 7, Milan 20122
+**Work address** 📍  
+Tiziana Corda  
+Research Fellow and Adjunct Professor  
+via Conservatorio 7, Milan 20122  
 Room 202  
 {{< line_break >}}
