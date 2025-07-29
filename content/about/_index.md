@@ -28,11 +28,15 @@ Now based in Italy. Long ago, also in Brussels, Tehran, and Cape Town.
 ### CV
 
 {{< details class="my-custom-class" summary="Download CV" open=false altSummary="Click again to close" >}}
-Tiziana Corda  (tzcorda.github.io)  
 If your browser does not load the frame, click [here](https://drive.google.com/file/d/12A9y-K0LUMwUeiWPq9IQqFa4ugQzwt_x/view)
 
 <iframe src="https://drive.google.com/file/d/12A9y-K0LUMwUeiWPq9IQqFa4ugQzwt_x/preview" width="700" height="400" allow="autoplay"> </iframe>
 
 {{< /details >}}
 
+Work address:
+Tiziana Corda
+Research Fellow and Adjunct Professor
+via Conservatorio 7, Milan 20122
+Room 202  
 {{< line_break >}}
