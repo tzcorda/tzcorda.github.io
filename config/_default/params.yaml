@@ -42,7 +42,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© 2024-{year} Tiziana Corda. Github. Licenced under CC BY NC ND 4.0. No cookies here.'
+    notice: '© 2024-{year} T Corda. Licenced under CC BY NC ND 4.0. No cookies here.'
     license:
       enable: false
       allow_derivatives: false

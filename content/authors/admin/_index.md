@@ -23,7 +23,7 @@ organizations:
     url: https://www.unimi.it
 
 # Short bio (displayed in user profile at end of posts)
-bio: Work in progress
+bio: Working on authoritarian politics and regime transformations, aid and sanctions, Africa.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
