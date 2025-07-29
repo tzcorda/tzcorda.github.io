@@ -23,7 +23,7 @@ organizations:
     url: https://www.unimi.it
 
 # Short bio (displayed in user profile at end of posts)
-bio: Working on authoritarian politics, regime transformations, foreign pressure.
+bio: Working on authoritarian politics, regime transformations, foreign pressure
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
