@@ -33,11 +33,14 @@ If your browser does not load the frame, click [here](https://drive.google.com/f
 <iframe src="https://drive.google.com/file/d/12A9y-K0LUMwUeiWPq9IQqFa4ugQzwt_x/preview" width="700" height="400" allow="autoplay"> </iframe>
 
 {{< /details >}}
-
+  
+{{< line_break >}}
+  
 **Work address** 📍  
 Tiziana Corda  
 Research Fellow  
 Department of Social and Political Sciences  
 via Conservatorio 7, Milan 20122  
 Italy  
+
 {{< line_break >}}
