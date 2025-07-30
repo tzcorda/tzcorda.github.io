@@ -49,7 +49,7 @@ website: "tzcorda.github.io"
   
   
 No cookies here  
-[⟫⟫](/about)  
+       [⟫⟫](/about)  
 {{< /text-center >}}
 
 
