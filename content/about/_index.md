@@ -36,7 +36,8 @@ If your browser does not load the frame, click [here](https://drive.google.com/f
 
 **Work address** 📍  
 Tiziana Corda  
-Research Fellow and Adjunct Professor  
+Research Fellow  
+Department of Social and Political Sciences  
 via Conservatorio 7, Milan 20122  
-Room 202  
+Italy  
 {{< line_break >}}
