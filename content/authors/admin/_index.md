@@ -48,7 +48,6 @@ website: "tzcorda.github.io"
 {{< text-center >}}
   
   
-No cookies here  
   
 [⟫⟫](/about)  
 
