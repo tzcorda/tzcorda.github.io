@@ -47,8 +47,9 @@ website: "tzcorda.github.io"
 {{< line_break >}}
 {{< line_break >}}
 
-
-{{< line_break >}}
+{{< text-center >}}
+Welcome!
+{{< /text-center >}}
 
 {{< text-center >}}
 [⟫⟫](/about)
