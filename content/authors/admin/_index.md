@@ -48,7 +48,7 @@ website: "tzcorda.github.io"
 {{< line_break >}}
 {{< text-center >}}
 Welcome!  
-[⟫⟫]
+<a href="/about">⟫⟫</a>
 {{< /text-center >}}
 {{< line_break >}}  
 
