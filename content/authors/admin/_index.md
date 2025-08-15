@@ -49,9 +49,12 @@ website: "tzcorda.github.io"
 
 {{< text-center >}}
 
-Welcome  
-[⟫⟫](/about)  
+Welcome!  
+{{< /text-center >}}
 
+{{< text-center >}}
+
+[⟫⟫](/about)  
 
 {{< /text-center >}}
 
