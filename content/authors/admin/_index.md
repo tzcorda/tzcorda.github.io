@@ -48,11 +48,13 @@ website: "tzcorda.github.io"
 {{< line_break >}}
 
 {{< text-center >}}
-
 Welcome!
-{{< line_break >}}
-[⟫⟫](/about)  
+{{< /text-center >}}
 
+{{< line_break >}}
+
+{{< text-center >}}
+[⟫⟫](/about)
 {{< /text-center >}}
 
 {{< line_break >}}  
