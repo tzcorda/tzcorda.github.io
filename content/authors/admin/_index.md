@@ -44,12 +44,15 @@ highlight_name: true
 # Author's website URL
 website: "tzcorda.github.io"
 ---
+{{< line_break >}}
+{{< line_break >}}
+
 {{< text-center >}}
-{{< line_break >}}
-{{< line_break >}}
 Welcome!  
 {{< line_break >}}
-[⟫⟫](/about)
+[⟫⟫](/about)  
+{{< /text-center >}}
+
 {{< line_break >}}  
 {{< line_break >}}
 {{< line_break >}}
@@ -57,6 +60,5 @@ Welcome!
 {{< line_break >}}
 {{< line_break >}}
 {{< line_break >}}
-{{< /text-center >}}
 
 
