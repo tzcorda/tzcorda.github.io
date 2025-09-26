@@ -56,10 +56,12 @@ share: false
 ==SISP== &nbsp;&nbsp; &nbsp; 2021 • 2022 • 2023 • 2024 • 2025 &nbsp;   
 ==ECPR== &nbsp; &nbsp; 2022 • 2025  
 ==EPSA== &nbsp; &nbsp; 2024 • 2025  
-==Field== &nbsp;&nbsp; &nbsp; Addis 2023 • Dakar 2024  
+==Field== &nbsp;&nbsp; &nbsp; Cape Town 2015 • Tehran 2016 • Addis 2023 • Dakar 2024  
 ==Other== &nbsp;&nbsp; Groningen 2020, 2022 • Florence 2022 • Berlin 2023 • Brussels 2023 • Parma 2024  
 
 {{< spoiler text="Full list, including occasional lectures" >}}
+
+==October 2025== **Bocconi/NASP** Seminar Series, **Bocconi University/Nasp**. Paper presented: “Democratic rhetoric in autocratizing regimes” (with G. Pagano).
 
 ==September 2025== Convegno 2025 **SISP**–Società Italiana di Scienza Politica. **Naples, Italy**. Paper presented: “L’arte di cambiare senza democratizzare: le trasformazioni autocratiche dal 1990 a oggi“.
 
