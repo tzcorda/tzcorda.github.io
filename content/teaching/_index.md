@@ -61,11 +61,13 @@ share: false
 
 {{< spoiler text="Full list, including occasional lectures" >}}
 
-==October 2025== **Bocconi/NASP** Seminar Series, **Bocconi University/Nasp**. Paper presented: “Democratic rhetoric in autocratizing regimes” (with G. Pagano).
+==November 2025== **IDOS** Seminar, **German Institute of Development and Sustainability**. **Bonn, Germany**. Paper presented: "Seeking support for executive power grabs: leaders’ rhetoric around term-limit violations“.
+
+==October 2025== **Bocconi/NASP** Seminar Series, **Bocconi University/Nasp**. **Milan, Italy**. Paper presented: “Democratic rhetoric in autocratizing regimes” (with G. Pagano).
 
 ==September 2025== Convegno 2025 **SISP**–Società Italiana di Scienza Politica. **Naples, Italy**. Paper presented: “L’arte di cambiare senza democratizzare: le trasformazioni autocratiche dal 1990 a oggi“.
 
-==August 2025== **ECPR European Consortium for Political Research**, University of Thessaloniki. **Thessaloniki, Greece**. Paper presented “Seeking support for executive power grabs: leaders’ rhetoric around term-limit violations“ (with A. Cassani).
+==August 2025== **ECPR European Consortium for Political Research**, University of Thessaloniki. **Thessaloniki, Greece**. Paper presented “Seeking support for executive power grabs: leaders’ rhetoric around term-limit violations“.
 
 ==June 2025== **EPSA European Political Sciences Association**, Universidad Carlos III **Madrid, Spain**. Paper presented “Democratic rhetoric in autocratizing regimes” (with G. Pagano).
 
