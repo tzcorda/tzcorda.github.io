@@ -41,7 +41,7 @@ Country profiles and analyses for the 2017, 2018, 2019 editions of the Atlante G
 
 **Corda, T.**, and Casiraghi, M. (2025). The party politics of diplomatic engagements: Evidence from Italy. *Italian Political Science Review / Rivista Italiana di Scienza Politica* {{< tooltip title="5YIF:1.7(Q2); CiteScore:3.0(Q1)" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 12px; height: 12px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="m11.25 11.25.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9-3.75h.008v.008H12V8.25Z" />
-</svg>{{< /tooltip >}}, online first. DOI: 10.1017/ipo.2024.30  
+</svg>{{< /tooltip >}}, *​55*(3), 223-237. DOI: 10.1017/ipo.2024.30  
 {{< button link="https://doi.org/10.1017/ipo.2024.30" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244" />
@@ -127,12 +127,12 @@ What effect do domestic political and institutional constraints such as veto pla
 
 #### Book chapters
 
-**Corda, T.** (2025). “UN Sanctions in Mali”, in C. Portela, A. Charron, and M. Sossai (eds). Elgar Encyclopedia of International Sanctions, Edward Elgar Publishing (forthcoming)  
-{{< button link=" " >}} 
+**Corda, T.** (2025). “Mali”, in C. Portela, A. Charron, and M. Sossai (eds). Elgar Encyclopedia of International Sanctions, Edward Elgar Publishing, Chapter 39, ISBN: 9781035339532.  
+{{< button link="https://www.elgaronline.com/display/book/9781035339532/chapter39.xml" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244" />
 </svg> DOI 
-{{< /button >}}{{< button link=" " >}} 
+{{< /button >}}{{< button link="https://air.unimi.it/handle/2434/1199956" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
 </svg> PDF 
