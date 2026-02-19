@@ -51,7 +51,7 @@ website: "tzcorda.github.io"
 
 {{< text-center >}}
 
-Originally handcrafted before AI tools took over 
+Handcrafted before AI tools took over 
   
 [⟫⟫](/about)  
 
