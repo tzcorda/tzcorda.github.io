@@ -15,7 +15,7 @@ sections:
         style: 'text-align: centre; font-size: 0.6em; font-weight: 300' 
       background:
         image:
-          filename: thai.png
+          filename: asean.jpg
 
 
 
