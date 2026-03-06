@@ -51,9 +51,9 @@ website: "tzcorda.github.io"
 
 {{< text-center >}}
 
-==Handcrafted before AI tools took over== 
+Handcrafted before AI tools took over  
   
-==[⟫⟫](/about)==  
+[⟫⟫](/about)  
 
 {{< /text-center >}}
 
