@@ -68,10 +68,6 @@ p {
     color: #4c4b4b;
   }
 
-  /* biography block on landing page (after I put white in the  style: 'text-align: centre; font-size: 0.6em; font-weight: 300; color: #ffffff' */
-.bio-text p {
-    color: inherit !important;
-}
 
 /* Apply Libre Franklin font to the entire site
 body {

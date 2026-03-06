@@ -12,7 +12,7 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
       biography:
-        style: 'text-align: centre; font-size: 0.6em; font-weight: 300; color: #ffffff' 
+        style: 'text-align: centre; font-size: 0.6em; font-weight: 300' 
       background:
         image:
           filename: koithai.jpg
