@@ -46,8 +46,6 @@ website: "tzcorda.github.io"
 ---
 
 {{< line_break >}}
-{{< line_break >}}
-
 
 {{< text-center >}}
 
