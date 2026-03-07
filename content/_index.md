@@ -15,7 +15,7 @@ sections:
         style: 'text-align: centre; font-size: 0.6em; font-weight: 300' 
       background:
         image:
-          filename: glass.jpg
+          filename: red.jpg
 
 
 
