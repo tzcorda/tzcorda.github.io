@@ -15,16 +15,17 @@ share: false
 ---
 ### Current research projects
 #### Authoritarianism and external actors in Africa
-​As part of my post-doc project on the external dimension of authoritarian resilience in Africa, I examine how extra-regional actors/factors influence the domestic politics and policies of autocratic regimes in Africa. This consists in comparing how various forms of engagement between external actors and African regimes affect specific components of African regimes’ authoritarian resilience and/or resurgence, focusing not only on the duration of local leaderships but also on the status of a set of political rights and civil liberties and the likelihood of autocratization attempts (coups and term limits violations). 
+​As part of my post-doc project on the external dimension of authoritarian resilience in Africa, my research encompasses the investigation of how extra-regional actors/factors influence the domestic politics and policies of autocratic regimes, the analysis of resistance phenomena to different autocratization processes in Africa (primarily coups and term limits violations), as well as the legitimation strategies deployed by autocratizing or already-authoritarian leaders to consolidate and justify their hold on power. The latter also includes a focus on the legitimation _rhetoric_ which these leaders, regardless of the specific strategy they rely on to remain in power, deploy to try to justify their rule or some specific democratic norm violations.
 
 #### Sanctions, primarily in Africa and by its regional organizations
 In my PhD research I examined international sanctions and the domestic institutional constraints shaping sanctions effectiveness. Focusing on the African continent, I am now developing a new dataset (and related research) on sanctions in Africa, which includes measures imposed both by regional and extra-regional actors. Under this project, I am also going back to the original black-knights sanctions literature to reassess the effects of third parties' sanction-busting activities in Africa.
 
-#### The external dimension of regime support and legitimation
-Any kind of political regime, whether democratic or autocratic, needs to legitimate its rule. This project focuses on external legitimation processes. It does so also by collecting original data on states' diplomatic outreach – of which high-level diplomatic visits (involving HoSGs and MFAs) are the most visible and relevant part.
 
 ### Previous projects
 {{< spoiler text="List" >}}
+#### The external dimension of regime support and legitimation
+Any kind of political regime, whether democratic or autocratic, needs to legitimate its rule. This project focuses on external legitimation processes. It does so also by collecting original data on states' diplomatic outreach – of which high-level diplomatic visits (involving HoSGs and MFAs) are the most visible and relevant part.
+
 #### VERSUS ERC project on elite behaviour, leader survival, and conflicts in Africa
 VERSUS was a research project of the University of Sussex (Principal Investigator: Prof. Clionadh Raleigh) supported by the European Research Council (September 2017-August 2022). VERSUS represents a new direction in political, geographic and empirical subnational studies of conflict and governance. It determines how violence erupts from political processes in varied environments and how common internal and external shocks create new trajectories of governance, violence, and potential for political resilience. My contribution mostly focused on the analysis of Ethiopia's political competition and crises after the rise of Abiy Ahmed.
 
@@ -38,6 +39,42 @@ Country profiles and analyses for the 2017, 2018, 2019 editions of the Atlante G
 
 ### Publications
 #### Journal articles
+
+**Corda, T.**, and Casiraghi, M. (2026). Even sovereignist rulers need foreign friends: how political leaders in Africa
+design external engagement for domestic legitimacy, *Third World Quarterly* {{< tooltip title="5YIF:2.5(Q2); CiteScore:4.6(Q1)" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 12px; height: 12px; vertical-align: baseline; display: inline;">
+  <path stroke-linecap="round" stroke-linejoin="round" d="m11.25 11.25.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9-3.75h.008v.008H12V8.25Z" />
+</svg>{{< /tooltip >}}, online first. DOI: XXXXXXXXXXX  
+{{< button link="https://doi.org/xxxxxxxxx" >}} 
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244" />
+</svg> DOI 
+{{< /button >}}{{< button link="tzcorda.github.io" >}} 
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
+</svg> PDF 
+{{< /button >}}{{< button link="https://doi.org/xxxxxxxxxx" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125" />
+</svg> DATA {{< /button >}}
+{{< spoiler text="Abs" >}}
+All political regimes, even autocracies, require some degree of legitimacy to rule. To this end,
+political leaders employ various legitimation mechanisms. Although most such mechanisms
+are domestic, scholars increasingly acknowledge external processes can also play a role. Yet,
+this external dimension remains under-researched due to data constraints. After outlining
+how leaders’ international engagement contributes to domestic legitimacy and how the
+design of such engagement – particularly the choice of foreign partners – matters, we focus
+on how sovereignist leaders, who rhetorically emphasize self-(re)assertion and national
+autonomy, reconcile this stance with the need for external legitimation. We test our argument
+using original data on all international diplomatic visits made by African leaders in 1990-
+2022, which serves as a proxy for their external legitimation activities. Africa presents a
+highly-relevant context due to its variation in sovereignist discourse and post-colonial foreign
+relations. Our findings reveal that as sovereignist claims intensify, rather than reducing
+external engagement, sovereignist leaders reconfigure their partnerships by increasingly
+distancing themselves from former colonial powers. However, this shift does not indicate a
+broader disengagement from other advanced economies or emerging powers. Instead,
+sovereignist leaders remain aware of the reputational advantages associated with maintaining
+public engagement with various global actors.  
+==Africa== ==external partners== ==legitimation== ==sovereignism== ==visits==
+{{< /spoiler >}}
 
 **Corda, T.**, and Cassani, A. (2026). Countering autocratization from the outside: evidence from Africa, *Democratization* {{< tooltip title="5YIF:4.5(Q1); CiteScore:7.3(Q1)" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 12px; height: 12px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="m11.25 11.25.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9-3.75h.008v.008H12V8.25Z" />

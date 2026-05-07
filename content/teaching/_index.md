@@ -53,13 +53,18 @@ share: false
 
 ### Conferences and lectures
 
-==SISP== &nbsp;&nbsp; &nbsp; 2021 • 2022 • 2023 • 2024 • 2025 &nbsp;   
-==ECPR== &nbsp; &nbsp; 2022 • 2025  
+==SISP== &nbsp;&nbsp; &nbsp; 2021 • 2022 • 2023 • 2024 • 2025 • 2026 &nbsp;   
+==ECPR== &nbsp; &nbsp; 2022 • 2025 • 2026   
 ==EPSA== &nbsp; &nbsp; 2024 • 2025  
 ==Field== &nbsp;&nbsp; &nbsp; Cape Town 2015 • Tehran 2016 • Addis 2023 • Dakar 2024  
-==Other== &nbsp;&nbsp; Groningen 2020, 2022 • Florence 2022 • Berlin 2023 • Brussels 2023 • Parma 2024  
 
 {{< spoiler text="Full list, including occasional lectures" >}}
+
+==June 2026== **Workshop on Democracy and its erosion**, – co-organised in **Florence, Italy** by SISP and the University Institute. Convenor and chair.
+
+==April 2026== Invited speaker at **Università Roma Tre**, Rome. Debate on: “Are EU sanctions replacing UN sanctions? Rethinking their role in today's world". Speaker.
+
+==March 2026== Invited speaker at **Seminari di Politica Comparata**, Università degli Studi di Torino, Turin. Debate on: Regimi politici in trasformazione: crisi, instabilità e continuità". Speaker.
 
 ==November 2025== **IDOS** Seminar, **German Institute of Development and Sustainability**. **Bonn, Germany**. Paper presented: "Seeking support for executive power grabs: leaders’ rhetoric around term-limit violations“.
 
@@ -71,9 +76,11 @@ share: false
 
 ==June 2025== **EPSA European Political Sciences Association**, Universidad Carlos III **Madrid, Spain**. Paper presented “Democratic rhetoric in autocratizing regimes” (with G. Pagano).
 
+==June 2025== Convegno 2025 **SGRI**–Standing Group on International Relations. **Parma, Italy**. Paper presented: “Countering autocratization from the outside: evidence from Africa” (with A. Cassani).
+
 ==June 2025== **Workshop on Political Regimes and their Search for Legitimacy**, – co-organised in **Milan, Italy** by SISP and University of Milan. Convenor and chair.
 
-==May 2025== **Società per lo Studio della Democrazia (SSD)**, Palazzo Strozzi, Florence. Debate on: “Le trasformazioni del sistema internazionale e le sfide ai regimi politici: autocratizzazione, aiuti, Africa". Speaker.
+==May 2025== Invited speaker at **Società per lo Studio della Democrazia (SSD)**, Palazzo Strozzi, Florence. Debate on: “Le trasformazioni del sistema internazionale e le sfide ai regimi politici: autocratizzazione, aiuti, Africa". Speaker.
 
 ==February 2025== **NASP** Seminar Series, **University of Milan**. Paper presented: “The external dimension of regime legitimation: how political leaders leverage international engagement to legitimize their rule"
 
@@ -91,7 +98,7 @@ share: false
 
 ==July 2024== **EPSA** Annual Conference (European Political Science Association), **Cologne, Germany**. Paper presented (by co-author): “The external dimension of regime legitimation: how authoritarian leaders in Africa leverage international engagement to legitimize their rule domestically” (with M. Casiraghi)
  
-==June 2024== Convegno 2024 **SGRI**–Standing Group on International Relations. **Parma, Italy**. Paper presented: “Slower and more reluctant to give in. The dual impact of domestic veto players on sanctions compliance” (with F. Zucchini)
+==June 2024== Convegno 2024 **SGRI**–Standing Group on International Relations. **Parma, Italy**. Paper presented: “Slower and more reluctant to give in. The dual impact of domestic veto players on sanctions compliance” 
 
 ==December 2023== **Workshop on Resisting the autocratic tur**n – WZB Berlin Social Science Centre and SCRIPTS-Cluster of Excellence. **Berlin, Germany**. Paper presented: “Countering autocratization from the outside: evidence from Africa” (with A. Cassani) 
 
