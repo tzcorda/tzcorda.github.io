@@ -40,8 +40,26 @@ Country profiles and analyses for the 2017, 2018, 2019 editions of the Atlante G
 ### Publications
 #### Journal articles
 
-**Corda, T.**, and Casiraghi, M. (2026). Even sovereignist rulers need foreign friends: how political leaders in Africa
-design external engagement for domestic legitimacy, *Third World Quarterly* {{< tooltip title="5YIF:2.5(Q2); CiteScore:4.6(Q1)" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 12px; height: 12px; vertical-align: baseline; display: inline;">
+**Corda, T.**, Carbone, G., and Mella, C. (2026). Beyond Recipient Needs and Donor Self-Interests: Third-Kind Relational Drivers of Italy’s Aid Policy in Africa, *Journal of Development Studies* {{< tooltip title="5YIF:2.8(Q2); CiteScore:4.7(Q1)" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 12px; height: 12px; vertical-align: baseline; display: inline;">
+  <path stroke-linecap="round" stroke-linejoin="round" d="m11.25 11.25.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9-3.75h.008v.008H12V8.25Z" />
+</svg>{{< /tooltip >}}, online first. DOI: 10.1080/01436597.2026.2672508  
+{{< button link="https://doi.org/10.1080/01436597.2026.XXXXXX" >}} 
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244" />
+</svg> DOI 
+{{< /button >}}{{< button link="tzcorda.github.io" >}} 
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
+</svg> PDF 
+{{< /button >}}{{< button link="https://doi.org/xxxxxxxxxx" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125" />
+</svg> DATA {{< /button >}}
+{{< spoiler text="Abs" >}}
+As global aid budgets shrink, understanding donor motives behind aid allocation can help anticipate donor behaviour and inform recipient strategies. This paper contributes to donor-focused aid allocation research and broader debates on evolving patterns in international development cooperation by investigating the determinants of Italy’s bilateral aid allocation to African countries over the past decades, with a focus on explanations beyond traditional humanitarian or strategic motivations. Using a newly-assembled dataset and a combination of Tobit and two-stage Cragg-Hurdle models, complemented by a series of sensitivity analyses, we test a set of third-kind relational hypotheses, emphasizing the role of other donors’ presence and recipient leaders’ diplomatic engagement. Findings show that Italy allocates more aid to countries with competitive donor environments, particularly when the overall aid market is large, and to those whose leaders conduct high-level visits to Rome. These dynamics suggest that aid allocation is shaped not only by domestic priorities and humanitarian needs, but also by relational factors emerging from multi-actor interactions.  
+==Africa== ==aid== ==donor concentration== ==Italy== ==relational factors== ==visits==
+{{< /spoiler >}}
+
+**Corda, T.**, and Casiraghi, M. (2026). Even sovereignist rulers need foreign friends: how political leaders in Africa design external engagement for domestic legitimacy, *Third World Quarterly* {{< tooltip title="5YIF:2.5(Q2); CiteScore:4.6(Q1)" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 12px; height: 12px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="m11.25 11.25.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9-3.75h.008v.008H12V8.25Z" />
 </svg>{{< /tooltip >}}, online first. DOI: 10.1080/01436597.2026.2672508  
 {{< button link="https://doi.org/10.1080/01436597.2026.2672508" >}} 
