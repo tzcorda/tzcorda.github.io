@@ -32,7 +32,6 @@ Other datasets track more in detail:
 {{< /details >}}  
   
 ##### Africa
-Work in progress, with research assistants from Bocconi University, University of Warwick, University of Groningen.
 This dataset includes information for the visits involving the Ministers of Foreign Affairs of selected African countries in 2010-2022.  
 **Cite as**: Burman Roy, S., Rotella, S., Ballini, C., Bardazzi, M., Bosio, F., Damiani, U., Della Gatta, G.M., Klier, N.S., Manfredini, F., Pesci, S., Pirrello, A., Podano, F., and Corda, T. (2026). Africa's Diplomatic Visits (Ministers of Foreign Affairs), Harvard Dataset. https://doi.org/10.7910/DVN/QXOUAR.   
 
