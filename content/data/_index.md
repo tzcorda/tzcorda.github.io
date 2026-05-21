@@ -33,7 +33,7 @@ Other datasets track more in detail:
   
 ##### Africa
 This dataset includes information for the visits involving the Ministers of Foreign Affairs of selected African countries in 2010-2022.  
-**Cite as**: Burman Roy, S., Rotella, S., Ballini, C., Bardazzi, M., Bosio, F., Damiani, U., Della Gatta, G.M., Klier, N.S., Manfredini, F., Pesci, S., Pirrello, A., Podano, F., and Corda, T. (2026). Africa's Diplomatic Visits (Ministers of Foreign Affairs), Harvard Dataset. https://doi.org/10.7910/DVN/QXOUAR.   
+**Cite as**: Burman Roy, S., Rotella, S., Ballini, C., Bardazzi, M., Bosio, F., Damiani, U., Della Gatta, G.M., Klier, N.S., Manfredini, F., Pesci, S., Pirrello, A., Podano, F., and Corda, T. (2026). "Africa's Diplomatic Visits (Ministers of Foreign Affairs)", **[doi.org/10.7910/DVN/QXOUAR](https://doi.org/10.7910/DVN/QXOUAR)**, Harvard Dataverse.   
 
 ##### Horn of Africa
 This dataset tracks the visits involving HoSG, Ministers, Deputies, Military Representatives of Eritrea, Ethiopia, and Sudan, respectively for the following timeframes: [DD.MM.YYYY] 01.04.2018–31.12.2020, 01.04.2018–31.12.2020, 01.04.2019–31.12.2020.  
@@ -41,7 +41,7 @@ This dataset tracks the visits involving HoSG, Ministers, Deputies, Military Rep
 
 ##### Russia/Ukraine
 The visits of the Foreign Ministers of Russia and Ukraine in 2021-2024 (late May). This dataset was developed by Tiziana Corda in collaboration with Paolo Bassanelli, Pietro Borro, Charles Vallerie Dimitui, Luca Dosso, Fredi Drugman, Kamilla Kizbayeva, Tanan Bayanbat.  
-**Cite as**: Corda, T.; Bassanelli, P.; Borro, P.; Dimitui, C.V.; Dosso, L.; Drugman, F.; Kizbayeva, K.; Bayanbat, T. (2024), "Diplomatic Visits of the Ministers of Foreign Affairs of Russia and Ukraine (2021-2024)", **[doi.org/10.7910/DVN/0HQS45](http://doi.org/10.7910/DVN/0HQS45)**, Harvard Dataverse.
+**Cite as**: Corda, T.; Bassanelli, P.; Borro, P.; Dimitui, C.V.; Dosso, L.; Drugman, F.; Kizbayeva, K.; Bayanbat, T. (2024). "Diplomatic Visits of the Ministers of Foreign Affairs of Russia and Ukraine (2021-2024)", **[doi.org/10.7910/DVN/0HQS45](http://doi.org/10.7910/DVN/0HQS45)**, Harvard Dataverse.
 
 ______
 
