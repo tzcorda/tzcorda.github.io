@@ -37,7 +37,7 @@ This dataset includes information for the visits involving the Ministers of Fore
 
 ##### Horn of Africa
 This dataset tracks the visits involving HoSG, Ministers, Deputies, Military Representatives of Eritrea, Ethiopia, and Sudan, respectively for the following timeframes: [DD.MM.YYYY] 01.04.2018–31.12.2020, 01.04.2018–31.12.2020, 01.04.2019–31.12.2020.  
-**Cite as**: Corda, T. (2021). "Diplomatic Outreach Dataset v.1.1 (Horn of Africa)", **[doi.org/10.7910/DVN/NFAEVY](http://doi.org/10.7910/DVN/NFAEVY)**, Harvard Dataverse. Updated versions covering the following years are available upon request.
+**Cite as**: Corda, T. (2021). "Diplomatic Outreach Dataset v.1.1 (Horn of Africa)", **[doi.org/10.7910/DVN/NFAEVY](http://doi.org/10.7910/DVN/NFAEVY)**, Harvard Dataverse. 
 
 ##### Russia/Ukraine
 The visits of the Foreign Ministers of Russia and Ukraine in 2021-2024 (late May). This dataset was developed by Tiziana Corda in collaboration with Paolo Bassanelli, Pietro Borro, Charles Vallerie Dimitui, Luca Dosso, Fredi Drugman, Kamilla Kizbayeva, Tanan Bayanbat.  
