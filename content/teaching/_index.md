@@ -145,7 +145,7 @@ share: false
 
 ==June 2020== **International Relations Research Colloquia**, **University of Groningen**. Paper presented: “Constraining Compliance. Explaining Sanctions Effectiveness through the Lens of Veto Players”
 
-{{< /spoiler >}}
+{{< /spoiler >}}  
 
 
 ##### Other academic duties
