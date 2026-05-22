@@ -147,6 +147,7 @@ share: false
 
 {{< /spoiler >}}  
 
+{{< line_break >}}
 
 ##### Other academic duties
 ◦ 2023-ong. Co-chair Standing Group on Political Regimes at SISP (Italian Political Science Association)  
