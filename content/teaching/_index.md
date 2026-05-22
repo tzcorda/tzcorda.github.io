@@ -52,7 +52,7 @@ share: false
 ◦ ​Teaching Assistant 'Political Science' (9 ECTS, BA, University of Milan)
 
 ### Academic service
-#### Conferences and invited talks
+##### Conferences and invited talks
 
 ==SISP== &nbsp;&nbsp; &nbsp; 2021 • 2022 • 2023 • 2024 • 2025 • 2026 &nbsp;   
 ==ECPR== &nbsp; &nbsp; 2022 • 2025 • 2026   
@@ -148,7 +148,7 @@ share: false
 {{< /spoiler >}}
 
 
-#### Other academic duties
+##### Other academic duties
 ◦ 2023-ong. Co-chair Standing Group on Political Regimes at SISP (Italian Political Science Association)  
 ◦ 2023-ong. Representative of postdoc researchers at the Department of Social and Political Sciences, University of Milan  
 ◦ 2022-2025. ​Tutor for the Degree in International Politics, Law, Economics (IPLE), University of Milan
