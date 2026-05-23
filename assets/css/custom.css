@@ -59,15 +59,25 @@ footer .powered-by a:hover {
 .dark footer .powered-by a:hover {
     color: #8e8f8e; /* Change link color on hover in dark theme */
   }
- 
+
+
   /*font of the whole website*/
 
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300;400;500&display=swap');
+
+body, p, h1, h2, h3, h4, h5, h6, a, li, nav {
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+  /*font of the whole website*/
+
+  /* Restore Verdana 
 p {
-    font-family: verdana;
+    font-family: verdana; 
     font-size: 14px;
     color: #4c4b4b;
   }
-
+*/
 
 /* Apply Libre Franklin font to the entire site
 body {
