@@ -26,6 +26,10 @@
     transition-duration: .15s
 }
 
+.nav-link.active {
+    font-weight: 500 !important;
+}
+
 /*smaller font scrollbar*/
 /* Target specific scrollbar elements */
 .hb-scrollbar {
@@ -232,10 +236,6 @@ body.dark,
 /* to make it bold when TOC is active/on... but does not work*/
 #TableOfContents li a.active {
     font-weight: 500 !important; /*to make it bold when there, otherwise leave "normal" instead of 500*/
-}
-
-.hb-scrollbar a:is(.text-gray-900, .dark\:text-white, .text-primary-600) {
-    font-weight: 600 !important;
 }
 
 .dark #TableOfContents li a:hover,
