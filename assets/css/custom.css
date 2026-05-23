@@ -26,8 +26,9 @@
     transition-duration: .15s
 }
 
+/*to make nav bar header bold when active*/
 .nav-link.active {
-    font-weight: 500 !important;
+    font-weight: 400 !important;
 }
 
 /*smaller font scrollbar*/
@@ -35,6 +36,11 @@
 .hb-scrollbar {
     font-size: 0.6rem;
     font-weight: 300;
+}
+
+/*to make it bold when active, thanks to custom.js*/
+.hb-scrollbar a {
+    transition: font-weight 0.2s, color 0.2s;
 }
 
 /* Decrease the size of the footer */
