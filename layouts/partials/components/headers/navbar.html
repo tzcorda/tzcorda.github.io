@@ -197,3 +197,8 @@
   {{ if $show_search }}
   <div id="search" class="hidden p-3"></div>
   {{ end }}
+
+  {{ $script := resources.Get "js/custom.js" }}
+  {{ with $script }}
+    <script src="{{ .RelPermalink }}"></script>
+  {{ end }}
