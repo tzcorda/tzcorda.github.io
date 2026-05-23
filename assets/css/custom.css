@@ -233,10 +233,6 @@ body.dark,
     font-weight: 500 !important; /*to make it bold when there, otherwise leave "normal" instead of 500*/
 }
 
-#TableOfContents a.text-gray-900 {
-    font-weight: 500 !important;
-}
-
 .dark #TableOfContents li a:hover,
 .toc-top li a:hover {
     color: #f8f8f2;
