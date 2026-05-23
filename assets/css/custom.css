@@ -35,7 +35,7 @@
 /* Target specific scrollbar elements */
 .hb-scrollbar {
     font-size: 0.6rem;
-    font-weight: 300;
+    font-weight: 300 !important; /*leave it even with custom.js*/
 }
 
 /*to make it bold when active, thanks to custom.js*/
