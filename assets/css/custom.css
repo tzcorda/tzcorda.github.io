@@ -230,6 +230,10 @@ body.dark,
 }
 
 #TableOfContents li a.active {
+    font-weight: 500 !important; /*to make it bold when there, otherwise leave "normal" instead of 500*/
+}
+
+#TableOfContents a.text-gray-900 {
     font-weight: 500 !important;
 }
 
@@ -240,7 +244,7 @@ body.dark,
 }
 
 .dark #TableOfContents li a.active {
-    font-weight: 500 !important;
+    font-weight: 500 !important; /*otherwise leave "normal"*/
     color: #f8f8f2;
 }
 
