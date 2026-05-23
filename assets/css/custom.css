@@ -72,13 +72,18 @@ body, p, h1, h2, h3, h4, h5, h6, a, li, nav {
 }
 
 h1, h2, h3, h4 {
-    font-size: 20px;
+    font-size: 19px;
     font-weight: 500;
 }
 
-nav {
-    font-size: 12px;
+h5, h6 {
+    font-size: 20px;
     font-weight: 400;
+}
+
+nav {
+    font-size: 11px;
+    font-weight: 300;
 }
 
   /* Restore Verdana 
