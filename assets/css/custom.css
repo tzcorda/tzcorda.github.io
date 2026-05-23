@@ -229,6 +229,10 @@ body.dark,
     border-left: 0px solid rgba(255, 255, 255, 0.65);
 }
 
+#TableOfContents li a.active {
+    font-weight: 500 !important;
+}
+
 .dark #TableOfContents li a:hover,
 .toc-top li a:hover {
     color: #f8f8f2;
@@ -236,7 +240,7 @@ body.dark,
 }
 
 .dark #TableOfContents li a.active {
-    font-weight: normal;
+    font-weight: 500 !important;
     color: #f8f8f2;
 }
 
