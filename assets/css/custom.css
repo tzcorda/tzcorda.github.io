@@ -229,9 +229,19 @@ body.dark,
     border-left: 0px solid rgba(255, 255, 255, 0.65);
 }
 
+/* to make it bold when TOC is active/on... but does not work*/
 #TableOfContents li a.active {
     font-weight: 500 !important; /*to make it bold when there, otherwise leave "normal" instead of 500*/
 }
+
+
+const observer = new MutationObserver(() => {
+    document.querySelectorAll('.hb-scrollbar a').forEach(link => {
+        link.style.fontWeight = link.classList.contains('text-gray-900') ? '600' : '300';
+    });
+});
+
+observer.observe(document.querySelector('.hb-scrollbar'), { subtree: true, attributes: true });
 
 .dark #TableOfContents li a:hover,
 .toc-top li a:hover {
