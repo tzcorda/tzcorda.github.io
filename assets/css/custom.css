@@ -104,7 +104,7 @@ h5, h6 {
 
 a, li, nav {
     font-size: 13px !important;
-    font-weight: 300 !important;
+    font-weight: 300; /*do not put !important if you want to bold on selection*/
 }
 
   /* Restore Verdana 
