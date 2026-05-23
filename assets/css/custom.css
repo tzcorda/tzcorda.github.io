@@ -281,14 +281,14 @@ body.dark,
 details.my-custom-class {
     color: #a3a1a1; /* Default color */
     font-size: 14px; /* Default font size */
-    font-weight: 500; /* Change to desired weight */
-    font-family: verdana;
+    font-weight: 300; /* Change to desired weight */
+    font-family: 'Libre Franklin', sans-serif;
 }
 
 /* Target summary element */
 details.my-custom-class > summary {
     color: #4c4b4b; /* Customize summary font color */
-    font-size: 13px; /* Customize summary font size */
+    font-size: 14px; /* Customize summary font size */
     font-weight: 300; /* Change to desired weight */
     font-family: 'Libre Franklin', sans-serif;
 }
@@ -296,7 +296,7 @@ details.my-custom-class > summary {
 /* Target inner content */
 details.my-custom-class > :not(summary) {
     color: #4c4b4b; /* Customize inner content font color */
-    font-size: 13px; /* Customize inner content font size */
+    font-size: 14px; /* Customize inner content font size */
     background-color: #e3e0e032; /* Light background color for dark theme */
     font-family: 'Libre Franklin', sans-serif;
 }
@@ -304,7 +304,7 @@ details.my-custom-class > :not(summary) {
 /* Dark theme adjustments for summary element */
 .dark details.my-custom-class > summary {
     color: #ffffff; /* Customize summary font color */
-    font-size: 13px; /* Customize summary font size */
+    font-size: 14px; /* Customize summary font size */
     font-weight: 300;
     font-family: 'Libre Franklin', sans-serif;
 }
