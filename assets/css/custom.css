@@ -72,24 +72,29 @@ body, p, h1, h2, h3, h4, h5, h6, a, li, nav {
 }
 
 h1, h2 {
-    font-size: 20px;
+    font-size: 30px !important; /* "Teaching"*/
     font-weight: 400 !important;
 }
 
-h3, h4 {
-    font-size: 20px;
+h3 {
+    font-size: 25px !important; /*"Academic teaching"*/
+    font-weight: 400 !important;
+}
+
+h4 {
+    font-size: 20px !important; /* "AY2025... ok*/
     font-weight: 400 !important;
 }
 
 h5, h6 {
-    font-size: 20px;
-    font-weight: 400;
-    font-style: italic;
+    font-size: 20px !important;
+    font-weight: 400 !important;
+    font-style: italic !important;
 }
 
-nav {
-    font-size: 11px;
-    font-weight: 300;
+a, li, nav {
+    font-size: 12px !important;
+    font-weight: 300 !important;
 }
 
   /* Restore Verdana 
