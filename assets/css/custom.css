@@ -281,7 +281,7 @@ body.dark,
 details.my-custom-class {
     color: #a3a1a1; /* Default color */
     font-size: 14px; /* Default font size */
-    font-weight: 300; /* Change to desired weight */
+    font-weight: 500; /* Change to desired weight */
     font-family: 'Libre Franklin', sans-serif;
 }
 
