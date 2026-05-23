@@ -15,7 +15,7 @@ share: false
 ---
 
 ### Academic teaching
-##### A.Y. 2025/26
+#### A.Y. 2025/26
 ◦ Adj Professor 'Democratization Studies' (3 ECTS, BA, University of Pau{{< tooltip title="Campus de Bayonne" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 12px; height: 12px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="m11.25 11.25.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9-3.75h.008v.008H12V8.25Z" />
@@ -26,7 +26,7 @@ share: false
 </svg>{{< /tooltip >}})  
 ◦ Teaching Assistant 'Political Science' (9 ECTS, BA, University of Milan)
 
-##### A.Y. 2024/25
+#### A.Y. 2024/25
 ◦ Adj Professor 'Sanctions & the Politics of Autocratic Survival'(4 ECTS, BA, Sciences Po Paris{{< tooltip title="Campus de Menton" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 12px; height: 12px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="m11.25 11.25.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9-3.75h.008v.008H12V8.25Z" />
@@ -37,22 +37,22 @@ share: false
 </svg>{{< /tooltip >}})  
 ◦ Teaching Assistant 'Political Science' (9 ECTS, BA, University of Milan)
 
-##### A.Y. 2023/24
+#### A.Y. 2023/24
 ◦ Instructor 'Concepts and Methods in IR' (3 ECTS, MA, University of Milan)  
 ◦ Teaching Assistant 'Political Science' (9 ECTS, BA, University of Milan)
 
-##### A.Y. 2022/23
+#### A.Y. 2022/23
 ◦ Instructor 'Research Methods in IR' (3 ECTS, MA, University of Milan)  
 ◦ Teaching Assistant 'Political Science' (9 ECTS, BA, University of Milan)
 
-##### A.Y. 2021/22
+#### A.Y. 2021/22
 ◦ Instructor 'Authoritarian Regimes Today' (3 ECTS, BA/MA, University of Milan)  
 ◦ Instructor 'Research Methods in International Relations' (3 ECTS, MA, University of Milan)  
 ◦ Guest lecturer for the course Politics of Conflict (2 classes, 6 ECTS, BA/MA, Bocconi University, instructor: M. Casiraghi)  
 ◦ ​Teaching Assistant 'Political Science' (9 ECTS, BA, University of Milan)
 
 ### Academic service
-##### Conferences and invited talks
+#### Conferences and invited talks
 
 ==SISP== &nbsp;&nbsp; &nbsp; 2021 • 2022 • 2023 • 2024 • 2025 • 2026 &nbsp;   
 ==ECPR== &nbsp; &nbsp; 2022 • 2025 • 2026   
@@ -149,7 +149,7 @@ share: false
 
 {{< line_break >}}
 
-##### Other academic duties
+#### Other academic duties
 ◦ 2023-ong. Co-chair Standing Group on Political Regimes at SISP (Italian Political Science Association)  
 ◦ 2023-ong. Representative of postdoc researchers at the Department of Social and Political Sciences, University of Milan  
 ◦ 2022-2025. ​Tutor for the Degree in International Politics, Law, Economics (IPLE), University of Milan
