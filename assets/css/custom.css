@@ -71,14 +71,20 @@ body, p, h1, h2, h3, h4, h5, h6, a, li, nav {
     font-weight: 300;
 }
 
-h1, h2, h3, h4 {
-    font-size: 19px;
-    font-weight: 500;
+h1, h2 {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+h3, h4 {
+    font-size: 20px;
+    font-weight: 400;
 }
 
 h5, h6 {
     font-size: 20px;
     font-weight: 400;
+    font-style: italic;
 }
 
 nav {
