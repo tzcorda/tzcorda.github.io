@@ -1,13 +1,13 @@
 /* Update the font weight for the entire navigation bar. Works only the size, not weight (see below)*/
 .navbar {
     font-weight: 100 !important; /* Remove bold font */
-    font-size: 13px; /* Set desired font size */
+    font-size: 11px; /* Set desired font size */
 }
 
 /* Ensure the site title (brand) is also styled correctly. Does not work... */
 .navbar .navbar-brand {
     font-weight: 100; /* Remove bold font */
-    font-size: 18px; /* Set desired font size for the site title */
+    font-size: 15px; /* Set desired font size for the site title */
     order: -10; /* Move the site title before the menu items */
 }
 
@@ -29,7 +29,7 @@
 /*smaller font scrollbar*/
 /* Target specific scrollbar elements */
 .hb-scrollbar {
-    font-size: 0.8rem;
+    font-size: 0.6rem;
     font-weight: 300;
 }
 
