@@ -40,7 +40,7 @@
 }
 
 footer .powered-by {
-    font-size: 0.65rem; /* Reduce font size */
+    font-size: 0.8rem; /* Reduce font size */
     font-weight: 300;
   }
   
@@ -283,31 +283,31 @@ details.my-custom-class {
 /* Target summary element */
 details.my-custom-class > summary {
     color: #4c4b4b; /* Customize summary font color */
-    font-size: 14px; /* Customize summary font size */
-    font-weight: 500; /* Change to desired weight */
-    font-family: verdana;
+    font-size: 13px; /* Customize summary font size */
+    font-weight: 300; /* Change to desired weight */
+    font-family: 'Libre Franklin', sans-serif;
 }
 
 /* Target inner content */
 details.my-custom-class > :not(summary) {
     color: #4c4b4b; /* Customize inner content font color */
-    font-size: 14px; /* Customize inner content font size */
+    font-size: 13px; /* Customize inner content font size */
     background-color: #e3e0e032; /* Light background color for dark theme */
-    font-family: verdana;
+    font-family: 'Libre Franklin', sans-serif;
 }
 
 /* Dark theme adjustments for summary element */
 .dark details.my-custom-class > summary {
     color: #ffffff; /* Customize summary font color */
-    font-size: 14px; /* Customize summary font size */
-    font-weight: 500;
-    font-family: verdana;
+    font-size: 13px; /* Customize summary font size */
+    font-weight: 300;
+    font-family: 'Libre Franklin', sans-serif;
 }
 /* Dark theme adjustments for inner content */
 .dark details.my-custom-class > :not(summary) {
     color: #c5c5c3; /* Customize inner content font color */
     background-color: #252525; /* Dark background color for light theme */
-    font-family: verdana;
+    font-family: 'Libre Franklin', sans-serif;
 }
 
 /* change highlighter colour*/
@@ -327,13 +327,13 @@ details.my-custom-class > :not(summary) {
 /* Define the spoiler color for light theme */
 .spoiler {
     color: #4c4b4b; /* Change this to your desired color for light theme */
-    font-size: 14px;
+    font-size: 13px;
 }
 
 /* Define the spoiler color for dark theme */
 .dark .spoiler {
     color: #c5c5c3; /* Change this to your desired color for dark theme */
-    font-size: 14px;
+    font-size: 13px;
 }
 
 /* change links (it will also change name and icons of "authors" section at the bottom of each page)
