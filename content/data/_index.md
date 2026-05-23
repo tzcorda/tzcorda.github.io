@@ -18,7 +18,7 @@ share: false
 ### Diplomatic Outreach datasets
 The Diplomatic Outreach datasets track the bilateral diplomatic visits between countries, providing information on the direction of such visits, the level or seniority of the participants, and their identity. 
 
-##### Italy 
+#### Italy 
 This dataset includes information for the visits involving Italian Presidents, Prime Ministers, and Ministers of Foreign Affairs in 2000-2023.  
 **Cite as**: Corda, T., and Casiraghi, M. (2025). The party politics of diplomatic engagements: Evidence from Italy. Italian Political Science Review / Rivista Italiana di Scienza Politica, 1-15, **[doi.org/10.1017/ipo.2024.30](http://doi.org/10.1017/ipo.2024.30)**. The full dataset is freely downloadable from Harvard Dataverse at: **[doi.org/10.7910/DVN/CY7Y8Z](http://doi.org/10.7910/DVN/CY7Y8Z)**.  {{< button link="/data/italy" >}} DATA PREVIEW {{< /button >}}  
 {{< details class="my-custom-class" summary="Other Italy-focused datasets" open=false altSummary="Click again to close" >}}  
@@ -31,15 +31,15 @@ Other datasets track more in detail:
 {{< line_break >}}
 {{< /details >}}  
   
-##### Africa
+#### Africa
 This dataset includes information for the visits involving the Ministers of Foreign Affairs of selected African countries in 2010-2022.  
 **Cite as**: Burman Roy, S., Rotella, S., Ballini, C., Bardazzi, M., Bosio, F., Damiani, U., Della Gatta, G.M., Klier, N.S., Manfredini, F., Pesci, S., Pirrello, A., Podano, F., and Corda, T. (2026). "Africa's Diplomatic Visits (Ministers of Foreign Affairs)", **[doi.org/10.7910/DVN/QXOUAR](https://doi.org/10.7910/DVN/QXOUAR)**, Harvard Dataverse.   
 
-##### Horn of Africa
+#### Horn of Africa
 This dataset tracks the visits involving HoSG, Ministers, Deputies, Military Representatives of Eritrea, Ethiopia, and Sudan, respectively for the following timeframes: [DD.MM.YYYY] 01.04.2018–31.12.2020, 01.04.2018–31.12.2020, 01.04.2019–31.12.2020.  
 **Cite as**: Corda, T. (2021). "Diplomatic Outreach Dataset v.1.1 (Horn of Africa)", **[doi.org/10.7910/DVN/NFAEVY](http://doi.org/10.7910/DVN/NFAEVY)**, Harvard Dataverse. 
 
-##### Russia/Ukraine
+#### Russia/Ukraine
 The visits of the Foreign Ministers of Russia and Ukraine in 2021-2024 (late May). This dataset was developed by Tiziana Corda in collaboration with Paolo Bassanelli, Pietro Borro, Charles Vallerie Dimitui, Luca Dosso, Fredi Drugman, Kamilla Kizbayeva, Tanan Bayanbat.  
 **Cite as**: Corda, T.; Bassanelli, P.; Borro, P.; Dimitui, C.V.; Dosso, L.; Drugman, F.; Kizbayeva, K.; Bayanbat, T. (2024). "Diplomatic Visits of the Ministers of Foreign Affairs of Russia and Ukraine (2021-2024)", **[doi.org/10.7910/DVN/0HQS45](http://doi.org/10.7910/DVN/0HQS45)**, Harvard Dataverse.
 
