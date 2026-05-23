@@ -67,8 +67,15 @@ footer .powered-by a:hover {
 
 body, p, h1, h2, h3, h4, h5, h6, a, li, nav {
     font-family: 'Libre Franklin', sans-serif;
+    font-size: 11px;
+    font-weight: 300;
+
+
 }
 
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 500;
+}
   /*font of the whole website*/
 
   /* Restore Verdana 
