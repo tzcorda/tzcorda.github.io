@@ -73,7 +73,7 @@ body, p, h1, h2, h3, h4, h5, h6, a, li, nav {
 
 h1, h2 {
     font-size: 20px;
-    font-weight: 400;
+    font-weight: 400 !important;
 }
 
 h3, h4 {
