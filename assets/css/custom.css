@@ -40,7 +40,7 @@
 }
 
 footer .powered-by {
-    font-size: 0.8rem; /* Reduce font size */
+    font-size: 0.7rem; /* Reduce font size */
     font-weight: 300;
   }
   
@@ -93,7 +93,7 @@ h5, h6 {
 }
 
 a, li, nav {
-    font-size: 12px !important;
+    font-size: 13px !important;
     font-weight: 300 !important;
 }
 
