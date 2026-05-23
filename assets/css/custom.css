@@ -234,14 +234,9 @@ body.dark,
     font-weight: 500 !important; /*to make it bold when there, otherwise leave "normal" instead of 500*/
 }
 
-
-const observer = new MutationObserver(() => {
-    document.querySelectorAll('.hb-scrollbar a').forEach(link => {
-        link.style.fontWeight = link.classList.contains('text-gray-900') ? '600' : '300';
-    });
-});
-
-observer.observe(document.querySelector('.hb-scrollbar'), { subtree: true, attributes: true });
+.hb-scrollbar a:is(.text-gray-900, .dark\:text-white, .text-primary-600) {
+    font-weight: 600 !important;
+}
 
 .dark #TableOfContents li a:hover,
 .toc-top li a:hover {
