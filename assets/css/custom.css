@@ -397,4 +397,9 @@ element.style {
 
 .dark #section-resume-biography {
   background-color: transparent !important;
-}    
+}
+
+.dark .home-section-bg.bg-image::before,
+.dark .home-section-bg.bg-image::after {
+  display: none !important;
+}
