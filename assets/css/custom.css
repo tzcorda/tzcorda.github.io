@@ -391,5 +391,5 @@ element.style {
 
 /*have background image appear also in dark mode*/
 .dark .page-body {
-  opacity: 0.3 !important;
+  background-color: rgb(23 24 28 / 0.3) !important;
 }
