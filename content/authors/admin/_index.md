@@ -20,7 +20,7 @@ role: Research Fellow
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Milan 
-    url: https://www.unimi.it
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: Working on authoritarian politics, regime transformations, foreign pressure
