@@ -46,11 +46,11 @@
 /* Decrease the size of the footer */
 #footer {
     padding: 10px; /* Adjust padding as needed */
-    font-size: 10px; /* Adjust font size as needed */
+    font-size: 11px; /* Adjust font size as needed */
 }
 
 footer .powered-by {
-    font-size: 0.7rem; /* Reduce font size */
+    font-size: 0.8rem; /* Reduce font size */
     font-weight: 300;
   }
   
@@ -84,6 +84,11 @@ body, p, h1, h2, h3, h4, h5, h6, a, li, nav {
 h1, h2 {
     font-size: 30px !important; /* "Teaching"*/
     font-weight: 400 !important;
+}
+
+/*to hide h1 (title page) from all the pages*/
+h1.text-4xl.font-bold.tracking-tight {
+  display: none;
 }
 
 h3 {
