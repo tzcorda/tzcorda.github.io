@@ -1,7 +1,6 @@
 ---
 title: About
 date: 2024-12-27
-show_title: false
 hide_date: true
 reading_time: false
 kind: page
