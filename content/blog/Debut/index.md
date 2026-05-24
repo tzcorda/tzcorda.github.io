@@ -9,7 +9,7 @@ share: false
 
 ---
 
-...
+Debut on Github
 
 {{< line_break >}}
 {{< line_break >}}
