@@ -389,4 +389,12 @@ element.style {
     }
 */
 
-    
+/*have background image appear also in dark mode*/
+.dark .home-section-bg.bg-image {
+  background-color: transparent !important;
+  opacity: 1 !important;
+}
+
+.dark #section-resume-biography {
+  background-color: transparent !important;
+}    
