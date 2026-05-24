@@ -28,7 +28,7 @@
 
 /*to make nav bar header bold when active*/
 .nav-link.active {
-    font-weight: 400 !important;
+    font-weight: 450 !important;
 }
 
 /*smaller font scrollbar*/

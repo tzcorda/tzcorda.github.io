@@ -16,6 +16,6 @@ window.addEventListener('scroll', () => {
     });
 
     links.forEach(link => {
-        link.style.fontWeight = link.hash === closest ? '400' : '300';
+        link.style.fontWeight = link.hash === closest ? '450' : '300';
     });
 });
