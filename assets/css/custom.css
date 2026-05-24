@@ -390,14 +390,7 @@ element.style {
 */
 
 /*have background image appear also in dark mode*/
-body.dark #section-resume-biography,
-html.dark #section-resume-biography {
+.dark #page-bg {
   background: transparent !important;
-}
-
-body.dark #section-resume-biography .home-section-bg.bg-image,
-html.dark #section-resume-biography .home-section-bg.bg-image {
-  background-image: url('https://tzcorda.github.io/media/circle_hu11179731501665921633.webp') !important;
   background-color: transparent !important;
-  background-size: cover !important;
 }
