@@ -391,6 +391,5 @@ element.style {
 
 /*have background image appear also in dark mode*/
 .dark #page-bg {
-  background: transparent !important;
-  background-color: transparent !important;
+  opacity: 0.7 !important;
 }
