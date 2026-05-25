@@ -57,8 +57,7 @@ Country profiles and analyses for the 2017, 2018, 2019 editions of the Atlante G
 </svg> PDF•AM 
 {{< /button >}}{{< button link="https://dataverse.org/xxxxxxxxxx" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 6.75 22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3-4.5 16.5" />
-</svg>
- DATA {{< /button >}}
+</svg> DATA {{< /button >}}
 {{< spoiler text="Abs" >}}
 As global aid budgets shrink, understanding donor motives behind aid allocation can help anticipate donor behaviour and inform recipient strategies. This paper contributes to donor-focused aid allocation research and broader debates on evolving patterns in international development cooperation by investigating the determinants of Italy’s bilateral aid allocation to African countries over the past decades, with a focus on explanations beyond traditional humanitarian or strategic motivations. Using a newly-assembled dataset and a combination of Tobit and two-stage Cragg-Hurdle models, complemented by a series of sensitivity analyses, we test a set of third-kind relational hypotheses, emphasizing the role of other donors’ presence and recipient leaders’ diplomatic engagement. Findings show that Italy allocates more aid to countries with competitive donor environments, particularly when the overall aid market is large, and to those whose leaders conduct high-level visits to Rome. These dynamics suggest that aid allocation is shaped not only by domestic priorities and humanitarian needs, but also by relational factors emerging from multi-actor interactions.  
 ==Africa== ==aid== ==donor concentration== ==Italy== ==relational factors== ==visits==
@@ -79,7 +78,7 @@ As global aid budgets shrink, understanding donor motives behind aid allocation 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M21 11.25v8.25a1.5 1.5 0 0 1-1.5 1.5H5.25a1.5 1.5 0 0 1-1.5-1.5v-8.25M12 4.875A2.625 2.625 0 1 0 9.375 7.5H12m0-2.625V7.5m0-2.625A2.625 2.625 0 1 1 14.625 7.5H12m0 0V21m-8.625-9.75h18c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125h-18c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z" />
 </svg> PDF•AM 
-{{< /button >}}{{< button link="https://doi.org/10.1080/01436597.2026.2672508" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+{{< /button >}}{{< button link="https://doi.org/10.1080/01436597.2026.2672508" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 6.75 22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3-4.5 16.5" />
 </svg> DATA {{< /button >}}
 {{< spoiler text="Abs" >}}
@@ -118,7 +117,7 @@ public engagement with various global actors.
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M21 11.25v8.25a1.5 1.5 0 0 1-1.5 1.5H5.25a1.5 1.5 0 0 1-1.5-1.5v-8.25M12 4.875A2.625 2.625 0 1 0 9.375 7.5H12m0-2.625V7.5m0-2.625A2.625 2.625 0 1 1 14.625 7.5H12m0 0V21m-8.625-9.75h18c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125h-18c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z" />
 </svg> PDF•AM 
-{{< /button >}}{{< button link="https://doi.org/10.1080/13510347.2026.2640037" >}}<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
+{{< /button >}}{{< button link="https://doi.org/10.1080/13510347.2026.2640037" >}}<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 6.75 22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3-4.5 16.5" />
 </svg> DATA {{< /button >}}
 {{< spoiler text="Abs" >}}
@@ -137,7 +136,7 @@ With a focus on the autocratization episodes that occurred in Africa during the 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
 </svg> PDF 
-{{< /button >}}{{< button link="https://doi.org/10.13130/RD_UNIMI/TVHWC3" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
+{{< /button >}}{{< button link="https://doi.org/10.13130/RD_UNIMI/TVHWC3" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 6.75 22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3-4.5 16.5" />
 </svg> DATA {{< /button >}}
 {{< spoiler text="Abs" >}}
@@ -156,7 +155,7 @@ For decades, pro-democracy states and organizations have been using coercive mea
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
 </svg> PDF 
-{{< /button >}}{{< button link="https://doi.org/10.7910/DVN/CY7Y8Z" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
+{{< /button >}}{{< button link="https://doi.org/10.7910/DVN/CY7Y8Z" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 6.75 22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3-4.5 16.5" />
 </svg> DATA {{< /button >}}
 {{< spoiler text="Abs" >}}
@@ -237,7 +236,7 @@ What effect do domestic political and institutional constraints such as veto pla
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
 </svg> PDF 
-{{< /button >}}{{< button link="/data/#other-data-used-in-publications" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
+{{< /button >}}{{< button link="/data/#other-data-used-in-publications" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 6.75 22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3-4.5 16.5" />
 </svg> DATA {{< /button >}}
 {{< spoiler text="Abs" >}}
