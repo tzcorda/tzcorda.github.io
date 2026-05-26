@@ -392,6 +392,6 @@ element.style {
 
 /*have background image appear also in dark mode, by hiding 75% of its brightness*/
 :is(.dark .dark\:bg-hb-dark) {
-  background-color: rgb(23 24 28 / 0.75) !important;
+  background-color: rgb(23 24 28 / 0.9) !important;
   opacity: 1 !important;
 }
