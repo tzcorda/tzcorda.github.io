@@ -1,6 +1,6 @@
 ---
 title: Debut
-summary: About time
+summary: On Github
 date: 2024-12-27
 reading_time: true
 commentable: true
