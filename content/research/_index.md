@@ -30,7 +30,7 @@ Any kind of political regime, whether democratic or autocratic, needs to legitim
 VERSUS was a research project of the University of Sussex (Principal Investigator: Prof. Clionadh Raleigh) supported by the European Research Council (September 2017-August 2022). VERSUS represents a new direction in political, geographic and empirical subnational studies of conflict and governance. It determines how violence erupts from political processes in varied environments and how common internal and external shocks create new trajectories of governance, violence, and potential for political resilience. My contribution mostly focused on the analysis of Ethiopia's political competition and crises after the rise of Abiy Ahmed Ali.
 
 #### Political regimes in Sub-Saharan Africa
-Research funded by the Department of Social and Political Science of the University of Milan (February-September 2020) on the evolution of political regimes in Sub-Saharan Africa (book project) and on relations between EU and Africa (policy paper), ahead of the sixth summit between the European Union and the African Union.
+Research funded by the Department of Social and Political Science of the University of Milan (Prof. Giovanni Carbone, February-September 2020) on the evolution of political regimes in Sub-Saharan Africa and on relations between EU and Africa, ahead of the sixth summit between the European Union and the African Union.
 
 #### Atlante Geopolitico Treccani
 Country profiles and analyses for the 2017, 2018, 2019 editions of the Atlante Geopolitico Treccani.
