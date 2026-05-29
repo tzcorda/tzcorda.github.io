@@ -42,7 +42,7 @@ Country profiles and analyses for the 2017, 2018, 2019 editions of the Atlante G
 
 **Corda, T.**, Carbone, G., and Mella, C. (2026). Beyond Recipient Needs and Donor Self-Interests: Third-Kind Relational Drivers of Italy’s Aid Policy in Africa, *Journal of Development Studies* {{< tooltip title="5YIF:2.8(Q2); CiteScore:4.7(Q1)" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 12px; height: 12px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="m11.25 11.25.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9-3.75h.008v.008H12V8.25Z" />
-</svg>{{< /tooltip >}}, online first. DOI:   
+</svg>{{< /tooltip >}}, forthcoming. DOI:   
 {{< button link="https://doi.org/holdonasecond" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244" />
