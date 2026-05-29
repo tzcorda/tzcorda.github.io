@@ -14,11 +14,11 @@ show_related: false
 share: false
 ---
 ### Current research projects
-#### Authoritarianism and external actors in Africa
-​As part of my post-doc project on the external dimension of authoritarian resilience in Africa, my research encompasses the investigation of how extra-regional actors/factors influence the domestic politics and policies of autocratic regimes, the analysis of resistance phenomena to different autocratization processes in Africa (primarily coups and term limits violations), as well as the legitimation strategies deployed by autocratizing or already-authoritarian leaders to consolidate and justify their hold on power. The latter also includes a focus on the legitimation _rhetoric_ which these leaders, regardless of the specific strategy they rely on to remain in power, deploy to try to justify their rule or some specific democratic norm violations.
+#### Authoritarianism in Africa
+Post-doc project (Assegno Tipo A) on authoritarian resilience and resurgence in Africa, with a focus on their external dimension. More in detail, this research encompasses the investigation of how extra-regional actors/factors influence the domestic politics and policies of autocratic regimes, the analysis of resistance phenomena to different autocratization processes in Africa (primarily coups and term limits violations), as well as the legitimation strategies deployed by autocratizing or already-authoritarian leaders to consolidate and justify their hold on power. The latter also includes a focus on the legitimation _rhetoric_ which these leaders, regardless of the specific strategy they rely on to remain in power, deploy to try to justify their rule or some specific democratic norm violations.
 
 #### Sanctions, primarily in Africa and by its regional organizations
-In my PhD research I examined international sanctions and the domestic institutional constraints shaping sanctions effectiveness. Focusing on the African continent, I am now developing a new dataset (and related research) on sanctions in Africa, which includes measures imposed both by regional and extra-regional actors. Under this project, I am also going back to the original black-knights sanctions literature to reassess the effects of third parties' sanction-busting activities in Africa.
+Research on sanctions in Africa, which includes measures imposed both by regional and extra-regional actors. This research also entails going back to the original black-knights sanctions literature to reassess the effects of third parties' sanction-busting activities in Africa.
 
 
 ### Previous projects
@@ -27,7 +27,7 @@ In my PhD research I examined international sanctions and the domestic instituti
 Any kind of political regime, whether democratic or autocratic, needs to legitimate its rule. This project focuses on external legitimation processes. It does so also by collecting original data on states' diplomatic outreach – of which high-level diplomatic visits (involving HoSGs and MFAs) are the most visible and relevant part.
 
 #### VERSUS ERC project on elite behaviour, leader survival, and conflicts in Africa
-VERSUS was a research project of the University of Sussex (Principal Investigator: Prof. Clionadh Raleigh) supported by the European Research Council (September 2017-August 2022). VERSUS represents a new direction in political, geographic and empirical subnational studies of conflict and governance. It determines how violence erupts from political processes in varied environments and how common internal and external shocks create new trajectories of governance, violence, and potential for political resilience. My contribution mostly focused on the analysis of Ethiopia's political competition and crises after the rise of Abiy Ahmed.
+VERSUS was a research project of the University of Sussex (Principal Investigator: Prof. Clionadh Raleigh) supported by the European Research Council (September 2017-August 2022). VERSUS represents a new direction in political, geographic and empirical subnational studies of conflict and governance. It determines how violence erupts from political processes in varied environments and how common internal and external shocks create new trajectories of governance, violence, and potential for political resilience. My contribution mostly focused on the analysis of Ethiopia's political competition and crises after the rise of Abiy Ahmed Ali.
 
 #### Political regimes in Sub-Saharan Africa
 Research funded by the Department of Social and Political Science of the University of Milan (February-September 2020) on the evolution of political regimes in Sub-Saharan Africa (book project) and on relations between EU and Africa (policy paper), ahead of the sixth summit between the European Union and the African Union.
@@ -43,19 +43,19 @@ Country profiles and analyses for the 2017, 2018, 2019 editions of the Atlante G
 **Corda, T.**, Carbone, G., and Mella, C. (2026). Beyond Recipient Needs and Donor Self-Interests: Third-Kind Relational Drivers of Italy’s Aid Policy in Africa, *Journal of Development Studies* {{< tooltip title="5YIF:2.8(Q2); CiteScore:4.7(Q1)" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 12px; height: 12px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="m11.25 11.25.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9-3.75h.008v.008H12V8.25Z" />
 </svg>{{< /tooltip >}}, online first. DOI:   
-{{< button link="https://doi.org/10.1080/01436597.2026.XXXXXX" >}} 
+{{< button link="https://doi.org/holdonasecond" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244" />
 </svg> DOI 
-{{< /button >}}{{< button link="https://doi.org/xxxxxxxxxx" >}} 
+{{< /button >}}{{< button link="https://www.researchgate.net/publication/holdonasecond" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
 </svg> PDF 
-{{< /button >}}{{< button link="tzcorda.github.io" >}} 
+{{< /button >}}{{< button link="tzcorda.github.io/holdonasecond" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M21 11.25v8.25a1.5 1.5 0 0 1-1.5 1.5H5.25a1.5 1.5 0 0 1-1.5-1.5v-8.25M12 4.875A2.625 2.625 0 1 0 9.375 7.5H12m0-2.625V7.5m0-2.625A2.625 2.625 0 1 1 14.625 7.5H12m0 0V21m-8.625-9.75h18c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125h-18c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z" />
 </svg> PDF•AM 
-{{< /button >}}{{< button link="https://dataverse.org/xxxxxxxxxx" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
+{{< /button >}}{{< button link="https://dataverse.org/holdonasecond" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 6.75 22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3-4.5 16.5" />
 </svg> DATA {{< /button >}}
 {{< spoiler text="Abs" >}}
@@ -70,15 +70,15 @@ As global aid budgets shrink, understanding donor motives behind aid allocation 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244" />
 </svg> DOI 
-{{< /button >}}{{< button link="tzcorda.github.io" >}} 
+{{< /button >}}{{< button link="https://www.researchgate.net/publication/holdonasecond" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
 </svg> PDF 
-{{< /button >}}{{< button link="tzcorda.github.io" >}} 
+{{< /button >}}{{< button link="tzcorda.github.io/holdonasecond" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M21 11.25v8.25a1.5 1.5 0 0 1-1.5 1.5H5.25a1.5 1.5 0 0 1-1.5-1.5v-8.25M12 4.875A2.625 2.625 0 1 0 9.375 7.5H12m0-2.625V7.5m0-2.625A2.625 2.625 0 1 1 14.625 7.5H12m0 0V21m-8.625-9.75h18c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125h-18c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z" />
 </svg> PDF•AM 
-{{< /button >}}{{< button link="https://www.tandfonline.com/doi/suppl/10.1080/01436597.2026.2672508?scroll=top" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
+{{< /button >}}{{< button link="https://www.tandfonline.com/doi/suppl/holdonasecond" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 6.75 22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3-4.5 16.5" />
 </svg> DATA {{< /button >}}
 {{< spoiler text="Abs" >}}
@@ -113,7 +113,7 @@ public engagement with various global actors.
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
 </svg> PDF 
-{{< /button >}}{{< button link="tzcorda.github.io" >}} 
+{{< /button >}}{{< button link="tzcorda.github.io/holdonasecond" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M21 11.25v8.25a1.5 1.5 0 0 1-1.5 1.5H5.25a1.5 1.5 0 0 1-1.5-1.5v-8.25M12 4.875A2.625 2.625 0 1 0 9.375 7.5H12m0-2.625V7.5m0-2.625A2.625 2.625 0 1 1 14.625 7.5H12m0 0V21m-8.625-9.75h18c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125h-18c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z" />
 </svg> PDF•AM 
@@ -307,9 +307,9 @@ This chapter traces the evolution and significance of the presence of the Islami
 
 ### Public engagement
 
-Regarding my non-scientific writings, 30+ policy analyses can be found online, mostly on the websites of ISPI, Treccani, and the Italian Parliament and Ministry of Foreign Affairs.  
+Regarding non-scientific writings, 30+ policy analyses can be found online, mostly on the websites of ISPI, Treccani, and the Italian Parliament and Ministry of Foreign Affairs.  
 
-Dissemination of my work also includes interviews and written contributions to national and international media such as Africa Rivista, Formiche, Huffington Post, Radio24, RaiNews/TGR, al-Monitor, Atlantic Council, O’Globo, Ouagapress, PressTV, RT Russia Today, This Week in Africa, Yomiuri Shimbun.  
+Dissemination also includes interviews and written contributions to national and international media such as Africa Rivista, Formiche, Huffington Post, Radio24, RaiNews/TGR, al-Monitor, Atlantic Council, O’Globo, Ouagapress, PressTV, RT Russia Today, This Week in Africa, Yomiuri Shimbun.  
 
 Once upon a time, I was [Outbound Tamrida](http://tizianacorda.medium.com/)
 
