@@ -16,38 +16,38 @@ share: false
 
 ### Academic teaching
 #### A.Y. 2025/26
-◦ Adj Professor 'Democratization Studies' (3 ECTS, BA, University of Pau{{< tooltip title="Campus de Bayonne" >}} 
+◦ Adj Professor 'Democratization Studies' (20h, 3 ECTS, BA, University of Pau{{< tooltip title="Campus de Bayonne" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 12px; height: 12px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="m11.25 11.25.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9-3.75h.008v.008H12V8.25Z" />
 </svg>{{< /tooltip >}})  
-◦ Adj Professor 'Political Science' (3 ECTS, BA, University of Pau{{< tooltip title="Campus de Bayonne" >}} 
+◦ Adj Professor 'Political Science' (20h, 3 ECTS, BA, University of Pau{{< tooltip title="Campus de Bayonne" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 12px; height: 12px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="m11.25 11.25.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9-3.75h.008v.008H12V8.25Z" />
 </svg>{{< /tooltip >}})  
 ◦ Teaching Assistant 'Political Science' (9 ECTS, BA, University of Milan)
 
 #### A.Y. 2024/25
-◦ Adj Professor 'Sanctions & the Politics of Autocratic Survival'(4 ECTS, BA, Sciences Po Paris{{< tooltip title="Campus de Menton" >}} 
+◦ Adj Professor 'Sanctions & the Politics of Autocratic Survival'(24h, BA, Sciences Po Paris{{< tooltip title="Campus de Menton" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 12px; height: 12px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="m11.25 11.25.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9-3.75h.008v.008H12V8.25Z" />
 </svg>{{< /tooltip >}})  
-◦ Adj Professor 'Political Science' (3 ECTS, BA, University of Pau{{< tooltip title="Campus de Bayonne" >}} 
+◦ Adj Professor 'Political Science' (20h, 3 ECTS, BA, University of Pau{{< tooltip title="Campus de Bayonne" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 12px; height: 12px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="m11.25 11.25.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9-3.75h.008v.008H12V8.25Z" />
 </svg>{{< /tooltip >}})  
 ◦ Teaching Assistant 'Political Science' (9 ECTS, BA, University of Milan)
 
 #### A.Y. 2023/24
-◦ Instructor 'Concepts and Methods in IR' (3 ECTS, MA, University of Milan)  
+◦ Instructor 'Concepts and Methods in IR' (20h, 3 ECTS, MA, University of Milan)  
 ◦ Teaching Assistant 'Political Science' (9 ECTS, BA, University of Milan)
 
 #### A.Y. 2022/23
-◦ Instructor 'Research Methods in IR' (3 ECTS, MA, University of Milan)  
+◦ Instructor 'Research Methods in IR' (20h, 3 ECTS, MA, University of Milan)  
 ◦ Teaching Assistant 'Political Science' (9 ECTS, BA, University of Milan)
 
 #### A.Y. 2021/22
-◦ Instructor 'Authoritarian Regimes Today' (3 ECTS, BA/MA, University of Milan)  
-◦ Instructor 'Research Methods in International Relations' (3 ECTS, MA, University of Milan)  
+◦ Instructor 'Authoritarian Regimes Today' (20h, 3 ECTS, BA/MA, University of Milan)  
+◦ Instructor 'Research Methods in International Relations' (20h, 3 ECTS, MA, University of Milan)  
 ◦ Guest lecturer for the course Politics of Conflict (2 classes, 6 ECTS, BA/MA, Bocconi University, instructor: M. Casiraghi)  
 ◦ ​Teaching Assistant 'Political Science' (9 ECTS, BA, University of Milan)
 
