@@ -28,7 +28,7 @@ This dataset includes information for the visits involving Italian Presidents, P
 Other datasets track more in detail:  
 • the visits of the Italian  Ministers of Foreign Affairs 2000-2010. This dataset was developed by Tiziana Corda with Sofia Barbieri, Robin Bezzina, Matteo Carosotti, Marco Cavallero, Eva Chaffer, Sofia Ciccarelli, Elena De Paoli, Mattia Donati, Matteo Pandiani, Giulia Robecchi, and Sofia Vicentini.{{< line_break >}}
 **Cite as**: ​Corda, T., Barbieri, S., Bezzina, R., Carosotti, M., Cavallero, M., Chaffer, E., Ciccarelli, S., De Paoli, E., Donati, M., Pandiani, M., Robecchi, G., and Vicentini, S. (2023). "Italy's Diplomatic Outreach (Ministers of Foreign Affairs 2000-2010)", **[doi.org/10.7910/DVN/A6GFZT](http://doi.org/10.7910/DVN/A6GFZT)**, Harvard Dataverse.  
-• the visits of the Italian Ministers of Defence 2011-2022. This dataset was developed by Tiziana Corda in collaboration with Valeria Bellotti, Alberto Brusadelli, Yiwei Gao, Andrea Panza, and Andrea Zanoni.  {{< line_break >}}
+• the visits of the Italian Ministers of Defence 2011-2022. This dataset was developed by Tiziana Corda with Valeria Bellotti, Alberto Brusadelli, Yiwei Gao, Andrea Panza, and Andrea Zanoni.  {{< line_break >}}
 **Cite as**: ​Corda, T., Bellotti, V., Brusadelli, A., Gao, Y., Panza, A., and Zanoni, A. (2023). "Italy's Diplomatic Outreach (Ministers of Defence)", **[doi.org/10.7910/DVN/V562U3](http://doi.org/10.7910/DVN/V562U3)**, Harvard Dataverse.
 {{< line_break >}}
 {{< /details >}}  
@@ -42,7 +42,7 @@ This dataset tracks the visits involving HoSG, Ministers, Deputies, Military Rep
 **Cite as**: Corda, T. (2021). "Diplomatic Outreach Dataset v.1.1 (Horn of Africa)", **[doi.org/10.7910/DVN/NFAEVY](http://doi.org/10.7910/DVN/NFAEVY)**, Harvard Dataverse. 
 
 ##### Russia/Ukraine
-The visits of the Foreign Ministers of Russia and Ukraine in 2021-2024 (late May). This dataset was developed by Tiziana Corda in collaboration with Paolo Bassanelli, Pietro Borro, Charles Vallerie Dimitui, Luca Dosso, Fredi Drugman, Kamilla Kizbayeva, Tanan Bayanbat.  
+The visits of the Foreign Ministers of Russia and Ukraine in 2021-2024 (late May). This dataset was developed by Tiziana Corda with Paolo Bassanelli, Pietro Borro, Charles Vallerie Dimitui, Luca Dosso, Fredi Drugman, Kamilla Kizbayeva, Tanan Bayanbat.  
 **Cite as**: Corda, T.; Bassanelli, P.; Borro, P.; Dimitui, C.V.; Dosso, L.; Drugman, F.; Kizbayeva, K.; Bayanbat, T. (2024). "Diplomatic Visits of the Ministers of Foreign Affairs of Russia and Ukraine (2021-2024)", **[doi.org/10.7910/DVN/0HQS45](http://doi.org/10.7910/DVN/0HQS45)**, Harvard Dataverse.
 
 ______
