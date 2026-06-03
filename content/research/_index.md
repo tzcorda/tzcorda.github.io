@@ -74,31 +74,16 @@ As global aid budgets shrink, understanding donor motives behind aid allocation 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
 </svg> PDF 
-{{< /button >}}{{< button link="tzcorda.github.io/holdonasecond" >}} 
+{{< /button >}}{{< button link="tzcorda.github.io/uploads/files/Accepted_Manuscript_TWQ_Corda_Casiraghi_2026.pdf" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M21 11.25v8.25a1.5 1.5 0 0 1-1.5 1.5H5.25a1.5 1.5 0 0 1-1.5-1.5v-8.25M12 4.875A2.625 2.625 0 1 0 9.375 7.5H12m0-2.625V7.5m0-2.625A2.625 2.625 0 1 1 14.625 7.5H12m0 0V21m-8.625-9.75h18c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125h-18c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z" />
 </svg> PDF•AM 
-{{< /button >}}{{< button link="https://www.tandfonline.com/doi/suppl/holdonasecond" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
+{{< /button >}}{{< button link="https://www.tandfonline.com/doi/suppl/10.1080/01436597.2026.2672508?scroll=top" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 6.75 22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3-4.5 16.5" />
 </svg> DATA {{< /button >}}
 {{< spoiler text="Abs" >}}
-All political regimes, even autocracies, require some degree of legitimacy to rule. To this end,
-political leaders employ various legitimation mechanisms. Although most such mechanisms
-are domestic, scholars increasingly acknowledge external processes can also play a role. Yet,
-this external dimension remains under-researched due to data constraints. After outlining
-how leaders’ international engagement contributes to domestic legitimacy and how the
-design of such engagement – particularly the choice of foreign partners – matters, we focus
-on how sovereignist leaders, who rhetorically emphasize self-(re)assertion and national
-autonomy, reconcile this stance with the need for external legitimation. We test our argument
-using original data on all international diplomatic visits made by African leaders in 1990-
-2022, which serves as a proxy for their external legitimation activities. Africa presents a
-highly-relevant context due to its variation in sovereignist discourse and post-colonial foreign
-relations. Our findings reveal that as sovereignist claims intensify, rather than reducing
-external engagement, sovereignist leaders reconfigure their partnerships by increasingly
-distancing themselves from former colonial powers. However, this shift does not indicate a
-broader disengagement from other advanced economies or emerging powers. Instead,
-sovereignist leaders remain aware of the reputational advantages associated with maintaining
-public engagement with various global actors.  
+All political regimes, even autocracies, require some degree of legitimacy to rule. To this end, political leaders employ various legitimation mechanisms. Although most such mechanisms are domestic, scholars increasingly acknowledge external processes can also play a role. Yet, this external dimension remains under-researched due to data constraints. After outlining how leaders’ international engagement contributes to domestic legitimacy and how the
+design of such engagement – particularly the choice of foreign partners – matters, we focus on how sovereignist leaders, who rhetorically emphasize self-(re)assertion and national autonomy, reconcile this stance with the need for external legitimation. We test our argument using original data on all international diplomatic visits made by African leaders in 1990-2022, which serves as a proxy for their external legitimation activities. Africa presents a highly-relevant context due to its variation in sovereignist discourse and post-colonial foreign relations. Our findings reveal that as sovereignist claims intensify, rather than reducing external engagement, sovereignist leaders reconfigure their partnerships by increasingly distancing themselves from former colonial powers. However, this shift does not indicate a broader disengagement from other advanced economies or emerging powers. Instead, sovereignist leaders remain aware of the reputational advantages associated with maintaining public engagement with various global actors.  
 ==Africa== ==external partners== ==legitimation== ==sovereignism== ==visits==
 {{< /spoiler >}}
 
@@ -113,7 +98,7 @@ public engagement with various global actors.
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
 </svg> PDF 
-{{< /button >}}{{< button link="tzcorda.github.io/files/Accepted_Manuscript_Democratization_Corda_Cassani_2026.pdf" >}} 
+{{< /button >}}{{< button link="tzcorda.github.io/uploads/files/Accepted_Manuscript_Democratization_Corda_Cassani_2026.pdf" >}} 
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M21 11.25v8.25a1.5 1.5 0 0 1-1.5 1.5H5.25a1.5 1.5 0 0 1-1.5-1.5v-8.25M12 4.875A2.625 2.625 0 1 0 9.375 7.5H12m0-2.625V7.5m0-2.625A2.625 2.625 0 1 1 14.625 7.5H12m0 0V21m-8.625-9.75h18c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125h-18c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z" />
 </svg> PDF•AM 
