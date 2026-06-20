@@ -110,7 +110,7 @@ With a focus on the autocratization episodes that occurred in Africa during the 
 ==Africa== ==autocratization== ==sanctions== ==democracy aid== ==resistance==
 {{< /spoiler >}}
 
-**Corda, T.** (2026). In-Group We Trust, No More? How Senders’ Legitimacy Shapes the Success of Sanctions-Based Democracy Promotion, *Cooperation and Conflict* {{< tooltip title="5YIF:2.9(Q2); CiteScore:4.2(Q1)" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 12px; height: 12px; vertical-align: baseline; display: inline;">
+**Corda, T.** (2026). In-Group We Trust, No More? How Senders’ Legitimacy Shapes the Success of Sanctions-Based Democracy Promotion, *Cooperation and Conflict* {{< tooltip title="5YIF:3.0(Q1); CiteScore:4.2(Q1)" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width: 12px; height: 12px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="m11.25 11.25.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9-3.75h.008v.008H12V8.25Z" />
 </svg>{{< /tooltip >}}, *​60*(1), 120-148. DOI: 10.1177/00108367241298929  
 {{< button link="https://doi.org/10.1177/00108367241298929" >}} 
