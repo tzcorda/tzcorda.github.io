@@ -9,7 +9,7 @@ last_name: Corda
 
 # Status emoji (leave '' if prefer empty)
 status:
-  icon: 👣
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
