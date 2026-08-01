@@ -395,3 +395,21 @@ element.style {
   background-color: rgb(23 24 28 / 0.9) !important;
   opacity: 1 !important;
 }
+
+/*to have larget home avatar*/
+.resume-biography .avatar-wrapper {
+  width: auto;
+  height: auto;
+  max-width: 400px;
+}
+
+.resume-biography .avatar {
+  width: 100%;
+  height: auto;
+  max-width: 400px;
+  max-height: none;
+  border-radius: 0;
+  padding: 0;
+  background: none;
+  object-fit: contain;
+}
