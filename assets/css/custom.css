@@ -400,14 +400,14 @@ element.style {
 .resume-biography .avatar-wrapper {
   width: auto;
   height: auto;
-  max-width: 400px;
+  max-width: 100%;
 }
 
 .resume-biography .avatar {
-  width: 100%;
+  width: auto;
   height: auto;
-  max-width: 300px;
-  max-height: none;
+  max-width: 100%;
+  max-height: 300px;
   border-radius: 0;
   padding: 0;
   background: none;
