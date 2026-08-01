@@ -406,7 +406,7 @@ element.style {
 .resume-biography .avatar {
   width: 100%;
   height: auto;
-  max-width: 400px;
+  max-width: 300px;
   max-height: none;
   border-radius: 0;
   padding: 0;
