@@ -137,6 +137,20 @@
   box-shadow: var(--net-shadow);
   color: var(--net-text);
   font-family: 'Libre Franklin', sans-serif;
+  /* a hover preview lets the pointer through, so a dot underneath it cannot
+     lose the hover and make the card blink */
+  pointer-events: none;
+}
+
+/* once a dot is clicked the card is pinned and its link becomes clickable */
+.constellation-mini .panel.pinned {
+  pointer-events: auto;
+}
+
+/* the script moves the card to the left when the pointer is on the right half */
+.constellation-mini .panel.left {
+  right: auto;
+  left: 16px;
 }
 
 .constellation-mini .panel .ty {

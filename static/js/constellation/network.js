@@ -308,10 +308,20 @@
     document.querySelectorAll(".pedge").forEach(l => l.setAttribute("stroke-opacity", 0.45));
   }
   function restorePinned() {
+    // a pinned card takes clicks (its link works); a hover preview does not
+    panel.classList.toggle("pinned", !!pinned);
     if (!pinned) { hidePanel(); resetEdges(); return; }
     if (pinned.kind === "item") { const it = byId(pinned.id); showItem(it); highlightEdges(it.id); }
     else if (pinned.kind === "proj") { showProj(projByKey(pinned.key)); resetEdges(); }
     else { showHub(PF[pinned.key]); resetEdges(); }
+  }
+
+  /* Put the card on the side opposite the hovered or clicked element, so it
+     never covers what the pointer is on (a covered dot loses the hover, which
+     hides the card, which gives the hover back: the card blinks). */
+  function placePanel(g) {
+    const s = svg.getBoundingClientRect(), r = g.getBoundingClientRect();
+    panel.classList.toggle("left", r.left + r.width / 2 > s.left + s.width / 2);
   }
 
   svg.addEventListener("mouseover", e => {
@@ -321,6 +331,7 @@
     const gp = e.target.closest("g[data-proj]");
     if (!gi && !gh && !gp) return;
     hoverFreeze = true;
+    placePanel(gi || gp || gh);
     if (gi) { const it = byId(gi.dataset.id); highlightEdges(it.id); showItem(it); }
     else if (gp) showProj(projByKey(gp.dataset.proj));
     else showHub(PF[gh.dataset.hub]);
@@ -347,6 +358,7 @@
     } else {
       pinned = null;
     }
+    if (gi || gp || gh) placePanel(gi || gp || gh);
     if (!pinned) hoverFreeze = !!(gi || gh || gp);
     restorePinned();
   });
