@@ -356,8 +356,7 @@
   blurb: >
     Lecture given in the ISPI School's course on the Horn of Africa.
 
-# The five courses below are general or methods courses with no obvious hub,
-# so they sit in the grey Miscellaneous cluster. Assign a hub if you prefer.
+# General and methods courses.
 
 - id: 26
   title: "Political Science"
@@ -387,7 +386,7 @@
   type: teaching
   year: 2023
   year_display: "2023/24"
-  portfolio: [diplomacy, dataset]
+  portfolio: [diplomacy]
   venue: "University of Milan"
   blurb: >
     Instructor. MA course, 20 hours, 3 ECTS.
@@ -398,7 +397,7 @@
   type: teaching
   year: 2022
   year_display: "2021/22-2022/23"
-  portfolio: [diplomacy, dataset]
+  portfolio: [diplomacy]
   venue: "University of Milan"
   blurb: >
     Instructor. MA course, 20 hours, 3 ECTS.
@@ -409,7 +408,7 @@
   type: teaching
   year: 2021
   year_display: "2021/22"
-  portfolio: [diplomacy, dataset]
+  portfolio: [diplomacy]
   venue: "Bocconi University"
   blurb: >
     Guest lecturer for two classes in the course taught by M. Casiraghi.
@@ -572,7 +571,7 @@
   year_display: "2023"
   portfolio: [diplomacy]
   venue: "Harvard Dataverse"
-  coauthors: "with 11 co-authors"
+  coauthors: "11 co-authors"
   blurb: >
     Diplomatic visits of Italian Ministers of Foreign Affairs, 2000-2010.
   url: https://doi.org/10.7910/DVN/A6GFZT
@@ -586,7 +585,7 @@
   year_display: "2023"
   portfolio: [diplomacy]
   venue: "Harvard Dataverse"
-  coauthors: "with 5 co-authors"
+  coauthors: "5 co-authors"
   blurb: >
     Diplomatic visits of Italian Ministers of Defence, 2011-2022.
   url: https://doi.org/10.7910/DVN/V562U3
@@ -600,7 +599,7 @@
   year_display: "2026"
   portfolio: [diplomacy, africa]
   venue: "Harvard Dataverse"
-  coauthors: "with 12 co-authors"
+  coauthors: "12 co-authors"
   blurb: >
     Diplomatic visits involving the Ministers of Foreign Affairs of selected
     African countries, 2010-2022.
@@ -630,13 +629,13 @@
   year_display: "2024"
   portfolio: [diplomacy]
   venue: "Harvard Dataverse"
-  coauthors: "with 7 co-authors"
+  coauthors: "7 co-authors"
   blurb: >
     Diplomatic visits of the Foreign Ministers of Russia and Ukraine, from
     2021 to late May 2024.
   url: https://doi.org/10.7910/DVN/0HQS45
 
-- id: 45
+- id: 47
   title: "Africa's trade by extra-regional partner and sector"
   title_short: "Africa's Trade by Partner and Sector"
   type: dataset
