@@ -167,11 +167,11 @@
     const g = el("g", { "data-hub": h.key, style: "cursor:pointer" }, gHubs);
     el("circle", { cx: h.hub_x, cy: h.hub_y, r: 26, fill: h.color, "fill-opacity": 0.12, stroke: h.color, "stroke-width": 1.5 }, g);
     el("circle", { cx: h.hub_x, cy: h.hub_y, r: 7, fill: h.color }, g);
-    const t = el("text", { x: h.hub_x, y: h.hub_y + 44, "text-anchor": "middle", fill: h.color, style: "font:600 12.5px 'Libre Franklin';letter-spacing:.02em" }, g);
+    const t = el("text", { x: h.hub_x, y: h.hub_y + 44, "text-anchor": "middle", fill: h.color, style: "font:600 12.5px 'Libre Franklin',sans-serif;letter-spacing:.02em" }, g);
     const words = h.title.split(" ");
     el("tspan", { x: h.hub_x, dy: 0 }, t).textContent = words.slice(0, Math.ceil(words.length / 2)).join(" ");
     el("tspan", { x: h.hub_x, dy: 14 }, t).textContent = words.slice(Math.ceil(words.length / 2)).join(" ");
-    el("text", { x: h.hub_x, y: h.hub_y - 34, "text-anchor": "middle", fill: h.color, style: "font:500 10px 'Libre Franklin';letter-spacing:.15em" }, g).textContent = h.num;
+    el("text", { x: h.hub_x, y: h.hub_y - 34, "text-anchor": "middle", fill: h.color, style: "font:500 10px 'Libre Franklin',sans-serif;letter-spacing:.15em" }, g).textContent = h.num;
     el("circle", { cx: h.hub_x, cy: h.hub_y, r: 26, fill: "transparent" }, g);
   });
   DATA.projects.forEach(pr => {
@@ -181,7 +181,7 @@
     el("line", { x1: pr.net_x, y1: pr.net_y, x2: hub.hub_x, y2: hub.hub_y, stroke: c, "stroke-opacity": 0.5, "stroke-width": 1.4 }, g);
     el("circle", { cx: pr.net_x, cy: pr.net_y, r: 11, fill: "none", stroke: c, "stroke-width": 1.5 }, g);
     el("circle", { cx: pr.net_x, cy: pr.net_y, r: 4.5, fill: c }, g);
-    el("text", { x: pr.net_x, y: pr.net_y - 18, "text-anchor": "middle", fill: c, style: "font:500 10.5px 'Libre Franklin';letter-spacing:.08em" }, g).textContent = pr.label;
+    el("text", { x: pr.net_x, y: pr.net_y - 18, "text-anchor": "middle", fill: c, style: "font:500 10.5px 'Libre Franklin',sans-serif;letter-spacing:.08em" }, g).textContent = pr.label;
     el("circle", { cx: pr.net_x, cy: pr.net_y, r: 16, fill: "transparent" }, g);
   });
   const nodeEls = {};
@@ -203,7 +203,7 @@
     });
     el("circle", { cx: MISC.x, cy: MISC.y, r: 14, fill: "#9AAAB9", "fill-opacity": 0.12, stroke: "#9AAAB9", "stroke-width": 1.5 }, gMisc);
     el("circle", { cx: MISC.x, cy: MISC.y, r: 4.5, fill: "#9AAAB9" }, gMisc);
-    el("text", { x: MISC_LABEL.x, y: MISC_LABEL.y, "text-anchor": "middle", fill: "#5E7186", style: "font:600 12.5px 'Libre Franklin';letter-spacing:.02em" }, gMisc)
+    el("text", { x: MISC_LABEL.x, y: MISC_LABEL.y, "text-anchor": "middle", fill: "#5E7186", style: "font:600 12.5px 'Libre Franklin',sans-serif;letter-spacing:.02em" }, gMisc)
       .textContent = "Miscellaneous";
   }
 
@@ -255,10 +255,19 @@
       '<div class="blurb">' + (pr.map_blurb || pr.blurb) + "</div>" +
       '<div class="pf">' + chips + "</div>" + link;
   }
+  /* readable text colour for a card filled with a hub colour: white or near
+     black, whichever contrasts more with that colour */
+  function textOn(hex) {
+    const n = parseInt(hex.slice(1), 16);
+    const lin = v => { v /= 255; return v <= 0.03928 ? v / 12.92 : Math.pow((v + 0.055) / 1.055, 2.4); };
+    const L = 0.2126 * lin(n >> 16 & 255) + 0.7152 * lin(n >> 8 & 255) + 0.0722 * lin(n & 255);
+    return 1.05 / (L + 0.05) >= (L + 0.05) / 0.06 ? "#fff" : "#16171A";
+  }
   function showItem(it) {
     panel.style.display = "block";
     panel.classList.remove("hub");
     panel.style.background = "";
+    panel.style.color = "";
     panel.style.borderLeftColor = isWall(it) ? "#9AAAB9" : PF[it.portfolio[0]].color;
     panel.innerHTML = itemPanelHTML(it);
   }
@@ -266,6 +275,7 @@
     panel.style.display = "block";
     panel.classList.add("hub");
     panel.style.background = h.color;
+    panel.style.color = textOn(h.color);
     panel.style.borderLeftColor = "rgba(255,255,255,.55)";
     panel.innerHTML = hubPanelHTML(h);
   }
@@ -278,6 +288,7 @@
     panel.style.display = "block";
     panel.classList.remove("hub");
     panel.style.background = tint(PF[pr.portfolio].color, 0.87);
+    panel.style.color = "#16171A";
     panel.style.borderLeftColor = PF[pr.portfolio].color;
     panel.innerHTML = projPanelHTML(pr);
   }
@@ -285,6 +296,7 @@
     panel.style.display = "none";
     panel.classList.remove("hub");
     panel.style.background = "";
+    panel.style.color = "";
     panel.style.borderLeftColor = "";
   }
   function highlightEdges(id) {
@@ -339,16 +351,21 @@
     restorePinned();
   });
 
-  const TYPE_GROUPS = {
-    peer: ["academic-peer-review"],
-    wpdp: ["academic-working-paper", "academic-discussion-paper", "academic-file-drawer"],
-    book: ["academic-thesis", "academic-chapter"],
-    pb: ["policy-brief", "report"],
-    oped: ["oped", "essay"],
-    teach: ["teaching"],
-    pos: ["project-position"]
-  };
-  const chipDefs = [["all", "All"], ["peer", "Journal articles"], ["wpdp", "Working & discussion papers"], ["book", "Books & book chapters"], ["pb", "Policy briefs & reports"], ["oped", "Op-eds & essays"], ["teach", "Teaching"], ["pos", "Project positions"], ["ds", "Datasets"]];
+  /* Buttons in the top row, in this order: [key, label, [types]].
+     Edit this list to choose which buttons appear. Every item whose type is
+     not listed in any of them is shown by the "Other" button; set OTHER_LABEL
+     to "" to drop that button. */
+  const TYPE_CHIPS = [
+    ["peer", "Journal articles", ["academic-peer-review"]],
+    ["teach", "Teaching", ["teaching"]],
+    ["pos", "Project positions", ["project-position"]]
+  ];
+  const OTHER_LABEL = "Other";
+  const TYPE_GROUPS = {};
+  const NAMED_TYPES = new Set();
+  TYPE_CHIPS.forEach(([k, , types]) => { TYPE_GROUPS[k] = types; types.forEach(t => NAMED_TYPES.add(t)); });
+  const chipDefs = [["all", "All"]].concat(TYPE_CHIPS.map(([k, l]) => [k, l]));
+  if (OTHER_LABEL) chipDefs.push(["other", OTHER_LABEL]);
   const chipsEl = document.getElementById("chips");
   const typeRow = document.createElement("div");
   typeRow.className = "chip-row";
@@ -357,7 +374,7 @@
   const pfRow = document.createElement("div");
   pfRow.className = "chip-row";
   chipsEl.appendChild(typeRow);
-  chipsEl.appendChild(methodRow);
+  if (METHODS.length) chipsEl.appendChild(methodRow);
   chipsEl.appendChild(pfRow);
   chipDefs.forEach(([k, l], i) => {
     const b = document.createElement("button");
@@ -394,7 +411,7 @@
     document.querySelectorAll("g[data-id]").forEach(g => {
       const it = byId(g.dataset.id);
       let show = true;
-      if (active.k) show = active.k === "ds" ? !!it.dataset : TYPE_GROUPS[active.k].includes(it.type);
+      if (active.k) show = active.k === "other" ? !NAMED_TYPES.has(it.type) : TYPE_GROUPS[active.k].includes(it.type);
       if (show && active.m) show = (it.methods || []).includes(active.m);
       if (show && pf) show = !isWall(it) && it.portfolio.includes(pf);
       if (show && isWall(it)) wallShown = true;

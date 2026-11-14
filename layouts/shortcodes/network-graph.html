@@ -6,11 +6,13 @@
 */}}
 
 <div class="constellation-mini">
+  <div class="net-title">At a glance</div>
   <div id="chips" class="chips"></div>
   <div class="net-wrap">
     <svg id="net" viewBox="90 40 930 535" preserveAspectRatio="xMidYMid meet" data-pf-href="#"></svg>
     <div id="panel" class="panel" style="display:none;"></div>
   </div>
+  <div class="net-credit">Visual layout emulating Semuhi's <a href="https://semuhi.github.io/" target="_blank" rel="noopener">semuhi.github.io</a></div>
 </div>
 
 <script type="application/json" id="c-data">
@@ -40,5 +42,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;500;600;700&display=swap" rel="stylesheet">
 
-<link rel="stylesheet" href="{{ "css/constellation.css" | relURL }}">
-<script src="{{ "js/constellation/network.js" | relURL }}" defer></script>
+{{/* ?v= makes browsers fetch the new files instead of a cached copy:
+     raise the number whenever constellation.css or network.js changes */}}
+<link rel="stylesheet" href="{{ "css/constellation.css" | relURL }}?v=2">
+<script src="{{ "js/constellation/network.js" | relURL }}?v=2" defer></script>
