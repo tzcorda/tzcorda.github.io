@@ -234,17 +234,17 @@
   }
   function hubPanelHTML(h) {
     const n = ITEMS.filter(i => !isWall(i) && i.portfolio.includes(h.key)).length;
-    return '<div class="ty">Portfolio ' + h.num + " &middot; " + n + " outputs</div>" +
+    return '<div class="ty">Research area ' + h.num + " &middot; " + n + " outputs</div>" +
       "<h3>" + h.title + "</h3>" +
       '<div class="blurb">' + h.blurb + "</div>" +
       (h.anchor ? '<div class="anchor">' + h.anchor + "</div>" : "") +
-      '<a class="go" href="' + pfHref(h.key) + '">Open portfolio &rarr;</a>';
+      '<a class="go" href="' + pfHref(h.key) + '">Go to Research areas &rarr;</a>';
   }
   function projPanelHTML(pr) {
     const h = PF[pr.portfolio];
     const link = pr.url
       ? '<a class="go" href="' + escAttr(pr.url) + '" target="_blank" rel="noopener">Open &rarr;</a>'
-      : '<a class="go" href="' + pfHref(pr.portfolio) + '">Open portfolio &rarr;</a>';
+      : '<a class="go" href="' + pfHref(pr.portfolio) + '">Go to Research areas &rarr;</a>';
     const mhost = pr.map_host || ((pr.host && pr.host !== "Your Org") ? pr.host : "");
     const venue = mhost ? '<div class="venue">' + mhost + "</div>" : "";
     const chips = [pr.portfolio].concat(pr.also || [])

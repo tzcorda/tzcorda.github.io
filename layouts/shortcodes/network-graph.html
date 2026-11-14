@@ -9,7 +9,7 @@
   <div class="net-title">At a glance</div>
   <div id="chips" class="chips"></div>
   <div class="net-wrap">
-    <svg id="net" viewBox="90 40 930 535" preserveAspectRatio="xMidYMid meet" data-pf-href="#"></svg>
+    <svg id="net" viewBox="90 40 930 535" preserveAspectRatio="xMidYMid meet" data-pf-href="{{ "research/" | relURL }}"></svg>
     <div id="panel" class="panel" style="display:none;"></div>
   </div>
   <div class="net-credit">Visual layout emulating Semuhi's <a href="https://semuhi.github.io/" target="_blank" rel="noopener">semuhi.github.io</a></div>
@@ -44,5 +44,5 @@
 
 {{/* ?v= makes browsers fetch the new files instead of a cached copy:
      raise the number whenever constellation.css or network.js changes */}}
-<link rel="stylesheet" href="{{ "css/constellation.css" | relURL }}?v=2">
-<script src="{{ "js/constellation/network.js" | relURL }}?v=2" defer></script>
+<link rel="stylesheet" href="{{ "css/constellation.css" | relURL }}?v=3">
+<script src="{{ "js/constellation/network.js" | relURL }}?v=3" defer></script>
