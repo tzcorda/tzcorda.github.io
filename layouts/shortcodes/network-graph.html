@@ -1,0 +1,44 @@
+{{/*
+  Self-contained network graph box. Reads data/network/items.yaml and
+  data/network/portfolios.yaml, serializes them to JSON, and renders the
+  svg/panel/legend markup that static/js/constellation/network.js draws into.
+  Usage: put {{< network-graph >}} anywhere in a page's markdown content.
+*/}}
+
+<div class="constellation-mini">
+  <div id="chips" class="chips"></div>
+  <div class="net-wrap">
+    <svg id="net" viewBox="0 0 1200 660" preserveAspectRatio="xMidYMid meet" data-pf-href="#"></svg>
+    <div id="panel" class="panel" style="display:none;"></div>
+  </div>
+</div>
+
+<script type="application/json" id="c-data">
+{{ (dict
+  "items" .Site.Data.network.items
+  "portfolios" .Site.Data.network.portfolios
+  "projects" slice
+  "methods" slice
+  "typeLabels" (dict
+    "academic-peer-review" "Journal article"
+    "academic-working-paper" "Working paper"
+    "academic-discussion-paper" "Discussion paper"
+    "academic-thesis" "Thesis"
+    "academic-chapter" "Book chapter"
+    "policy-brief" "Policy brief"
+    "report" "Report"
+    "oped" "Op-ed"
+    "essay" "Essay"
+    "teaching" "Teaching"
+    "project-position" "Project position"
+    "dataset" "Dataset"
+  )
+) | jsonify }}
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="{{ "css/constellation.css" | relURL }}">
+<script src="{{ "js/constellation/network.js" | relURL }}" defer></script>

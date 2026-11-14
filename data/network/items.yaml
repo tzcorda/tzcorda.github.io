@@ -1,0 +1,652 @@
+# Each entry is one small node. Required: id, title, type, blurb, portfolio
+# (array of hub keys from portfolios.yaml — use [] for an unaffiliated item).
+# `type` must have a matching entry in the typeLabels dict inside the
+# network-graph.html shortcode.
+#
+# Hub keys used here: africa, pressure, authoritarianism, diplomacy, attitudes.
+# The first key in each `portfolio` list sets the node's color.
+# Source: https://tzcorda.github.io/research/ (read 14 November 2026).
+
+# ---------- journal articles ----------
+
+- id: 1
+  title: "Beyond Recipient Needs and Donor Self-Interests: Third-Kind Relational Drivers of Italy's Aid Policy in Africa"
+  title_short: "Relational Drivers of Italy's Aid in Africa"
+  type: academic-peer-review
+  year: 2026
+  year_display: "2026"
+  portfolio: [diplomacy, africa]
+  venue: "Journal of Development Studies"
+  coauthors: "G. Carbone and C. Mella"
+  blurb: >
+    Tests relational drivers of Italy's bilateral aid to African countries.
+    Italy gives more where donor competition is high, especially in large aid
+    markets, and to countries whose leaders make high-level visits to Rome.
+  url: https://doi.org/10.1080/00220388.2026.2689337
+
+- id: 2
+  title: "Even sovereignist rulers need foreign friends: how political leaders in Africa design external engagement for domestic legitimacy"
+  title_short: "Even Sovereignist Rulers Need Foreign Friends"
+  type: academic-peer-review
+  year: 2026
+  year_display: "2026"
+  portfolio: [diplomacy, authoritarianism, africa]
+  venue: "Third World Quarterly"
+  coauthors: "M. Casiraghi"
+  blurb: >
+    Uses original data on African leaders' diplomatic visits in 1990-2022 to
+    show that sovereignist leaders do not cut external engagement. They move
+    away from former colonial powers while keeping ties with other advanced
+    economies and emerging powers.
+  url: https://doi.org/10.1080/01436597.2026.2672508
+
+- id: 3
+  title: "Countering autocratization from the outside: evidence from Africa"
+  title_short: "Countering Autocratization from the Outside"
+  type: academic-peer-review
+  year: 2026
+  year_display: "2026"
+  portfolio: [pressure, authoritarianism, africa]
+  venue: "Democratization"
+  coauthors: "A. Cassani"
+  blurb: >
+    Examines autocratization episodes in Africa in 2000-2023 and finds that
+    external actors help counter them when democracy sanctions come with
+    substantial increases in democracy aid.
+  url: https://doi.org/10.1080/13510347.2026.2640037
+
+- id: 4
+  title: "In-Group We Trust, No More? How Senders' Legitimacy Shapes the Success of Sanctions-Based Democracy Promotion"
+  title_short: "In-Group We Trust, No More?"
+  type: academic-peer-review
+  year: 2026
+  year_display: "2026"
+  portfolio: [pressure, africa]
+  venue: "Cooperation and Conflict"
+  blurb: >
+    Compares democracy sanctions by regional and extra-regional senders in
+    Africa since the 1990s. Sanctions involving regional organizations succeed
+    more often, but in-group legitimacy can erode and rarely brings democratic
+    deepening.
+  url: https://doi.org/10.1177/00108367241298929
+
+- id: 5
+  title: "The party politics of diplomatic engagements: Evidence from Italy"
+  title_short: "Party Politics of Diplomatic Engagements"
+  type: academic-peer-review
+  year: 2025
+  year_display: "2025"
+  portfolio: [diplomacy]
+  venue: "Italian Political Science Review"
+  coauthors: "M. Casiraghi"
+  blurb: >
+    Uses a new dataset of Italy's high-level bilateral visits in 2000-2023 to
+    show that partisanship shapes how often governments engage abroad and with
+    whom. Right-wing governments are more likely to engage authoritarian
+    regimes than democracies.
+  url: https://doi.org/10.1017/ipo.2024.30
+
+- id: 6
+  title: "For things to remain the same, how many things have to change? Elite continuity and change after leadership changes"
+  title_short: "Elite Continuity and Change after Leadership Changes"
+  type: academic-peer-review
+  year: 2023
+  year_display: "2023"
+  portfolio: [authoritarianism, africa]
+  venue: "Democratization"
+  blurb: >
+    Uses original data on African cabinets to study how leaders who take
+    office through neither elections nor violence reshape their elites. A
+    comparison of Ethiopia and Zimbabwe shows how the timing and sequencing of
+    these changes affect leadership stability.
+  url: https://doi.org/10.1080/13510347.2023.2189699
+
+- id: 7
+  title: "Constraining compliance? Reconsidering the effect of domestic veto players on sanctions success"
+  title_short: "Veto Players and Sanctions Success"
+  type: academic-peer-review
+  year: 2023
+  year_display: "2023"
+  portfolio: [pressure]
+  venue: "Defence and Peace Economics"
+  blurb: >
+    Argues that diverging policy preferences among a target country's veto
+    players hinder compliance with sanctions. A reassessment with Tsebelis'
+    policy-area-specific veto player data confirms this negative effect.
+  url: https://doi.org/10.1080/10242694.2022.2158288
+
+- id: 8
+  title: "Recovering Regional Power: The Islamic Republic under Rouhani's Presidency"
+  title_short: "Iran under Rouhani's Presidency"
+  type: academic-peer-review
+  year: 2016
+  year_display: "2016"
+  portfolio: [pressure, diplomacy]
+  venue: "Il Politico: Rivista Italiana di Scienze Politiche"
+  blurb: >
+    On Iran's attempt to recover regional power under Rouhani's presidency,
+    against the backdrop of economic sanctions and the nuclear negotiations.
+  url: https://doi.org/10.1400/256134
+
+# ---------- book chapters ----------
+
+- id: 9
+  title: "Mali"
+  title_short: "Mali"
+  type: academic-chapter
+  year: 2025
+  year_display: "2025"
+  portfolio: [pressure, africa]
+  venue: "Elgar Encyclopedia of International Sanctions (Edward Elgar)"
+  blurb: >
+    Encyclopedia entry on the sanctions imposed on Mali, including the United
+    Nations regime linked to the peace agreement.
+  url: https://www.elgaronline.com/display/book/9781035339532/chapter39.xml
+
+- id: 10
+  title: "Not one and the same. A comparison of China's, Europe's, and other extra-regional powers' economic relations with Africa"
+  title_short: "China, Europe and Africa: Not One and the Same"
+  type: academic-chapter
+  year: 2025
+  year_display: "2025"
+  portfolio: [africa]
+  venue: "Palgrave Handbook on China-Europe-Africa Relations (Palgrave Macmillan)"
+  blurb: >
+    Compares Africa's trade, aid and investment ties with China, the European
+    Union and other extra-regional powers over the past two decades, and
+    considers room for trilateral cooperation.
+  url: https://link.springer.com/chapter/10.1007/978-981-97-5640-7_43
+
+- id: 11
+  title: "Democratic Sanctions in Africa. A Reassessment of their Selective and Inconsistent Use across Multiple Senders"
+  title_short: "Democratic Sanctions in Africa"
+  type: academic-chapter
+  year: 2024
+  year_display: "2024"
+  portfolio: [pressure, africa]
+  venue: "International Sanctions in Practice (Routledge)"
+  blurb: >
+    Reviews all democratic sanctions imposed in Africa by regional and
+    extra-regional actors since the 1990s, showing how selectively senders use
+    them and why recent applications have been inconsistent.
+  url: https://www.routledge.com/International-Sanctions-in-Practice-An-Interdisciplinary-Perspective/Bultrini-Giumelli-Portela-Sossai/p/book/9781032481302
+
+- id: 12
+  title: "Sub-Saharan Africa"
+  title_short: "Autocratization in Sub-Saharan Africa"
+  type: academic-chapter
+  year: 2024
+  year_display: "2024"
+  portfolio: [authoritarianism, africa]
+  venue: "Routledge Handbook of Autocratization (Routledge)"
+  coauthors: "A. Cassani and G. Carbone"
+  blurb: >
+    Identifies term limit manipulation and military takeovers as the two main
+    contemporary patterns of autocratization in sub-Saharan Africa, and
+    discusses the role of external actors, development and public opinion.
+  url: https://doi.org/10.4324/9781003306900-43
+
+- id: 13
+  title: "Not All Plain Sailing: The Highs and Lows of Iran's Scramble for the Horn of Africa"
+  title_short: "Iran's Scramble for the Horn of Africa"
+  type: academic-chapter
+  year: 2021
+  year_display: "2021"
+  portfolio: [diplomacy, africa]
+  venue: "The Geopolitics of Iran (Palgrave Macmillan)"
+  blurb: >
+    Traces Iran's presence in the Horn of Africa across political support,
+    military interactions, economic relations and soft power, and the global,
+    regional and domestic factors behind it.
+  url: https://doi.org/10.1007/978-981-16-3564-9_19
+
+# ---------- policy reports ----------
+
+- id: 14
+  title: "Le sanzioni in Africa [Sanctions in Africa]"
+  title_short: "Le sanzioni in Africa"
+  type: report
+  year: 2024
+  year_display: "2024"
+  portfolio: [pressure, africa]
+  venue: "Senato della Repubblica, Osservatorio di Politica Internazionale"
+  blurb: >
+    Policy report on sanctions in Africa for the Italian Senate's Osservatorio
+    di Politica Internazionale (in Italian).
+
+- id: 17
+  title: "The Reconfiguration of Power Dynamics in the Wider Eastern Africa"
+  title_short: "Power Dynamics in the Wider Eastern Africa"
+  type: report
+  year: 2022
+  year_display: "2022"
+  portfolio: [africa]
+  venue: "Sharq Forum Research Centre, Analysis Paper"
+  blurb: >
+    Analysis paper on shifting power dynamics in the wider Eastern Africa
+    region.
+
+- id: 19
+  title: "Global Players in Africa. A Focus on Country-Continent Conferences"
+  title_short: "Global Players in Africa"
+  type: report
+  year: 2018
+  year_display: "2018"
+  portfolio: [diplomacy, africa]
+  venue: "Italian Ministry of Foreign Affairs and International Cooperation"
+  blurb: >
+    Paper commissioned for the second Italy-Africa Ministerial Conference, on
+    the country-continent conferences that global players hold with Africa.
+  url: http://dx.doi.org/10.2139/ssrn.3944173
+
+- id: 20
+  title: "Cooperazione e competizione degli attori internazionali nel Corno d'Africa"
+  title_short: "International Actors in the Horn of Africa"
+  type: report
+  year: 2018
+  year_display: "2018"
+  portfolio: [africa]
+  venue: "Osservatorio di Politica Internazionale del Parlamento Italiano, No. 141"
+  blurb: >
+    Co-authored report for the Italian Parliament on cooperation and
+    competition among international actors in the Horn of Africa (in Italian).
+
+# ---------- book reviews ----------
+# typed as `essay` because the shortcode has no book-review label; the kicker
+# replaces the type label on the card and carries the journal name
+
+- id: 15
+  title: "Conflitti consensuali. I partiti italiani e gli interventi militari"
+  title_short: "Review: Conflitti consensuali"
+  type: essay
+  year: 2023
+  year_display: "2023"
+  portfolio: [diplomacy]
+  kicker: "Book review · Italian Political Science Review"
+  blurb: >
+    Review of Valerio Vignoli's book on Italian parties and military
+    interventions (Il Mulino, 2022).
+  url: https://doi.org/10.1017/ipo.2023.23
+
+- id: 16
+  title: "Sanctions, Multilateralism, and the Legacy of Margaret Doxey"
+  title_short: "Review: The Legacy of Margaret Doxey"
+  type: essay
+  year: 2023
+  year_display: "2023"
+  portfolio: [pressure]
+  kicker: "Book review · The International Spectator"
+  blurb: >
+    Review of Multilateral Sanctions Revisited: Lessons Learned from Margaret
+    Doxey, edited by Andrea Charron and Clara Portela.
+  url: https://doi.org/10.1080/03932729.2023.2225379
+
+- id: 18
+  title: "Ankara's Africa Policy: An Overview"
+  title_short: "Review: Ankara's Africa Policy"
+  type: essay
+  year: 2021
+  year_display: "2021"
+  portfolio: [diplomacy, africa]
+  kicker: "Book review · The International Spectator"
+  blurb: >
+    Short review of F. Donelli's book Turkey in Africa.
+  url: https://www.theinternationalspectator.com/post/short-review-ankara-s-africa-policy-an-overview
+
+
+# ---------- teaching ----------
+# Source: https://tzcorda.github.io/teaching/ (read 14 November 2026).
+# One node per course, with the academic years merged. The page gives no
+# course descriptions, so blurbs only state role, level and load.
+# Needs "teaching" in the shortcode's typeLabels dict.
+
+- id: 21
+  title: "Democratization Studies"
+  title_short: "Democratization Studies"
+  type: teaching
+  year: 2026
+  year_display: "2025/26-2026/27"
+  portfolio: [authoritarianism]
+  venue: "University of Pau, Bayonne campus"
+  blurb: >
+    Adjunct professor. BA course, 20 hours, 3 ECTS.
+
+- id: 22
+  title: "Sanctions & the Politics of Autocratic Survival"
+  title_short: "Sanctions & the Politics of Autocratic Survival"
+  type: teaching
+  year: 2024
+  year_display: "2024/25"
+  portfolio: [pressure, authoritarianism]
+  venue: "Sciences Po Paris, Menton campus"
+  blurb: >
+    Adjunct professor. BA course, 24 hours.
+
+- id: 23
+  title: "Authoritarian Regimes Today"
+  title_short: "Authoritarian Regimes Today"
+  type: teaching
+  year: 2021
+  year_display: "2021/22"
+  portfolio: [authoritarianism]
+  venue: "University of Milan"
+  blurb: >
+    Instructor. BA/MA course, 20 hours, 3 ECTS.
+
+- id: 24
+  title: "States, politics, and conflicts in Africa"
+  title_short: "States, Politics, and Conflicts in Africa"
+  type: teaching
+  year: 2024
+  year_display: "2021-2024"
+  portfolio: [africa]
+  venue: "University of Milan, BA in Political Science"
+  blurb: >
+    Lecture given within the BA course in Political Science
+    (taught in Italian).
+
+- id: 25
+  title: "The African Agenda of Gulf Powers: Saudi Arabia and the UAE"
+  title_short: "The African Agenda of Gulf Powers"
+  type: teaching
+  year: 2022
+  year_display: "2020-2022"
+  portfolio: [africa, diplomacy]
+  venue: "ISPI School, Course on the Horn of Africa"
+  blurb: >
+    Lecture given in the ISPI School's course on the Horn of Africa.
+
+# The five courses below are general or methods courses with no obvious hub,
+# so they sit in the grey Miscellaneous cluster. Assign a hub if you prefer.
+
+- id: 26
+  title: "Political Science"
+  title_short: "Political Science (Pau)"
+  type: teaching
+  year: 2025
+  year_display: "2024/25-2025/26"
+  portfolio: [authoritarianism]
+  venue: "University of Pau, Bayonne campus"
+  blurb: >
+    Adjunct professor. BA course, 20 hours, 3 ECTS.
+
+- id: 27
+  title: "Political Science"
+  title_short: "Political Science (Milan)"
+  type: teaching
+  year: 2026
+  year_display: "2021/22-2026/27"
+  portfolio: [authoritarianism]
+  venue: "University of Milan"
+  blurb: >
+    Teaching assistant. BA course, 9 ECTS.
+
+- id: 28
+  title: "Concepts and Methods in IR"
+  title_short: "Concepts and Methods in IR"
+  type: teaching
+  year: 2023
+  year_display: "2023/24"
+  portfolio: [diplomacy, dataset]
+  venue: "University of Milan"
+  blurb: >
+    Instructor. MA course, 20 hours, 3 ECTS.
+
+- id: 29
+  title: "Research Methods in International Relations"
+  title_short: "Research Methods in IR"
+  type: teaching
+  year: 2022
+  year_display: "2021/22-2022/23"
+  portfolio: [diplomacy, dataset]
+  venue: "University of Milan"
+  blurb: >
+    Instructor. MA course, 20 hours, 3 ECTS.
+
+- id: 30
+  title: "Politics of Conflict"
+  title_short: "Politics of Conflict"
+  type: teaching
+  year: 2021
+  year_display: "2021/22"
+  portfolio: [diplomacy, dataset]
+  venue: "Bocconi University"
+  blurb: >
+    Guest lecturer for two classes in the course taught by M. Casiraghi.
+    BA/MA course, 6 ECTS.
+
+# ---------- project positions ----------
+# Source: https://tzcorda.github.io/about/ (read 14 November 2026), with the
+# VERSUS and post-doc descriptions taken from the research page.
+# Needs "project-position" in the shortcode's typeLabels dict.
+
+- id: 31
+  title: "Research Fellow, Department of Social and Political Sciences"
+  title_short: "Research Fellow, University of Milan"
+  type: project-position
+  year: 2026
+  year_display: "2022-2026"
+  portfolio: [authoritarianism, africa, pressure]
+  venue: "University of Milan"
+  blurb: >
+    Post-doc project on authoritarian resilience and resurgence in Africa,
+    with a focus on their external dimension.
+
+- id: 32
+  title: "Associate Research Fellow"
+  title_short: "Associate Research Fellow, ISPI"
+  type: project-position
+  year: 2026
+  year_display: "current"
+  portfolio: [africa]
+  venue: "ISPI"
+  blurb: >
+    Associate Research Fellow at ISPI.
+
+- id: 33
+  title: "Co-chair, Standing Group on Political Regimes"
+  title_short: "Co-chair, SISP Standing Group on Political Regimes"
+  type: project-position
+  year: 2026
+  year_display: "current"
+  portfolio: [authoritarianism]
+  venue: "SISP, Italian Political Science Association"
+  blurb: >
+    Co-chair of the Standing Group on Political Regimes of the Italian
+    Political Science Association.
+
+- id: 36
+  title: "VERSUS: Violence, Elites, and Resilience in States Under Stress"
+  title_short: "VERSUS ERC project"
+  type: project-position
+  year: 2022
+  year_display: "2020-2022"
+  portfolio: [authoritarianism, africa]
+  venue: "University of Sussex, funded by the European Research Council"
+  blurb: >
+    ERC project on elite behaviour, leader survival and conflicts in Africa
+    (PI: Prof. Clionadh Raleigh). Contribution focused on Ethiopia's political
+    competition and crises after the rise of Abiy Ahmed Ali.
+
+- id: 37
+  title: "Policy roles at ISPI, the EEAS and the Scalabrini Centre of Cape Town"
+  title_short: "Policy roles: ISPI, EEAS, Scalabrini Centre"
+  type: project-position
+  year: 2018
+  year_display: "2015-2018"
+  portfolio: [africa, diplomacy]
+  venue: "ISPI Africa Programme, European External Action Service, SCCT"
+  blurb: >
+    Three years on global policy issues across the Africa Programme of ISPI,
+    the EU's European External Action Service and the Scalabrini Centre of
+    Cape Town.
+
+- id: 45
+  title: "Atlante Geopolitico Treccani"
+  title_short: "Atlante Geopolitico Treccani"
+  type: project-position
+  year: 2019
+  year_display: "2017-2019"
+  portfolio: [africa]
+  venue: "ISPI on behalf of Treccani"
+  blurb: >
+    Country profiles and analyses for the 2017, 2018, 2019 editions of the Atlante Geopolitico Treccani.
+
+- id: 46
+  title: "PhD researcher, Network for the Advancement of Social and Political Studies (NASP)"
+  title_short: "PhD researcher, NASP"
+  type: project-position
+  year: 2022
+  year_display: "2018-2022"
+  portfolio: [africa]
+  venue: "Universities of Genoa, Milan, Pavia"
+  blurb: >
+    PhD in Political Studies, with a dissertation on 
+    the internal decision-making processes in countries targeted by international sanctions.
+
+- id: 34
+  title: "Visiting researcher, German Institute of Development and Sustainability (IDOS)"
+  title_short: "Visiting researcher, IDOS"
+  type: project-position
+  year: 2025
+  year_display: "2025"
+  portfolio: [africa, authoritarianism]
+  venue: "German Institute of Development and Sustainability"
+  blurb: >
+    Visiting researcher at IDOS.
+
+- id: 35
+  title: "Visiting researcher, University of Groningen"
+  title_short: "Visiting researcher, Groningen"
+  type: project-position
+  year: 2020
+  year_display: "2020"
+  portfolio: [pressure]
+  venue: "University of Groningen"
+  blurb: >
+    Visiting researcher at the University of Groningen.
+
+- id: 38
+  title: "Researcher, Department of Social and Political Sciences"
+  title_short: "Researcher, University of Milan"
+  type: project-position
+  year: 2026
+  year_display: "current"
+  portfolio: [authoritarianism, africa, pressure, attitudes]
+  venue: "University of Milan"
+  blurb: >
+    Co-lead WP2 of the Horizon project RESISTANCE 
+    (Resisting InterScalar Authoritarian Networks and Coalitions)
+    on citizens' attitudes toward authoritarianism, 
+    with a focus on the role of interscalar factors.
+
+# ---------- datasets ----------
+# Source: https://tzcorda.github.io/data/ (read 14 November 2026).
+# Needs "dataset" in the shortcode's typeLabels dict. `dataset: true` is what
+# the existing "Datasets" legend chip filters on, so keep it on every entry.
+# `related` draws a red dashed line to the publication that uses the data.
+
+- id: 39
+  title: "Italy's Diplomatic Visits"
+  title_short: "Italy's Diplomatic Visits"
+  type: dataset
+  dataset: true
+  year: 2025
+  year_display: "2025"
+  portfolio: [diplomacy]
+  venue: "Harvard Dataverse"
+  coauthors: "M. Casiraghi"
+  related:
+    - id: 5
+  blurb: >
+    Bilateral diplomatic visits involving Italian Presidents, Prime Ministers
+    and Ministers of Foreign Affairs, 2000-2023.
+  url: https://doi.org/10.7910/DVN/CY7Y8Z
+
+- id: 40
+  title: "Italy's Diplomatic Outreach (Ministers of Foreign Affairs 2000-2010)"
+  title_short: "Italy's Diplomatic Outreach: Foreign Ministers"
+  type: dataset
+  dataset: true
+  year: 2023
+  year_display: "2023"
+  portfolio: [diplomacy]
+  venue: "Harvard Dataverse"
+  coauthors: "with 11 co-authors"
+  blurb: >
+    Diplomatic visits of Italian Ministers of Foreign Affairs, 2000-2010.
+  url: https://doi.org/10.7910/DVN/A6GFZT
+
+- id: 41
+  title: "Italy's Diplomatic Outreach (Ministers of Defence)"
+  title_short: "Italy's Diplomatic Outreach: Defence Ministers"
+  type: dataset
+  dataset: true
+  year: 2023
+  year_display: "2023"
+  portfolio: [diplomacy]
+  venue: "Harvard Dataverse"
+  coauthors: "with 5 co-authors"
+  blurb: >
+    Diplomatic visits of Italian Ministers of Defence, 2011-2022.
+  url: https://doi.org/10.7910/DVN/V562U3
+
+- id: 42
+  title: "Africa's Diplomatic Visits (Ministers of Foreign Affairs)"
+  title_short: "Africa's Diplomatic Visits: Foreign Ministers"
+  type: dataset
+  dataset: true
+  year: 2026
+  year_display: "2026"
+  portfolio: [diplomacy, africa]
+  venue: "Harvard Dataverse"
+  coauthors: "with 12 co-authors"
+  blurb: >
+    Diplomatic visits involving the Ministers of Foreign Affairs of selected
+    African countries, 2010-2022.
+  url: https://doi.org/10.7910/DVN/QXOUAR
+
+- id: 43
+  title: "Diplomatic Outreach Dataset v.1.1 (Horn of Africa)"
+  title_short: "Diplomatic Outreach Dataset: Horn of Africa"
+  type: dataset
+  dataset: true
+  year: 2021
+  year_display: "2021"
+  portfolio: [diplomacy, africa]
+  venue: "Harvard Dataverse"
+  blurb: >
+    Diplomatic visits involving the heads of state or government, ministers,
+    deputies and military representatives of Eritrea, Ethiopia and Sudan,
+    from 2018-2019 to the end of 2020.
+  url: https://doi.org/10.7910/DVN/NFAEVY
+
+- id: 44
+  title: "Diplomatic Visits of the Ministers of Foreign Affairs of Russia and Ukraine (2021-2024)"
+  title_short: "Diplomatic Visits: Russia and Ukraine"
+  type: dataset
+  dataset: true
+  year: 2024
+  year_display: "2024"
+  portfolio: [diplomacy]
+  venue: "Harvard Dataverse"
+  coauthors: "with 7 co-authors"
+  blurb: >
+    Diplomatic visits of the Foreign Ministers of Russia and Ukraine, from
+    2021 to late May 2024.
+  url: https://doi.org/10.7910/DVN/0HQS45
+
+- id: 45
+  title: "Africa's trade by extra-regional partner and sector"
+  title_short: "Africa's Trade by Partner and Sector"
+  type: dataset
+  dataset: true
+  year: 2025
+  year_display: "2025"
+  portfolio: [africa]
+  related:
+    - id: 10
+  blurb: >
+    Data behind the Palgrave Handbook chapter comparing extra-regional powers'
+    economic relations with Africa.
+  url: https://tzcorda.github.io/data/#other-data-used-in-publications

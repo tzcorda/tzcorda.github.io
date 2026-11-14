@@ -24,6 +24,9 @@ Now based in Italy. Long ago, also in Brussels, Tehran, and Cape Town.
 
 {{< line_break >}}
 
+{{< network-graph >}}
+
+
 ### CV
 
 {{< details class="my-custom-class" summary="Download CV" open=false altSummary="Click again to close" >}}
