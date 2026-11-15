@@ -3,37 +3,37 @@
 # replaced lime DAEA56 with bordeaux 8F3557 for AU 
 
 - key: africa
-  num: "01"
-  title: African Politics
+  num: "AF"
+  title: African politics
   short: Africa
   color: "#E93F5C"
   hub_x: 260
   hub_y: 180
   blurb: >
-    Work on political and economic development in Africa.
+    Africa's political and economic development.
 
 - key: pressure
-  num: "02"
+  num: "FP"
   title: Sanctions & aid
   short: Pressure
   color: "#FD7546"
   hub_x: 620
   hub_y: 140
   blurb: >
-    Research on foreign pressure, sanctions, and aid.
+    Foreign pressure, primarily sanctions and aid.
 
 - key: authoritarianism
-  num: "03"
-  title: Authoritarianism & Democracy
+  num: "AU"
+  title: Authoritarianism & democracy
   short: Authoritarianism
   color: "#8F3557"
   hub_x: 900
   hub_y: 300
   blurb: >
-    Authoritarian resilience and rhetoric.
+    Transformations of contemporary political regimes, including processes of autocratization and democratization, and resistance to them.
 
 - key: diplomacy
-  num: "04"
+  num: "DE"
   title: Diplomatic exchanges
   short: Diplomacy
   color: "#CABC91"
@@ -43,11 +43,11 @@
     Diplomatic exchanges and visits.
 
 - key: attitudes
-  num: "05"
+  num: "AP"
   title: People's attitudes toward authoritarianism
   short: Attitudes
   color: "#E5C3F4"
   hub_x: 760
   hub_y: 420
   blurb: >
-    Popular support or tolerance of non-democratic practices.
+    Popular support for, or tolerance of, non-democratic practices.

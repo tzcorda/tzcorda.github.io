@@ -131,7 +131,7 @@
     relEdges.push({
       line: el("line", {
         x1: nodes[it.id].x, y1: nodes[it.id].y, x2: nodes[r.id].x, y2: nodes[r.id].y,
-        stroke: "#C0392B", "stroke-opacity": 0.55, "stroke-width": 1.2, "stroke-dasharray": "4 4"
+        stroke: "#C0392B", "stroke-opacity": 0.55, "stroke-width": 1.8, "stroke-dasharray": "0.1 5", "stroke-linecap": "round"
       }, gRel),
       a: it.id, b: r.id
     });
@@ -144,7 +144,7 @@
     relProjEdges.push({
       line: el("line", {
         x1: nodes[it.id].x, y1: nodes[it.id].y, x2: pr.net_x, y2: pr.net_y,
-        stroke: "#C0392B", "stroke-opacity": 0.55, "stroke-width": 1.2, "stroke-dasharray": "4 4"
+        stroke: "#C0392B", "stroke-opacity": 0.55, "stroke-width": 1.8, "stroke-dasharray": "0.1 5", "stroke-linecap": "round"
       }, gRel),
       id: it.id, projpf: pr.portfolio
     });
