@@ -8,7 +8,7 @@
   A colour is written as #RRGGBBAA: the first six characters are the hub
   colour, the last two set how see-through it is (00 = invisible, FF = solid).
   The last line (grey) is used for an abbreviation that is not in the list,
-  so a typo is easy to spot.
+  so a typo is easy to spot. Replaced with lime DAEA566A with bordeaux 8F35576A
 */ -}}
 {{- range $i, $p := .Params -}}
   {{- $abbr := upper $p -}}
@@ -16,7 +16,7 @@
   {{- if eq $abbr "AF" -}}
     <span title="African politics" style="background-color: #E93F5C53; color: #ffffff; border-radius: 3px; padding: 0 2px;">AF</span>
   {{- else if eq $abbr "AU" -}}
-    <span title="Authoritarianism" style="background-color: #DAEA566A; color: #ffffff; border-radius: 3px; padding: 0 2px;">AU</span>
+    <span title="Authoritarianism" style="background-color: #8F35576A; color: #ffffff; border-radius: 3px; padding: 0 2px;">AU</span>
   {{- else if eq $abbr "FP" -}}
     <span title="Foreign pressure" style="background-color: #FD754650; color: #ffffff; border-radius: 3px; padding: 0 2px;">FP</span>
   {{- else if eq $abbr "DE" -}}

@@ -1,5 +1,6 @@
 # Each entry is a hub (a labeled circle) in the network. hub_x/hub_y are
 # coordinates on a 1200x660 canvas — space them out so labels don't overlap.
+# replaced lime DAEA56 with bordeaux 8F3557 for AU 
 
 - key: africa
   num: "01"
@@ -25,7 +26,7 @@
   num: "03"
   title: Authoritarianism & Democracy
   short: Authoritarianism
-  color: "#DAEA56"
+  color: "#8F3557"
   hub_x: 900
   hub_y: 300
   blurb: >
