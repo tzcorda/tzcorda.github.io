@@ -17,7 +17,7 @@ My research spans five connected areas: African politics {{< area AF >}}, on the
 
 ### Current research projects
 #### Autocratic appeal
-Co-lead of WP2 on Ideas: Citizen-level autocratic appeal, part of RESISTANCE (Resisting InterScalar Authoritarian Networks and Coalitions), a three-year project led by the University of Birmingham (PIs: Licia Cianetti and Nic Cheeseman) and funded by the European Commission under Horizon Europe (call HORIZON-CL2-2025-01, 1 September 2026 to 31 August 2029). RESISTANCE aims to investigate and counter the spread of authoritarianism that many countries around the world and in Europe alike have experienced during the first quarter of the twenty-first century, albeit in various forms. These processes do not stop at national borders: authoritarian ideas, practices and technologies circulate through networks that link governments, parties, firms, digital platforms and influencers across local, national and transnational scales. And yet autocratization rarely faces mass rejection. WP2 research conducted by the University of Milan addresses these issues: why are some citizens attracted to authoritarianism or at least open to tolerating non-democratic forms of government and practices, while other resist this “autocratic appeal”? Does exposure to transnational transmission networks shape their views? To answer these questions, we analyse existing public opinion data, run an original survey with an embedded experiment, and carry out ethnographic site-analysis research in Germany and Ghana, together with the University of Birmingham, EUI, Matej Bel, WZB, and Afrobarometer. {{< area PA AU FP AF >}}
+Co-lead of WP2 on Ideas: Citizen-level autocratic appeal, part of [RESISTANCE](https://europeandemocracyhub.epd.eu/resistance/) (Resisting InterScalar Authoritarian Networks and Coalitions), a Horizon Europe project led by the University of Birmingham (PIs: Licia Cianetti and Nic Cheeseman) aiming to investigate and counter the spread of authoritarianism that many countries around the world and in Europe alike have experienced during the first quarter of the twenty-first century, albeit in various forms. These processes do not stop at national borders: authoritarian ideas, practices and technologies circulate through networks that link governments, parties, firms, digital platforms and influencers across local, national and transnational scales. And yet autocratization rarely faces mass rejection. WP2 research, led by the University of Milan, addresses these issues: why are some citizens attracted to authoritarianism or at least open to tolerating non-democratic forms of government and practices, while other resist this “autocratic appeal”? Does exposure to transnational transmission networks shape their views? To answer these questions, we analyse existing public opinion data, run an original survey with an embedded experiment, and carry out ethnographic site-analysis research in Germany and Ghana, together with the University of Birmingham, EUI, Matej Bel, WZB, and Afrobarometer. {{< area PA AU FP AF >}}
 
 #### Authoritarianism in Africa
 Post-doc project (Assegno Tipo A) on authoritarian resilience and resurgence in Africa, with a focus on their external dimension. More in detail, this research encompasses the investigation of how extra-regional actors/factors influence the domestic politics and policies of autocratic regimes, the analysis of resistance phenomena to different autocratization processes in Africa (primarily coups and term limits violations), as well as the legitimation strategies deployed by autocratizing or already-authoritarian leaders to consolidate and justify their hold on power. The latter also includes a focus on the legitimation rhetoric which these leaders, regardless of the specific strategy they rely on to remain in power, deploy to try to justify their rule or some specific democratic norm violations. {{< area AU AF FP >}}
@@ -85,7 +85,7 @@ As global aid budgets shrink, understanding donor motives behind aid allocation 
 </svg> PDF•AM 
 {{< /button >}}{{< button link="https://www.tandfonline.com/doi/suppl/10.1080/01436597.2026.2672508?scroll=top" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 6.75 22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3-4.5 16.5" />
-</svg> DATA {{< /button >}}
+</svg> DATA {{< /button >}} {{< area DE AU AF >}}
 {{< spoiler text="Abs" >}}
 All political regimes, even autocracies, require some degree of legitimacy to rule. To this end, political leaders employ various legitimation mechanisms. Although most such mechanisms are domestic, scholars increasingly acknowledge external processes can also play a role. Yet, this external dimension remains under-researched due to data constraints. After outlining how leaders’ international engagement contributes to domestic legitimacy and how the
 design of such engagement – particularly the choice of foreign partners – matters, we focus on how sovereignist leaders, who rhetorically emphasize self-(re)assertion and national autonomy, reconcile this stance with the need for external legitimation. We test our argument using original data on all international diplomatic visits made by African leaders in 1990-2022, which serves as a proxy for their external legitimation activities. Africa presents a highly-relevant context due to its variation in sovereignist discourse and post-colonial foreign relations. Our findings reveal that as sovereignist claims intensify, rather than reducing external engagement, sovereignist leaders reconfigure their partnerships by increasingly distancing themselves from former colonial powers. However, this shift does not indicate a broader disengagement from other advanced economies or emerging powers. Instead, sovereignist leaders remain aware of the reputational advantages associated with maintaining public engagement with various global actors.  
@@ -109,7 +109,7 @@ design of such engagement – particularly the choice of foreign partners – ma
 </svg> PDF•AM 
 {{< /button >}}{{< button link="https://www.tandfonline.com/doi/suppl/10.1080/13510347.2026.2640037?scroll=top" >}}<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 6.75 22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3-4.5 16.5" />
-</svg> DATA {{< /button >}}
+</svg> DATA {{< /button >}} {{< area FP AU AF >}}
 {{< spoiler text="Abs" >}}
 With a focus on the autocratization episodes that occurred in Africa during the 2000– 2023 period, this article examines how effectively external actors help constrain the unfolding of autocratization. While the recent literature has primarily highlighted how domestic actors can resist autocratization, the role of external actors should not be overlooked, especially in a region such as Africa characterized by a peculiarly high number and variety of external interventions over time. Accordingly, we focus on two main strategies of external protection of democracy– namely, democracy sanctions and democracy aid– and discuss how their combined employment could trap autocratizing elites in between two opposite pressures. From above, as sanctions restrict elites’ access to revenue, and from below, as increased external democracy assistance empowers local democratic actors. To investigate empirically whether and how democracy sanctions and democracy aid interact with each other in countering autocratization, we apply regression methods and conduct a series of sensitivity analyses to confirm the validity of our results. Our findings show that such a combination of tools is an effective way in which external actors can help counter autocratization from abroad, provided that they are genuinely committed to accompany sanctions with substantial aid increases.  
 ==Africa== ==autocratization== ==sanctions== ==democracy aid== ==resistance==
@@ -132,7 +132,7 @@ With a focus on the autocratization episodes that occurred in Africa during the 
 </svg> PDF•AM 
 {{< /button >}}{{< button link="https://doi.org/10.13130/RD_UNIMI/TVHWC3" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 6.75 22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3-4.5 16.5" />
-</svg> DATA {{< /button >}}
+</svg> DATA {{< /button >}} {{< area FP AF >}}
 {{< spoiler text="Abs" >}}
 For decades, pro-democracy states and organizations have been using coercive measures such as sanctions to promote and uphold democratic governance worldwide, yet not always successfully. Recent research has improved our knowledge on such ‘democracy sanctions’, but our understanding of how the different identities of sanctioners shape their success is not complete yet. Focusing on Africa, one of the biggest recipients of such measures but also a primary sender of them especially through the African Union, this article aims to systematically compare how the sanctioning behaviour of regional and extra-regional actors has impacted on the democratic status of the continent since the 1990s. The empirical analysis reconsiders the comparative advantage of regional actors’ legitimacy to explain the likelihood of democracy sanctions success. It shows that ‘in-group’ democracy sanctions in which regional organizations are involved have bigger chances of success than those imposed by higher-capacity yet less-legitimate extra-regional actors only. However, it also shows in-group legitimacy can erode and that cooperation with such local organizations can help contain global democratic erosion, but hardly achieve democratic deepening, due to soft, face-saving compliance criteria and different understandings democracy and its promotion have across the world.  
 ==Africa== ==coups== ==democracy== ==regional organizations== ==sanctions==
@@ -155,7 +155,7 @@ For decades, pro-democracy states and organizations have been using coercive mea
 </svg> PDF•OA 
 {{< /button >}}{{< button link="https://doi.org/10.7910/DVN/CY7Y8Z" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 6.75 22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3-4.5 16.5" />
-</svg> DATA {{< /button >}}
+</svg> DATA {{< /button >}} {{< area DE >}}
 {{< spoiler text="Abs" >}}
 Leaders decide to engage diplomatically with their foreign peers for various reasons but, given their limited time and resources, they have to choose which peers to prioritize. As such, the study of international diplomatic visits helps shed light on a government's foreign policy approach and better understand its priorities in how it conceives and builds foreign relations. While the literature on diplomatic engagements has largely debated its drivers and effects, the role of domestic influences, in particular of party politics, has remained understudied. We address this gap and investigate the party politics of diplomatic engagements leveraging a new dataset on Italy's high-level international bilateral diplomatic visits in 2000–2023. Our findings show that partisan differences influence not only the overall frequency of such engagements, following curvilinear left–right patterns, but also the political regimes that left- and right-wing governments prioritize in such endeavours, exposing the lower importance right-wing parties assign to democratic principles when managing their countries' foreign relations, as these governments are systematically more likely to interact with authoritarian regimes than with democracies.  
 ==autocracy== ==democracy== ==diplomatic visits== ==Italy== ==political ideology==
@@ -178,7 +178,7 @@ Leaders decide to engage diplomatically with their foreign peers for various rea
 </svg> PDF•AM 
 {{< /button >}}{{< button link="https://www.tandfonline.com/doi/suppl/10.1080/13510347.2023.2189699?scroll=top" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 6.75 22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3-4.5 16.5" />
-</svg> DATA {{< /button >}}
+</svg> DATA {{< /button >}} {{< area AU AF >}}
 {{< spoiler text="Abs" >}}
 After leadership changes, how do new leaders recast the composition of their surrounding elites to ensure support and secure their tenure? Using original data on African cabinets, this article contributes to the debate on leaders’ survival with new theoretical inputs and empirical evidence about senior level changes new leaders introduce after assuming office to ensure a longer and more stable tenure. The article concentrates primarily on leaders emerged from an under-theorized and yet frequent type of leadership change, which is neither violent nor electoral, such as after a predecessor’s resignation. Because these leaders lack the authority generally granted, albeit through different means, by electoral and violent takeovers, the article builds on regime cycle frameworks to develop a sequential interpretation of elite management for such hybrid types which is distinct from both violence-born and electoral regimes. The comparative analysis of two recent such cases in Ethiopia and Zimbabwe empirically illustrates how the timing and sequencing of post-change elite management eventually affect leadership stability over time. These findings ultimately reinforce the view that the survival debate needs to dilute its focus on leaders as the organizing principles of regimes, and instead concentrate on wider senior elite coalitions.  
 ==Africa== ==cabinets== ==elites== ==leadership change== ==reshuffles==
@@ -201,7 +201,7 @@ After leadership changes, how do new leaders recast the composition of their sur
 </svg> PDF•AM 
 {{< /button >}}{{< button link="https://www.tandfonline.com/doi/suppl/10.1080/10242694.2022.2158288?scroll=top" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 6.75 22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3-4.5 16.5" />
-</svg> DATA {{< /button >}}
+</svg> DATA {{< /button >}} {{< area FP >}}
 {{< spoiler text="Abs" >}}
 What effect do domestic political and institutional constraints such as veto players have on the success of international sanctions which their countries have been subjected to? Do they facilitate or constrain compliance with them? Although in the literature on sanctions success the role of domestic factors has received extensive attention, a typically public-policy concept such as veto players has remained largely underexplored. The potential of its application to the literature on sanctions was only recently uncovered by sanction scholars who found empirical support for the hypothesis that the larger the size of veto players in a country under sanctions, the higher the probability of compliance. Contrary to their findings, this article theorises a negative causal mechanism whereby a growing divergence in the relevant policy-area preferences of veto players prevents the targeted country from complying with sanctions-related demands. An empirical reassessment of this relationship with George Tsebelis’ original policy-area-specific veto player data confirms this negative effect.  
 ==economic sanctions== ==foreign policy== ==sanctions success== ==political institutions== ==veto players==
@@ -216,7 +216,7 @@ What effect do domestic political and institutional constraints such as veto pla
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
 </svg> PDF 
-{{< /button >}}
+{{< /button >}} {{< area FP DE >}}
 {{< spoiler text="Abs" >}}
 ==economic sanctions== ==geopolitics== ==nuclear deal== ==negotiations== ==Iran==
 {{< /spoiler >}}
@@ -232,7 +232,7 @@ What effect do domestic political and institutional constraints such as veto pla
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
 </svg> PDF 
-{{< /button >}}
+{{< /button >}} {{< area FP AF >}}
 {{< spoiler text="Abs" >}}
 ==Africa== ==Mali== ==sanctions== ==peace agreement== ==united nations==
 {{< /spoiler >}}
@@ -248,7 +248,7 @@ What effect do domestic political and institutional constraints such as veto pla
 </svg> PDF 
 {{< /button >}}{{< button link="/data/#other-data-used-in-publications" >}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 6.75 22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3-4.5 16.5" />
-</svg> DATA {{< /button >}}
+</svg> DATA {{< /button >}} {{< area AF >}}
 {{< spoiler text="Abs" >}}
 This chapter offers a comparative analysis of the economic ties between Africa and extra-regional powers in the areas of trade, aid, and investment, with a view to best capture the past and current impact of each relationship, especially those with China and the European Union, as well as spaces for future trilateral cooperation. Since the early 2000s, an ever-growing number of countries in the world has slowly (re-)awakened to Africa's economic potential. New partnerships have emerged and so has competition. What triggered those partnerships? How did they differ from one another? How can they cooperate with one another? While extant research abounds with analyses of bilateral relations, it conspicuously lacks comparative perspectives as well as considerations on trilateral cooperation. A comparative re-examination of past economic trends, by partner and sector, remains crucial to capture the real extent of the international economic relations between African states and external powers and to anticipate future trajectories. Therefore, looking back at the past two decades with harmonized quantitative data and comparative insights, the chapter sheds light on the actual dimension of China’s economic presence in Africa, the strong and weak points of Africa’s major extra-regional economic partners, and space for future trilateral cooperation.  
 ==Africa== ==China== ==Europe== ==economic trade== ==aid==
@@ -263,7 +263,7 @@ This chapter offers a comparative analysis of the economic ties between Africa a
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
 </svg> PDF 
-{{< /button >}}
+{{< /button >}} {{< area FP AF >}}
 {{< spoiler text="Abs" >}}
 When it comes to sanctions, Africa plays a major, albeit often overlooked, role. Not only is it a primary target of these measures, but it is al- so a primary sender of them. African regimes have been frequently targeted by unilateral as well as multilateral sanctions even since before the latter became in higher demand after the end of the Cold War. Since the early 2000s, they have also become active senders in their own region, as several African region- al organizations began imposing democratic sanctions against local regimes. While such developments have been largely praised, the recently growing in- consistencies in their application at a time of a return of coups and close au- thoritarianism across the continent demand a reassessment of their use. Look- ing at all the democratic sanctions imposed in Africa by regional and extra- regional actors since the 1990s, this chapter aims to examine the factors that influence their imposition in the region, exposing variations in their selective use across senders, and reflecting on the causes of recent inconsistencies.  
 ==Africa== ==sanctions== ==coups== ==democracy== ==elections==
@@ -278,7 +278,7 @@ Cassani, A., Carbone, G., and **Corda, T.** (2024). “Sub-Saharan Africa”, in
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
 </svg> PDF 
-{{< /button >}}
+{{< /button >}} {{< area AU AF >}}
 {{< spoiler text="Abs" >}}
 This chapter focuses on autocratization in sub-Saharan Africa ─ the region encompassing the non-Mediterranean states of the African continent─which we further differentiate in West, Central, Eastern, and Southern Africa. We identify term limit manipulation and military takeover as the two main contemporary patterns of autocratization that characterize the region. We examine these modes of autocratization in light of some of the continent's unresolved issues – e.g., state weakness, conflicts, the politicization of ethnic cleavages, and personal rule – and we highlight the role played by external actors as well as the connections between these processes of political change, development, and public opinion.  
 ==Africa== ==autocratization== ==coups== ==term limits== ==development==
@@ -293,7 +293,7 @@ This chapter focuses on autocratization in sub-Saharan Africa ─ the region enc
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 11px; height: 11px; vertical-align: baseline; display: inline;">
   <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
 </svg> PDF 
-{{< /button >}}
+{{< /button >}} {{< area DE AF >}}
 {{< spoiler text="Abs" >}}
 This chapter traces the evolution and significance of the presence of the Islamic Republic of Iran in the Horn of Africa. Compared to other areas of Iran’s neighbourhood, Tehran’s power projection in this African subregion has largely remained under-researched. Yet, lately, foreign powers’ renewed interest in the Horn following the latter’s growing geostrategic relevance has contributed to reviving the academic debate related to it. By adopting a complex realist theoretical framework, the aim of this chapter is to explore the reasons why the Horn of Africa is a very coveted spot for many foreign powers, including Iran; which objectives have driven Tehran’s policies in that area; and how its élites have tried to pursue them over the past decades. To do so, after a brief overview of the Horn’s inherent value, the chapter first presents the core dimensions of the strategy Iran has devised to meet its interests there. Then, it moves onto the empirical research proper, consisting in a chronological, in-depth analysis of Iran’s actions in the Horn region, across the four main dimensions which constitute its Horn strategy: political support, military interactions, economic relations, and, to a lesser degree than in other African regions, ideological and soft power penetration. The empirical analysis reveals the complex web of global, regional, and domestic factors behind Iran’s Horn policies and the impossibility to separate the dynamics of Iran’s reach towards the Horn from those of its regional and extra-regional competitors.  
 ==Africa== ==Horn== ==Iran== ==foreign relations== ==diplomacy==
@@ -301,19 +301,19 @@ This chapter traces the evolution and significance of the presence of the Islami
 
 #### Book reviews and peer-reviewed policy reports
 
-**Corda, T.** (2024). Le sanzioni in Africa [Sanctions in Africa], Senato della Repubblica, Osservatorio di Politica Internazionale, Serie Mediterraneo Allargato, vol. 6, pp. 109-119.  
+**Corda, T.** (2024). Le sanzioni in Africa [Sanctions in Africa], Senato della Repubblica, Osservatorio di Politica Internazionale, Serie Mediterraneo Allargato, vol. 6, pp. 109-119. {{< area FP AF >}}  
 
-**Corda, T.** (2023). Conflitti consensuali. I partiti italiani e gli interventi militari [Review of the book by Valerio Vignoli, Bologna: Il Mulino, 2022. 232p. €23 paperback, €15.99 e-book]. Italian Political Science Review/Rivista Italiana di Scienza Politica, ahead of print. DOI: 10.1017/ipo.2023.23  
+**Corda, T.** (2023). Conflitti consensuali. I partiti italiani e gli interventi militari [Review of the book by Valerio Vignoli, Bologna: Il Mulino, 2022. 232p. €23 paperback, €15.99 e-book]. Italian Political Science Review/Rivista Italiana di Scienza Politica, ahead of print. DOI: 10.1017/ipo.2023.23 {{< area DE >}}  
 
-**Corda, T.** (2023). Sanctions, Multilateralism, and the Legacy of Margaret Doxey​ [Review of the book Multilateral Sanctions Revisited. Lessons Learned from Margaret Doxey, edited by Andrea Charron and Clara Portela]. International Spectator: Italian Journal of International Affairs, 58(4):169-171. DOI: 10.1080/03932729.2023.2225379  
+**Corda, T.** (2023). Sanctions, Multilateralism, and the Legacy of Margaret Doxey​ [Review of the book Multilateral Sanctions Revisited. Lessons Learned from Margaret Doxey, edited by Andrea Charron and Clara Portela]. International Spectator: Italian Journal of International Affairs, 58(4):169-171. DOI: 10.1080/03932729.2023.2225379 {{< area FP >}}  
 
-**Corda, T.** (2022). The Reconfiguration of Power Dynamics in the Wider Eastern Africa, Sharq Forum Research Centre, Analysis Paper: 1-25.  
+**Corda, T.** (2022). The Reconfiguration of Power Dynamics in the Wider Eastern Africa, Sharq Forum Research Centre, Analysis Paper: 1-25. {{< area AF >}}  
  
-**Corda, T.** (2021). Ankara’s Africa Policy: An Overview [Review of the book Turkey in Africa, by F. Donelli]. International Spectator: Italian Journal of International Affairs. Available online https://www.theinternationalspectator.com/post/short-review-ankara-s-africa-policy-an-overview  
+**Corda, T.** (2021). Ankara’s Africa Policy: An Overview [Review of the book Turkey in Africa, by F. Donelli]. International Spectator: Italian Journal of International Affairs. Available online https://www.theinternationalspectator.com/post/short-review-ankara-s-africa-policy-an-overview {{< area DE AF >}}  
 
-**Corda, T.** (2018). Global Players in Africa. A Focus on Country-Continent Conferences. Italian Ministry of Foreign Affairs and International Cooperation, Paper commissioned for the second Italy-Africa Ministerial Conference: 1-29. http://dx.doi.org/10.2139/ssrn.3944173  
+**Corda, T.** (2018). Global Players in Africa. A Focus on Country-Continent Conferences. Italian Ministry of Foreign Affairs and International Cooperation, Paper commissioned for the second Italy-Africa Ministerial Conference: 1-29. http://dx.doi.org/10.2139/ssrn.3944173 {{< area DE AF >}}  
  
-**Corda, T.**, et al. (2018). Cooperazione e competizione degli attori internazionali nel Corno d’Africa, Italian Parliament, Osservatorio di Politica Internazionale del Parlamento Italiano, No. 141: 1-42.  
+**Corda, T.**, et al. (2018). Cooperazione e competizione degli attori internazionali nel Corno d’Africa, Italian Parliament, Osservatorio di Politica Internazionale del Parlamento Italiano, No. 141: 1-42. {{< area AF >}}  
 
 ### Public engagement
 
@@ -321,8 +321,7 @@ Other 30+ policy analyses can be found online, mostly on the websites of ISPI, T
 
 Dissemination also includes interviews and written contributions to national and international media such as Africa Rivista, Formiche, Huffington Post, Radio24, RaiNews/TGR, al-Monitor, Atlantic Council, O’Globo, Ouagapress, PressTV, RT Russia Today, This Week in Africa, Yomiuri Shimbun.  
 
-Once upon a time, I was [Outbound Tamrida](http://tizianacorda.medium.com/)
-
+Once upon a time, I was [Outbound Tamrida](http://tizianacorda.medium.com/)  
 
 
 
