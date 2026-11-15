@@ -1,11 +1,12 @@
 {{- /*
-  Research-area tags: small highlighted capitals, one per area.
+  Research-area tags: highlighted capitals, one per area.
   Usage, anywhere in a page:   {{< area AU AF >}}
 
-  Same approach as highlight-orange.html (a span with a background colour),
-  with the colours of the hubs in the network graph on the About page
-  (data/network/portfolios.yaml). Each area has its own line below: to change
-  a colour, or the name shown when the mouse rests on a tag, edit that line.
+  Same look as highlight-orange.html: a see-through background colour behind
+  normal text. The colours are those of the hubs in the network graph on the
+  About page (data/network/portfolios.yaml). Each area has its own line below.
+  A colour is written as #RRGGBBAA: the first six characters are the hub
+  colour, the last two set how see-through it is (00 = invisible, FF = solid).
   The last line (grey) is used for an abbreviation that is not in the list,
   so a typo is easy to spot.
 */ -}}
@@ -13,16 +14,16 @@
   {{- $abbr := upper $p -}}
   {{- if $i }} {{ end -}}
   {{- if eq $abbr "AF" -}}
-    <span title="African politics" style="background-color: #E93F5C; color: #16171A; border-radius: 3px; padding: 0 4px; font-size: 0.8em; font-weight: 600; letter-spacing: 0.03em; white-space: nowrap;">AF</span>
+    <span title="African politics" style="background-color: #E93F5C53; border-radius: 3px; padding: 0 2px;">AF</span>
   {{- else if eq $abbr "AU" -}}
-    <span title="Authoritarianism" style="background-color: #DAEA56; color: #16171A; border-radius: 3px; padding: 0 4px; font-size: 0.8em; font-weight: 600; letter-spacing: 0.03em; white-space: nowrap;">AU</span>
+    <span title="Authoritarianism" style="background-color: #DAEA566A; border-radius: 3px; padding: 0 2px;">AU</span>
   {{- else if eq $abbr "FP" -}}
-    <span title="Foreign pressure" style="background-color: #FD7546; color: #16171A; border-radius: 3px; padding: 0 4px; font-size: 0.8em; font-weight: 600; letter-spacing: 0.03em; white-space: nowrap;">FP</span>
+    <span title="Foreign pressure" style="background-color: #FD754650; border-radius: 3px; padding: 0 2px;">FP</span>
   {{- else if eq $abbr "DE" -}}
-    <span title="Diplomatic exchanges" style="background-color: #CABC91; color: #16171A; border-radius: 3px; padding: 0 4px; font-size: 0.8em; font-weight: 600; letter-spacing: 0.03em; white-space: nowrap;">DE</span>
+    <span title="Diplomatic exchanges" style="background-color: #CABC9180; border-radius: 3px; padding: 0 2px;">DE</span>
   {{- else if eq $abbr "PA" -}}
-    <span title="People's attitudes toward authoritarianism" style="background-color: #E5C3F4; color: #16171A; border-radius: 3px; padding: 0 4px; font-size: 0.8em; font-weight: 600; letter-spacing: 0.03em; white-space: nowrap;">PA</span>
+    <span title="People's attitudes toward authoritarianism" style="background-color: #E5C3F480; border-radius: 3px; padding: 0 2px;">PA</span>
   {{- else -}}
-    <span title="Unknown research area" style="background-color: #C9CDD3; color: #16171A; border-radius: 3px; padding: 0 4px; font-size: 0.8em; font-weight: 600; letter-spacing: 0.03em; white-space: nowrap;">{{ $abbr }}</span>
+    <span title="Unknown research area" style="background-color: #9CA3AF66; border-radius: 3px; padding: 0 2px;">{{ $abbr }}</span>
   {{- end -}}
 {{- end -}}
