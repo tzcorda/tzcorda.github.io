@@ -15,7 +15,7 @@
   type: academic-peer-review
   year: 2026
   year_display: "2026"
-  portfolio: [diplomacy, africa]
+  portfolio: [africa, diplomacy, pressure]
   venue: "Journal of Development Studies"
   coauthors: "G. Carbone and C. Mella"
   blurb: >
@@ -46,7 +46,7 @@
   type: academic-peer-review
   year: 2026
   year_display: "2026"
-  portfolio: [pressure, authoritarianism, africa]
+  portfolio: [authoritarianism, pressure, africa]
   venue: "Democratization"
   coauthors: "A. Cassani"
   blurb: >
@@ -339,7 +339,7 @@
   type: teaching
   year: 2024
   year_display: "2021-2024"
-  portfolio: [africa]
+  portfolio: [africa, authoritarianism]
   venue: "University of Milan, BA in Political Science"
   blurb: >
     Lecture given within the BA course in Political Science
@@ -411,7 +411,7 @@
   portfolio: [diplomacy]
   venue: "Bocconi University"
   blurb: >
-    Guest lecturer for two classes in the course taught by M. Casiraghi.
+    Guest lecturer for two classes.
     BA/MA course, 6 ECTS.
 
 # ---------- project positions ----------
@@ -440,7 +440,7 @@
   portfolio: [africa]
   venue: "ISPI"
   blurb: >
-    Associate Research Fellow at ISPI.
+    Associate Research Fellow at ISPI (Africa Programme).
 
 - id: 33
   title: "Co-chair, Standing Group on Political Regimes"
@@ -497,7 +497,7 @@
   type: project-position
   year: 2022
   year_display: "2018-2022"
-  portfolio: [africa]
+  portfolio: [pressure, africa]
   venue: "Universities of Genoa, Milan, Pavia"
   blurb: >
     PhD in Political Studies, with a dissertation on 
@@ -512,7 +512,8 @@
   portfolio: [africa, authoritarianism]
   venue: "German Institute of Development and Sustainability"
   blurb: >
-    Visiting researcher at IDOS.
+    Research on rhetoric autocratic leaders use around democratic norm violations, 
+    hosted by Julia Leininger, Daniel Nowack and Semuhi Sinanoglu.
 
 - id: 35
   title: "Visiting researcher, University of Groningen"
@@ -523,7 +524,7 @@
   portfolio: [pressure]
   venue: "University of Groningen"
   blurb: >
-    Visiting researcher at the University of Groningen.
+    Research on sanctions, under the supervision of Francesco Giumelli.
 
 - id: 38
   title: "Researcher, Department of Social and Political Sciences"
@@ -634,18 +635,3 @@
     Diplomatic visits of the Foreign Ministers of Russia and Ukraine, from
     2021 to late May 2024.
   url: https://doi.org/10.7910/DVN/0HQS45
-
-- id: 47
-  title: "Africa's trade by extra-regional partner and sector"
-  title_short: "Africa's Trade by Partner and Sector"
-  type: dataset
-  dataset: true
-  year: 2025
-  year_display: "2025"
-  portfolio: [africa]
-  related:
-    - id: 10
-  blurb: >
-    Data behind the Palgrave Handbook chapter comparing extra-regional powers'
-    economic relations with Africa.
-  url: https://tzcorda.github.io/data/#other-data-used-in-publications
