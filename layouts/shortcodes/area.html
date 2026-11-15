@@ -14,16 +14,16 @@
   {{- $abbr := upper $p -}}
   {{- if $i }} {{ end -}}
   {{- if eq $abbr "AF" -}}
-    <span title="African politics" style="background-color: #E93F5C53; border-radius: 3px; padding: 0 2px;">AF</span>
+    <span title="African politics" style="background-color: #E93F5C53; color: #ffffff; border-radius: 3px; padding: 0 2px;">AF</span>
   {{- else if eq $abbr "AU" -}}
-    <span title="Authoritarianism" style="background-color: #DAEA566A; border-radius: 3px; padding: 0 2px;">AU</span>
+    <span title="Authoritarianism" style="background-color: #DAEA566A; color: #ffffff; border-radius: 3px; padding: 0 2px;">AU</span>
   {{- else if eq $abbr "FP" -}}
-    <span title="Foreign pressure" style="background-color: #FD754650; border-radius: 3px; padding: 0 2px;">FP</span>
+    <span title="Foreign pressure" style="background-color: #FD754650; color: #ffffff; border-radius: 3px; padding: 0 2px;">FP</span>
   {{- else if eq $abbr "DE" -}}
-    <span title="Diplomatic exchanges" style="background-color: #CABC9180; border-radius: 3px; padding: 0 2px;">DE</span>
+    <span title="Diplomatic exchanges" style="background-color: #CABC9180; color: #ffffff; border-radius: 3px; padding: 0 2px;">DE</span>
   {{- else if eq $abbr "PA" -}}
-    <span title="People's attitudes toward authoritarianism" style="background-color: #E5C3F480; border-radius: 3px; padding: 0 2px;">PA</span>
+    <span title="People's attitudes toward authoritarianism" style="background-color: #E5C3F480; color: #ffffff; border-radius: 3px; padding: 0 2px;">PA</span>
   {{- else -}}
-    <span title="Unknown research area" style="background-color: #9CA3AF66; border-radius: 3px; padding: 0 2px;">{{ $abbr }}</span>
+    <span title="Unknown research area" style="background-color: #9CA3AF66; color: #ffffff; border-radius: 3px; padding: 0 2px;">{{ $abbr }}</span>
   {{- end -}}
 {{- end -}}
