@@ -40,7 +40,7 @@ If your browser does not load the frame, click [here](https://drive.google.com/f
   
 
 ### Address
-{{< highlight-orange >}}Work address{{< /highlight-orange >}} 📍  
+{{< highlight-orange >}}Work address 📍{{< /highlight-orange >}}   
 Tiziana Corda  
 Research Fellow  
 Department of Social and Political Sciences  
