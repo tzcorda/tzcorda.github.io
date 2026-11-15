@@ -70,7 +70,7 @@ share: false
 
 ==November 2026== Invited speaker at **Casa della Cultura**, Milan. Debate on: "Nazionalismo e internazionalismo". Speaker.
 
-==September 2026== **ECPR European Consortium for Political Research**, University of Thessaloniki. **Thessaloniki, Greece**. Paper presented “Speaking democracy while eroding it: drivers and consequences of presidents’ democratic rhetoric around term-limit manipulations“
+==September 2026== **ECPR European Consortium for Political Research**, Jagiellonian University. **Krakow, Poland**. Paper presented “Speaking democracy while eroding it: drivers and consequences of presidents’ democratic rhetoric around term-limit manipulations“
 
 ==September 2026== Convegno 2026 **SISP**–Società Italiana di Scienza Politica. **Trento, Italy**. Paper presented: “Seeking support for power grabs: presidents' rhetoric around term-limit manipulation attempts“
 
@@ -164,6 +164,6 @@ share: false
 
 #### Other academic duties
 ◦ 2023-ong. Co-chair Standing Group on Political Regimes at SISP (Italian Political Science Association)  
-◦ 2023-ong. Representative of postdoc researchers at the Department of Social and Political Sciences, University of Milan  
+◦ 2023-2026. Representative of postdoc researchers at the Department of Social and Political Sciences, University of Milan  
 ◦ 2022-2025. ​Tutor for the Degree in International Politics, Law, Economics (IPLE), University of Milan
 
