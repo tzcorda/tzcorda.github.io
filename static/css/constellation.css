@@ -109,7 +109,8 @@
   display: block;
   width: 100%;
   height: auto;
-  background: var(--net-bg);
+  background: transparent;
+  /* background: var(--net-bg); */ /* restore this if you want the slightly darker background */
   /* border: 1px solid var(--net-border); */
   border-radius: 8px;
 }
