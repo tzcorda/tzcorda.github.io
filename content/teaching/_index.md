@@ -68,6 +68,12 @@ share: false
 
 {{< spoiler text="Full list, including occasional lectures" >}}
 
+==November 2026== Invited speaker at **Casa della Cultura**, Milan. Debate on: "Nazionalismo e internazionalismo". Speaker.
+
+==September 2026== **ECPR European Consortium for Political Research**, University of Thessaloniki. **Thessaloniki, Greece**. Paper presented “Speaking democracy while eroding it: drivers and consequences of presidents’ democratic rhetoric around term-limit manipulations“
+
+==September 2026== Convegno 2026 **SISP**–Società Italiana di Scienza Politica. **Trento, Italy**. Paper presented: “Seeking support for power grabs: presidents' rhetoric around term-limit manipulation attempts“
+
 ==June 2026== **Workshop on Democracy and its erosion**, – co-organised in **Florence, Italy** by SISP and the University Institute. Convenor and chair.
 
 ==April 2026== Invited speaker at **Università Roma Tre**, Rome. Debate on: “Are EU sanctions replacing UN sanctions? Rethinking their role in today's world". Speaker.
