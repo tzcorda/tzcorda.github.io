@@ -2,9 +2,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: /
-    weight: 10
+  #- name: Home (it is a repetition of the site title T Corda now displayed, so I commented it out)
+    #url: /
+    #weight: 10
   - name: About
     url: about/
     weight: 20
