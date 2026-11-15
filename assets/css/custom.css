@@ -362,6 +362,15 @@ details.my-custom-class > :not(summary) {
     font-size: 13px;
 }
 
+/* coloured text (colourbold shortcode): light theme, then dark theme */
+.colour {
+    color: #797979;
+}
+
+.dark .colour {
+    color: #C0C0C0;
+}
+
 /* change links (it will also change name and icons of "authors" section at the bottom of each page)
 
 .prose :where(a):not(:where([class~=not-prose],[class~=not-prose] *)) {
