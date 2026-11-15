@@ -7,7 +7,7 @@
 /* Ensure the site title (brand) is also styled correctly. It now works, keep this font 700 instead of 100 */
 .navbar .navbar-brand {
     font-weight: 700; /* Remove bold font */
-    font-size: 15px; /* Set desired font size for the site title */
+    font-size: 18px !important; /* Set desired font size for the site title */
     order: -10; /* Move the site title before the menu items */
 }
 
