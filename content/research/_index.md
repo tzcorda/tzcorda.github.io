@@ -13,7 +13,7 @@ commentable: false
 show_related: false
 share: false
 ---
-My research spans five connected areas: *African politics* {{< area AF >}}, on the continent's political and economic development; *authoritarianism* {{< area AU >}}, on the transformations of contemporary political regimes, including processes of autocratization and democratization, and resistance to them; *foreign pressure* {{< area FP >}}, on the effects of sanctions and aid on these regime trajectories; *diplomatic exchanges* {{< area DE >}}, on the role of high-level visits; and *people's attitudes toward authoritarianism* {{< area PA >}}, with an emphasis on why some say that they value democracy, but at the same time accept, and even support, concrete actions that erode it.
+My research spans five connected areas: {{< area AF >}} *African politics*, on the continent's political and economic development; {{< area AU >}} *authoritarianism*, on the transformations of contemporary political regimes, including processes of autocratization and democratization, and resistance to them; {{< area FP >}} *foreign pressure*, on the effects of sanctions and aid on these regime trajectories; {{< area DE >}} *diplomatic exchanges*, on the role of high-level visits; and {{< area PA >}} *people's attitudes toward authoritarianism*, with an emphasis on why some say that they value democracy, but at the same time accept, and even support, concrete actions that erode it.
 
 ### Current research projects
 #### Autocratic appeal
