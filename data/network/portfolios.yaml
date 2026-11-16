@@ -43,11 +43,11 @@
     Diplomatic exchanges and visits.
 
 - key: attitudes
-  num: "AP"
-  title: People's attitudes toward authoritarianism
+  num: "PA"
+  title: Public attitudes
   short: Attitudes
   color: "#E5C3F4"
   hub_x: 760
   hub_y: 420
   blurb: >
-    Popular support for, or tolerance of, non-democratic practices.
+    Public attitudes, primarily toward authoritarianism, i.e., people's support for, or tolerance of, non-democratic practices.

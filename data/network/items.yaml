@@ -30,7 +30,7 @@
   type: academic-peer-review
   year: 2026
   year_display: "2026"
-  portfolio: [diplomacy, authoritarianism, africa]
+  portfolio: [authoritarianism, africa, diplomacy]
   venue: "Third World Quarterly"
   coauthors: "M. Casiraghi"
   blurb: >
@@ -76,7 +76,7 @@
   type: academic-peer-review
   year: 2025
   year_display: "2025"
-  portfolio: [diplomacy]
+  portfolio: [diplomacy, authoritarianism]
   venue: "Italian Political Science Review"
   coauthors: "M. Casiraghi"
   blurb: >
@@ -149,7 +149,7 @@
   type: academic-chapter
   year: 2025
   year_display: "2025"
-  portfolio: [africa]
+  portfolio: [africa, pressure]
   venue: "Palgrave Handbook on China-Europe-Africa Relations (Palgrave Macmillan)"
   blurb: >
     Compares Africa's trade, aid and investment ties with China, the European
