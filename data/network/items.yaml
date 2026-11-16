@@ -76,7 +76,7 @@
   type: academic-peer-review
   year: 2025
   year_display: "2025"
-  portfolio: [diplomacy, authoritarianism]
+  portfolio: [authoritarianism, diplomacy]
   venue: "Italian Political Science Review"
   coauthors: "M. Casiraghi"
   blurb: >
@@ -192,7 +192,7 @@
   type: academic-chapter
   year: 2021
   year_display: "2021"
-  portfolio: [diplomacy, africa]
+  portfolio: [africa, diplomacy]
   venue: "The Geopolitics of Iran (Palgrave Macmillan)"
   blurb: >
     Traces Iran's presence in the Horn of Africa across political support,
@@ -232,7 +232,7 @@
   type: report
   year: 2018
   year_display: "2018"
-  portfolio: [diplomacy, africa]
+  portfolio: [africa, diplomacy]
   venue: "Italian Ministry of Foreign Affairs and International Cooperation"
   blurb: >
     Paper commissioned for the second Italy-Africa Ministerial Conference, on
@@ -287,7 +287,7 @@
   type: essay
   year: 2021
   year_display: "2021"
-  portfolio: [diplomacy, africa]
+  portfolio: [africa, diplomacy]
   kicker: "Book review · The International Spectator"
   blurb: >
     Short review of F. Donelli's book Turkey in Africa.
