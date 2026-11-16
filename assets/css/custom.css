@@ -8,7 +8,7 @@
 .navbar .navbar-brand {
     font-weight: 700; /* Remove bold font */
     font-size: 18px !important; /* Set desired font size for the site title */
-    order: -10; /* Move the site title before the menu items */
+    order: 10; /* -10 Move the site title before the menu items */
 }
 
 /* font-weight navbar. Works. */ 
