@@ -24,6 +24,8 @@ My academic journey has also taken me to Sciences Po (2024–2025) and the Unive
 
 {{< line_break >}}
 
+### At a glance
+
 {{< network-graph >}}
 
 

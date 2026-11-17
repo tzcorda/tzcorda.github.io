@@ -3,10 +3,11 @@
   data/network/portfolios.yaml, serializes them to JSON, and renders the
   svg/panel/legend markup that static/js/constellation/network.js draws into.
   Usage: put {{< network-graph >}} anywhere in a page's markdown content.
+  To add a title, put it after net-title
 */}}
 
 <div class="constellation-mini">
-  <div class="net-title">At a glance</div>
+  <div class="net-title"></div>
   <div id="chips" class="chips"></div>
   <div class="net-wrap">
     <svg id="net" viewBox="90 40 930 535" preserveAspectRatio="xMidYMid meet" data-pf-href="{{ "research/" | relURL }}"></svg>
