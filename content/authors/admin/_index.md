@@ -15,7 +15,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Fellow
+role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
